@@ -76,4 +76,11 @@ License: BSD-3-Clause
 Changes: Converted `package://` mesh paths to relative paths.
 
 ### Base Hand
-Copyright © WHATsLAB. All rights reserved.
+
+The base hand model uses anatomical 3D mesh data from **BodyParts3D**.
+
+Copyright © The Database Center for Life Science (DBCLS)  
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)  
+Changes: Mesh scale adjustment, coordinate axis conversion, and URDF rigging for ROS 2 simulation and FK computation.
+
+The overall base_hand package is © WHATsLAB. All rights reserved.
