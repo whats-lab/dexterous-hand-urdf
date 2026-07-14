@@ -1,0 +1,5 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+# 메타데이터/패키지 데이터/ament data_files 는 setup.py 에 둔다 (pip + colcon ament_python 공용).
