@@ -7,7 +7,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_base_unit.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_base_unit.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -18,7 +18,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_base_unit.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_base_unit.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -46,7 +46,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_mcp.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_mcp.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -57,7 +57,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_mcp.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_mcp.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -84,7 +84,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_mcp2.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_mcp2.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -95,7 +95,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_mcp2.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_mcp2.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -122,7 +122,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_ip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_ip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -133,7 +133,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_ip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_ip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -160,7 +160,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_tip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_tip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -171,7 +171,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_tip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_thumb_tip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -215,7 +215,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -226,7 +226,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -253,7 +253,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -264,7 +264,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -291,7 +291,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -302,7 +302,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -329,7 +329,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -340,7 +340,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -384,7 +384,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -395,7 +395,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -422,7 +422,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -433,7 +433,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -460,7 +460,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -471,7 +471,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -498,7 +498,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -509,7 +509,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -553,7 +553,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -564,7 +564,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -591,7 +591,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -602,7 +602,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -629,7 +629,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -640,7 +640,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -667,7 +667,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -678,7 +678,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -722,7 +722,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -733,7 +733,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_mcp.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -760,7 +760,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -771,7 +771,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_pip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -798,7 +798,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -809,7 +809,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_dip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -836,7 +836,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">
@@ -847,7 +847,7 @@
             <origin rpy="0 0 0" xyz="0 0 0" />
             <geometry>
                 <mesh
-                    filename="package://atlas_hand/models/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
+                    filename="package://dexhand_description/robotis_hx5_d20/meshes/hx5_d20_rev2/hx5_d20_left//hx5_d20_finger_tip.stl"
                     scale="0.001 0.001 0.001" />
             </geometry>
             <material name="grey">

@@ -8,7 +8,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/base_link.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/base_link.obj" />
       </geometry>
       <origin rpy="0 0 0" xyz="0 0 0 " />
     </visual>
@@ -47,7 +47,7 @@
   <link name="link_0.0">
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_0.0.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_0.0.obj" />
       </geometry>
     </visual>
     <collision>
@@ -79,7 +79,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_1.0.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_1.0.obj" />
       </geometry>
     </visual>
     <collision>
@@ -105,7 +105,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_2.0.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_2.0.obj" />
       </geometry>
     </visual>
     <collision>
@@ -125,7 +125,7 @@
   <link name="link_3.0">
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_3.0.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_3.0.obj" />
       </geometry>
     </visual>
     <collision>
@@ -156,13 +156,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 -0.012" />
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_tip.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_tip.obj" />
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 -0.012" />
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/collision/link_tip.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/collision/link_tip.obj" />
       </geometry>
     </collision>
   </link>
@@ -179,7 +179,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_0.0.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_0.0.obj" />
       </geometry>
     </visual>
     <collision>
@@ -205,7 +205,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_1.0.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_1.0.obj" />
       </geometry>
     </visual>
     <collision>
@@ -231,7 +231,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_2.0.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_2.0.obj" />
       </geometry>
     </visual>
     <collision>
@@ -257,7 +257,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_3.0.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_3.0.obj" />
       </geometry>
     </visual>
     <collision>
@@ -284,13 +284,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 -0.012" />
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_tip.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_tip.obj" />
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 -0.012" />
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/collision/link_tip.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/collision/link_tip.obj" />
       </geometry>
     </collision>
   </link>
@@ -307,7 +307,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_0.0.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_0.0.obj" />
       </geometry>
     </visual>
     <collision>
@@ -333,7 +333,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_1.0.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_1.0.obj" />
       </geometry>
     </visual>
     <collision>
@@ -359,7 +359,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_2.0.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_2.0.obj" />
       </geometry>
     </visual>
     <collision>
@@ -385,7 +385,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_3.0.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_3.0.obj" />
       </geometry>
     </visual>
     <collision>
@@ -411,13 +411,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 -0.012" />
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_tip.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_tip.obj" />
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 -0.012" />
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/collision/link_tip.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/collision/link_tip.obj" />
       </geometry>
     </collision>
   </link>
@@ -435,7 +435,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_12.0_right.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_12.0_right.obj" />
       </geometry>
     </visual>
     <collision>
@@ -461,7 +461,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_13.0.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_13.0.obj" />
       </geometry>
     </visual>
     <collision>
@@ -487,7 +487,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_14.0.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_14.0.obj" />
       </geometry>
     </visual>
     <collision>
@@ -513,7 +513,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_15.0.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_15.0.obj" />
       </geometry>
     </visual>
     <collision>
@@ -539,13 +539,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 -0.012" />
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/visual/link_tip.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/visual/link_tip.obj" />
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 -0.012" />
       <geometry>
-        <mesh filename="package://atlas_hand/models/allegro_hand/meshes/collision/link_tip.obj" />
+        <mesh filename="package://dexhand_description/allegro_hand/meshes/collision/link_tip.obj" />
       </geometry>
     </collision>
   </link>
