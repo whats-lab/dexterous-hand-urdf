@@ -1,20 +1,20 @@
 <p align="center"><img src="banner.jpg" alt="WHATs LAB" width="100%"></p>
 
-<p align="center"><b>English</b> | <a href="README.ko.md">한국어</a></p>
+<p align="center"><a href="README.md">English</a> | <b>한국어</b></p>
 
 # dexterous-hand-urdf
 
-Curated URDF models for dexterous robot hands, used by the
-[whatslab](https://github.com/whats-lab/whatslab-sdk) teleoperation stack
-([whatslab-ros2](https://github.com/whats-lab/whatslab-ros2)).
+[whatslab](https://github.com/whats-lab/whatslab-sdk) 텔레오퍼레이션 스택
+([whatslab-ros2](https://github.com/whats-lab/whatslab-ros2))에서 사용하는, 다관절
+로봇 손 URDF 모델 모음입니다.
 
-All included models carry commercially-compatible licenses (BSD / MIT / Apache-2.0).
+포함된 모델은 모두 상업 호환 라이선스(BSD / MIT / Apache-2.0)를 따릅니다.
 
 ---
 
-## Included Models
+## 포함 모델
 
-| Directory | Hand | Manufacturer | License | Source |
+| 디렉토리 | 손 | 제조사 | 라이선스 | 출처 |
 |-----------|------|--------------|---------|--------|
 | `base_hand/` | Base Hand | WHATsLAB | Proprietary | Internal |
 | `orca_hand/` | Orca Hand | ETH Zurich SRL | MIT | [orcahand_description](https://github.com/orcahand/orcahand_description) |
@@ -26,9 +26,9 @@ All included models carry commercially-compatible licenses (BSD / MIT / Apache-2
 
 ---
 
-## Directory Layout
+## 디렉토리 구조
 
-Models from **dex-urdf** keep the original layout (URDF at root, `meshes/` alongside):
+**dex-urdf** 계열 모델은 원본 구조를 유지합니다(URDF 루트, `meshes/` 병렬):
 
 ```
 {hand}/
@@ -37,7 +37,7 @@ Models from **dex-urdf** keep the original layout (URDF at root, `meshes/` along
     └── visual/
 ```
 
-**Internal models** (base_hand, orca_hand, robotis_hx5_d20) use a `urdf/` subdirectory:
+**내부 모델**(base_hand, orca_hand, robotis_hx5_d20)은 `urdf/` 하위 디렉토리를 씁니다:
 
 ```
 {hand}/
@@ -49,7 +49,7 @@ Models from **dex-urdf** keep the original layout (URDF at root, `meshes/` along
 
 ---
 
-## Attribution
+## 저작자 표시 (Attribution)
 
 ### Allegro Hand
 Copyright © Wonik Robotics  
@@ -83,7 +83,7 @@ Changes: Converted `package://` mesh paths to relative paths.
 
 ### Base Hand
 
-The base hand model uses anatomical 3D mesh data from **BodyParts3D**.
+base hand 모델은 **BodyParts3D**의 해부학 3D 메쉬 데이터를 사용합니다.
 
 Copyright © The Database Center for Life Science (DBCLS)  
 License: Creative Commons Attribution 4.0 International (CC BY 4.0)  
@@ -93,10 +93,10 @@ The overall base_hand package is © WHATsLAB. All rights reserved.
 
 ---
 
-## License
+## 라이선스
 
-This repository **aggregates third-party hand models, each under its own upstream
-license** (see [Attribution](#attribution) — BSD / MIT / Apache-2.0 / CC BY 4.0). No
-single license is imposed on the collection; every bundled model retains its original
-license and copyright. WHATs LAB's own contributions (packaging, rigging, `base_hand`)
-are © WHATs LAB Corp.
+이 저장소는 **서드파티 손 모델을 각자의 upstream 라이선스 아래 모아 놓은 것**입니다
+([저작자 표시](#저작자-표시-attribution) 참고 — BSD / MIT / Apache-2.0 / CC BY 4.0).
+모음 전체에 단일 라이선스를 부과하지 않으며, 번들된 각 모델은 원래의 라이선스와
+저작권을 그대로 유지합니다. WHATs LAB 자체 기여분(패키징·리깅·`base_hand`)은
+© WHATs LAB Corp.
