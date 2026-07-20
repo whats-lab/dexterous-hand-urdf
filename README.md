@@ -1,6 +1,12 @@
+<p align="center"><img src="banner.jpg" alt="WHATs LAB" width="100%"></p>
+
+<p align="center"><b>English</b> | <a href="README.ko.md">한국어</a></p>
+
 # dexterous-hand-urdf
 
-Curated URDF models for dexterous robot hands, used by [atlas_hand_ROS2](https://github.com/whats-lab/atlas_hand_ROS2).
+Curated URDF models for dexterous robot hands, used by the
+[whatslab](https://github.com/whats-lab/whatslab-sdk) teleoperation stack
+([whatslab-ros2](https://github.com/whats-lab/whatslab-ros2)).
 
 All included models carry commercially-compatible licenses (BSD / MIT / Apache-2.0).
 
@@ -84,3 +90,13 @@ License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 Changes: Mesh scale adjustment, coordinate axis conversion, and URDF rigging for ROS 2 simulation and FK computation.
 
 The overall base_hand package is © WHATsLAB. All rights reserved.
+
+---
+
+## License
+
+This repository **aggregates third-party hand models, each under its own upstream
+license** (see [Attribution](#attribution) — BSD / MIT / Apache-2.0 / CC BY 4.0). No
+single license is imposed on the collection; every bundled model retains its original
+license and copyright. WHATs LAB's own contributions (packaging, rigging, `base_hand`)
+are © WHATs LAB Corp.
