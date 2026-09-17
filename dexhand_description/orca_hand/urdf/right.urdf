@@ -498,4 +498,70 @@
         <child link="T-TIP_OFFSET" />
         <origin xyz="0.0 0.0 0.032" rpy="0.0 0.0 0.0" />
     </joint>
+  <link name="right_sensor_dorsum" />
+  <link name="right_sensor_thumb_distal" />
+  <link name="right_sensor_index_distal" />
+  <link name="right_sensor_middle_distal" />
+  <link name="right_sensor_ring_distal" />
+  <link name="right_sensor_pinky_distal" />
+  <link name="right_sensor_thumb_proximal" />
+  <link name="right_sensor_index_proximal" />
+  <link name="right_sensor_middle_proximal" />
+  <link name="right_sensor_ring_proximal" />
+  <link name="right_sensor_pinky_proximal" />
+  <joint name="right_sensor_dorsum_fixed" type="fixed">
+    <parent link="R-Carpals_8d1f1041" />
+    <child link="right_sensor_dorsum" />
+    <origin xyz="0 0 0" rpy="1.57 0 0" />
+  </joint>
+  <joint name="right_sensor_thumb_distal_fixed" type="fixed">
+    <parent link="T-DP_b7429e50" />
+    <child link="right_sensor_thumb_distal" />
+    <origin xyz="0.004104 -0.00019 0.030238" rpy="1.57 0 1.57" />
+  </joint>
+  <joint name="right_sensor_index_distal_fixed" type="fixed">
+    <parent link="I-FingerTipAssembly_ec49c16c" />
+    <child link="right_sensor_index_distal" />
+    <origin xyz="-0.004946 0.000001 0.045049" rpy="1.00 0 1.57" />
+  </joint>
+  <joint name="right_sensor_middle_distal_fixed" type="fixed">
+    <parent link="M-FingerTipAssembly_34afb748" />
+    <child link="right_sensor_middle_distal" />
+    <origin xyz="-0.004946 0.000001 0.045049" rpy="1.00 0 1.57" />
+  </joint>
+  <joint name="right_sensor_ring_distal_fixed" type="fixed">
+    <parent link="M-FingerTipAssembly_424a8e75" />
+    <child link="right_sensor_ring_distal" />
+    <origin xyz="-0.004946 0.000001 0.045049" rpy="1.00 0 1.57" />
+  </joint>
+  <joint name="right_sensor_pinky_distal_fixed" type="fixed">
+    <parent link="P-FingerTipAssembly_cd219176" />
+    <child link="right_sensor_pinky_distal" />
+    <origin xyz="-0.005452 0.000005 0.038056" rpy="1.00 0 1.57" />
+  </joint>
+  <joint name="right_sensor_thumb_proximal_fixed" type="fixed">
+    <parent link="T-PP_68395e98" />
+    <child link="right_sensor_thumb_proximal" />
+    <origin xyz="0.0005 0 0.016" rpy="1.57 0 1.57" />
+  </joint>
+  <joint name="right_sensor_index_proximal_fixed" type="fixed">
+    <parent link="I-PP_bacbd481" />
+    <child link="right_sensor_index_proximal" />
+    <origin xyz="0.00075 0 0.0185" rpy="1.00 0 1.57" />
+  </joint>
+  <joint name="right_sensor_middle_proximal_fixed" type="fixed">
+    <parent link="M-PP_08efa608" />
+    <child link="right_sensor_middle_proximal" />
+    <origin xyz="0.001 0 0.02" rpy="1.00 0 1.57" />
+  </joint>
+  <joint name="right_sensor_ring_proximal_fixed" type="fixed">
+    <parent link="M-PP_8660a1eb" />
+    <child link="right_sensor_ring_proximal" />
+    <origin xyz="0.001 0 0.02" rpy="1.00 0 1.57" />
+  </joint>
+  <joint name="right_sensor_pinky_proximal_fixed" type="fixed">
+    <parent link="P-PP_1d411b9b" />
+    <child link="right_sensor_pinky_proximal" />
+    <origin xyz="0.0005 0 0.0155" rpy="1.00 0 1.57" />
+  </joint>
 </robot>
