@@ -1,0 +1,114 @@
+{
+ "repo": "ROBOTIS-GIT/robotis_hand",
+ "commit": "fe8c244c6429e9a5ffecb4f6e430216c323f534c",
+ "files": [
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_base_unit.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_base_unit.stl",
+   "sha256": "23f3752baec69ba9641a2152d4ec8f60fb09c9510141c978ed77756bcaf6ca64",
+   "size": 6610784
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_finger_dip.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_finger_dip.stl",
+   "sha256": "e582ee3126bd9b6e7c3ca1a8ac415be56c2395c70eeb6f6e339c23feccf09495",
+   "size": 456084
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_finger_mcp.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_finger_mcp.stl",
+   "sha256": "b3913fed373aae024fad967b4ce591d7eb0ea589f36b49bcc1be17120546e07c",
+   "size": 493284
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_finger_pip.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_finger_pip.stl",
+   "sha256": "d7f9d330496c0f32e066248bf8a81b1da8b22a250b710bbf0fc9738ff16dd307",
+   "size": 456084
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_finger_tip.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_finger_tip.stl",
+   "sha256": "e23344be5dc686cdfcc9c3dfc3d187f0715bdbe971e655642e3cc8ff00ff6030",
+   "size": 225884
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_thumb_ip.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_thumb_ip.stl",
+   "sha256": "cc0c0e8792f3a20f02faec5a14db94f2cd3165c5f43050c0f2302b760ec92fa6",
+   "size": 1518584
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_thumb_mcp.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_thumb_mcp.stl",
+   "sha256": "a86a80ef87023e30cb0e4d587ce199cdf1ffe0400a669f831715867f1f8357d8",
+   "size": 1442884
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_thumb_mcp2.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_thumb_mcp2.stl",
+   "sha256": "ea94099885281667e7084733da3f46c4909a23c8a17507ac7a02ad69d123b215",
+   "size": 843484
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_thumb_tip.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_left/hx5_d20_thumb_tip.stl",
+   "sha256": "c3efebd7b37aecc8338f51463c226b048d415bb1378c521b8f34339ae1bd6f14",
+   "size": 1815084
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_base_unit.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_base_unit.stl",
+   "sha256": "4ddee90cb3dd3a1c74da46b8e201715dc3061beb19e293ef0d87eed5547a2fa2",
+   "size": 2107884
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_finger_dip.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_finger_dip.stl",
+   "sha256": "e582ee3126bd9b6e7c3ca1a8ac415be56c2395c70eeb6f6e339c23feccf09495",
+   "size": 456084
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_finger_mcp.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_finger_mcp.stl",
+   "sha256": "b3913fed373aae024fad967b4ce591d7eb0ea589f36b49bcc1be17120546e07c",
+   "size": 493284
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_finger_pip.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_finger_pip.stl",
+   "sha256": "d7f9d330496c0f32e066248bf8a81b1da8b22a250b710bbf0fc9738ff16dd307",
+   "size": 456084
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_finger_tip.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_finger_tip.stl",
+   "sha256": "e23344be5dc686cdfcc9c3dfc3d187f0715bdbe971e655642e3cc8ff00ff6030",
+   "size": 225884
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_thumb_ip.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_thumb_ip.stl",
+   "sha256": "fa2759b28c8fd8fd3ef3fbeb6e280e6bb23f0cdcbfd6f0463261a0babad31b79",
+   "size": 866184
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_thumb_mcp.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_thumb_mcp.stl",
+   "sha256": "b050d0c2c8a3f7cac6e03dd8be2aa95cc3418617ebb686d61e672b39cb25cc51",
+   "size": 948484
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_thumb_mcp2.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_thumb_mcp2.stl",
+   "sha256": "72d2ae2396f7edffab447cb90b81a7ba52913df6196c74d20fd49851c370a119",
+   "size": 480684
+  },
+  {
+   "path": "meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_thumb_tip.stl",
+   "source": "robotis_hand_description/meshes/hx5_d20_rev2/hx5_d20_right/hx5_d20_thumb_tip.stl",
+   "sha256": "c94412c121cfdd6a98d0857010cd0d603415d832f05dbf369347f74f97b515d5",
+   "size": 873184
+  }
+ ]
+}

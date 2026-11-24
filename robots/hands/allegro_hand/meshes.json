@@ -1,0 +1,270 @@
+{
+ "repo": "dexsuite/dex-urdf",
+ "commit": "f5e7132f22108164577fea4c25ef99b5cc0e1900",
+ "files": [
+  {
+   "path": "meshes/collision/link_tip.obj",
+   "source": "robots/hands/allegro_hand/meshes/collision/link_tip.obj",
+   "sha256": "cd517fb6f1b4ccec9ef48501b2a41494d700fdf376f37aa6909afcee172e64f4",
+   "size": 67338
+  },
+  {
+   "path": "meshes/visual/base_link.glb",
+   "source": "robots/hands/allegro_hand/meshes/visual/base_link.glb",
+   "sha256": "a5b957aa87e9fe4aa0f58a5192ca4583b6d4c3584f0a51ee8cd99ad76261c8d8",
+   "size": 150276
+  },
+  {
+   "path": "meshes/visual/base_link.mtl",
+   "source": "robots/hands/allegro_hand/meshes/visual/base_link.mtl",
+   "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb",
+   "size": 232
+  },
+  {
+   "path": "meshes/visual/base_link.obj",
+   "source": "robots/hands/allegro_hand/meshes/visual/base_link.obj",
+   "sha256": "6bf8daf270ac7e427ee477515bfcbcee306958e8b2ea8a23ecb7a319c5c8690f",
+   "size": 195076
+  },
+  {
+   "path": "meshes/visual/base_link_left.glb",
+   "source": "robots/hands/allegro_hand/meshes/visual/base_link_left.glb",
+   "sha256": "fe83ed36849fac8a2b8cc0b346474ae4e6d0b94aa2d414528309d9cff0033f2b",
+   "size": 454240
+  },
+  {
+   "path": "meshes/visual/base_link_left.mtl",
+   "source": "robots/hands/allegro_hand/meshes/visual/base_link_left.mtl",
+   "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb",
+   "size": 232
+  },
+  {
+   "path": "meshes/visual/base_link_left.obj",
+   "source": "robots/hands/allegro_hand/meshes/visual/base_link_left.obj",
+   "sha256": "fbc01616cbd28d9c133a4ed6942ddf07e55ec84fa99a900c6b9bf6499d87ceca",
+   "size": 599153
+  },
+  {
+   "path": "meshes/visual/link_0.0.glb",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_0.0.glb",
+   "sha256": "3efc9af7866efcfd61b51a19dec4454f88bf9c86787fba0f44f0ccb911cc364d",
+   "size": 51836
+  },
+  {
+   "path": "meshes/visual/link_0.0.mtl",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_0.0.mtl",
+   "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb",
+   "size": 232
+  },
+  {
+   "path": "meshes/visual/link_0.0.obj",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_0.0.obj",
+   "sha256": "f8ba6316f4fe17e740276b7f28864f53c0296a1d8b0072e98561be1c6f063732",
+   "size": 60750
+  },
+  {
+   "path": "meshes/visual/link_1.0.glb",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_1.0.glb",
+   "sha256": "a009c6e53176c0252f31a23cc3c32e9096ec275c7891c4bdd4c407b787f4cb84",
+   "size": 67276
+  },
+  {
+   "path": "meshes/visual/link_1.0.mtl",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_1.0.mtl",
+   "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb",
+   "size": 232
+  },
+  {
+   "path": "meshes/visual/link_1.0.obj",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_1.0.obj",
+   "sha256": "3f379c94cb867d8421db1879d50f4b11d9ddfde0e4c46e25e0a7da41466368ae",
+   "size": 72591
+  },
+  {
+   "path": "meshes/visual/link_12.0_left.glb",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_12.0_left.glb",
+   "sha256": "d9f09385c918aeaf8e332cb4cd4b2ba7aef1c1373eef97911135191301b5c5e1",
+   "size": 229708
+  },
+  {
+   "path": "meshes/visual/link_12.0_left.mtl",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_12.0_left.mtl",
+   "sha256": "ea595f92d913827f629051ce12661f90587854ea94f21c3665783f7f6c67fbb2",
+   "size": 236
+  },
+  {
+   "path": "meshes/visual/link_12.0_left.obj",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_12.0_left.obj",
+   "sha256": "59ba34b4fe47f46381bf02ce835bae978411095c632fee6006823135daa9915a",
+   "size": 269052
+  },
+  {
+   "path": "meshes/visual/link_12.0_right.glb",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_12.0_right.glb",
+   "sha256": "53e6798f41c0b3b2eff598a6afec322d04ba2f848c00100aeb31c7f04e765809",
+   "size": 217268
+  },
+  {
+   "path": "meshes/visual/link_12.0_right.mtl",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_12.0_right.mtl",
+   "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb",
+   "size": 232
+  },
+  {
+   "path": "meshes/visual/link_12.0_right.obj",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_12.0_right.obj",
+   "sha256": "cd4ed89d517ab35fc1148d50d695672d6720df5e45e931039f14c227ae8a2047",
+   "size": 283840
+  },
+  {
+   "path": "meshes/visual/link_13.0.glb",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_13.0.glb",
+   "sha256": "ab032e67897db4ac66343914f9a862afd9efeea44b9f2328ae42d4dd8ad31830",
+   "size": 20140
+  },
+  {
+   "path": "meshes/visual/link_13.0.mtl",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_13.0.mtl",
+   "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb",
+   "size": 232
+  },
+  {
+   "path": "meshes/visual/link_13.0.obj",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_13.0.obj",
+   "sha256": "774f0a09ae38e0ce3192cf53063cc39d9c8400096435a4491bac52f25c7012ff",
+   "size": 20840
+  },
+  {
+   "path": "meshes/visual/link_14.0.glb",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_14.0.glb",
+   "sha256": "726b42767f0b7f29e6a822df52d278a213d8c017364f330560645d5fc3a918d3",
+   "size": 44288
+  },
+  {
+   "path": "meshes/visual/link_14.0.mtl",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_14.0.mtl",
+   "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb",
+   "size": 232
+  },
+  {
+   "path": "meshes/visual/link_14.0.obj",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_14.0.obj",
+   "sha256": "0b5d6e3e2294abb0c046bd2397021877e012fd14ebf899713470f8bdfca32d38",
+   "size": 50104
+  },
+  {
+   "path": "meshes/visual/link_15.0.glb",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_15.0.glb",
+   "sha256": "3bbf8697a7923cb2aa1c0144571068806c83f3346820ca27ce65b8a7c9c1fb48",
+   "size": 41696
+  },
+  {
+   "path": "meshes/visual/link_15.0.mtl",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_15.0.mtl",
+   "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb",
+   "size": 232
+  },
+  {
+   "path": "meshes/visual/link_15.0.obj",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_15.0.obj",
+   "sha256": "f682074d43e0f3dc08a44eb6a821bf93fff9015b168cb1e75913aaaea4873782",
+   "size": 49458
+  },
+  {
+   "path": "meshes/visual/link_2.0.glb",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_2.0.glb",
+   "sha256": "67f2184095711736cc03a315c79b5167299c4039ae2e6cd2b6b7b7fd8f8669e1",
+   "size": 50284
+  },
+  {
+   "path": "meshes/visual/link_2.0.mtl",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_2.0.mtl",
+   "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb",
+   "size": 232
+  },
+  {
+   "path": "meshes/visual/link_2.0.obj",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_2.0.obj",
+   "sha256": "81886acc0097e0872c3ff7004025481a984fd73d9ebe70213693d6d66a713e07",
+   "size": 60526
+  },
+  {
+   "path": "meshes/visual/link_3.0.glb",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_3.0.glb",
+   "sha256": "a7c1b43da27f17611cc9cf6687517acbd3f91f263d123d3f1ac10081ec3b619a",
+   "size": 16296
+  },
+  {
+   "path": "meshes/visual/link_3.0.mtl",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_3.0.mtl",
+   "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb",
+   "size": 232
+  },
+  {
+   "path": "meshes/visual/link_3.0.obj",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_3.0.obj",
+   "sha256": "6495c4ed4e0950539c0e6145c3593b065ed0befe5e2802d2fade0d66c840dd72",
+   "size": 16527
+  },
+  {
+   "path": "meshes/visual/link_tip.glb",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_tip.glb",
+   "sha256": "578c515dda261f5f633ed3d9de2c588843b4a4bc009e82be672aafa3f8663555",
+   "size": 78524
+  },
+  {
+   "path": "meshes/visual/link_tip.mtl",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_tip.mtl",
+   "sha256": "ea6c5affc10c704bb36d608488152de69e2bc63468405139bb404404b04e0a45",
+   "size": 231
+  },
+  {
+   "path": "meshes/visual/link_tip.obj",
+   "source": "robots/hands/allegro_hand/meshes/visual/link_tip.obj",
+   "sha256": "4c1cdca17b218ad9cf912ff2ecc9509bfff35fdc8ca4c58468e8c5e9689d30b7",
+   "size": 118848
+  },
+  {
+   "path": "variation/meshes/collision/longer_finger_tip.obj",
+   "source": "robots/hands/allegro_hand/variation/meshes/collision/longer_finger_tip.obj",
+   "sha256": "0b9bcc85a90a9d63f4767ba4a3e931e67dedb952132e3605f9cbcc697a1dbb88",
+   "size": 102200
+  },
+  {
+   "path": "variation/meshes/visual/longer_finger_tip.glb",
+   "source": "robots/hands/allegro_hand/variation/meshes/visual/longer_finger_tip.glb",
+   "sha256": "a99b74adc1b7b28a4fd90dcea4046016d8e9aefe27ec87e7e15159ad9ea42bd9",
+   "size": 166232
+  },
+  {
+   "path": "variation/meshes/visual/longer_finger_tip.mtl",
+   "source": "robots/hands/allegro_hand/variation/meshes/visual/longer_finger_tip.mtl",
+   "sha256": "d5cf890734a1def3349f0352d3fbcb62844fb54b932ee1fe030c5b37b33424ee",
+   "size": 236
+  },
+  {
+   "path": "variation/meshes/visual/longer_finger_tip.obj",
+   "source": "robots/hands/allegro_hand/variation/meshes/visual/longer_finger_tip.obj",
+   "sha256": "45bf44eaed5c647aa79c54b8a93192b29ce996d0b320dba6a207403f141c4a32",
+   "size": 320165
+  },
+  {
+   "path": "variation/meshes/visual/tactile.glb",
+   "source": "robots/hands/allegro_hand/variation/meshes/visual/tactile.glb",
+   "sha256": "d1eff9d29d0f953084ec38e48054bf2f8ea085deafb29a74072fabf87cc6060f",
+   "size": 328600
+  },
+  {
+   "path": "variation/meshes/visual/tactile.mtl",
+   "source": "robots/hands/allegro_hand/variation/meshes/visual/tactile.mtl",
+   "sha256": "baf872b59a4d3e761633b17072c690bcf4a46c59051c55b571782cc98aa29375",
+   "size": 417
+  },
+  {
+   "path": "variation/meshes/visual/tactile.obj",
+   "source": "robots/hands/allegro_hand/variation/meshes/visual/tactile.obj",
+   "sha256": "ec6112bda50cfa7478faae3df4767d5ed471c26b9bb6216550848578a8d9994d",
+   "size": 647838
+  }
+ ]
+}

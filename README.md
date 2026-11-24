@@ -1,102 +1,71 @@
-<p align="center"><img src="banner.jpg" alt="WHATs LAB" width="100%"></p>
-
-<p align="center"><b>English</b> | <a href="README.ko.md">한국어</a></p>
-
 # dexterous-hand-urdf
 
-Curated URDF models for dexterous robot hands, used by the
-[whatslab](https://github.com/whats-lab/whatslab-sdk) teleoperation stack
-([whatslab-ros2](https://github.com/whats-lab/whatslab-ros2)).
+Dexterous robot hand URDF models collected by 주식회사 왓츠랩 (WHATs LAB Corp), based on [dexsuite/dex-urdf](https://github.com/dexsuite/dex-urdf) (MIT).
 
-All included models carry commercially-compatible licenses (BSD / MIT / Apache-2.0).
+Interactive viewer: https://whats-lab.github.io/whatslab-sdk/
 
----
+| Robot Model | Official Website | URDF Source | License | Preview |
+| :-- | :-- | :-- | :-- | :-- |
+| [Tesollo DG-5F-S](robots/hands/tesollo_dg5f_s) | [Tesollo](https://www.tesollo.com) | [tesollo_model@2ce9aca](https://github.com/tesollodelto/tesollo_model/tree/2ce9aca) | BSD-3-Clause | <img src="doc/preview/tesollo_dg5f_s_palm.webp" width="100"> <img src="doc/preview/tesollo_dg5f_s_back.webp" width="100"> |
+| [Tesollo DG-5F](robots/hands/tesollo_dg5f) | [Tesollo](https://www.tesollo.com/products/grippers/dg-5f-m) | [dg5f_ros2@0cb45ae](https://github.com/tesollodelto/dg5f_ros2/tree/0cb45ae) | BSD-3-Clause | <img src="doc/preview/tesollo_dg5f_palm.webp" width="100"> <img src="doc/preview/tesollo_dg5f_back.webp" width="100"> |
+| [Allegro Hand V5 (4 finger)](robots/hands/allegro_v5_4f) | [Wonik Robotics](https://www.allegrohand.com) | [allegro_hand_ros2_v5@80bd4a8](https://github.com/Wonikrobotics-git/allegro_hand_ros2_v5/tree/80bd4a8) | BSD-2-Clause | <img src="doc/preview/allegro_v5_4f_palm.webp" width="100"> <img src="doc/preview/allegro_v5_4f_back.webp" width="100"> |
+| [Allegro Hand V6](robots/hands/allegro_v6) | [Wonik Robotics](https://www.allegrohand.com) | [allegro_hand_ros2_v6_v@fd7072d](https://github.com/Wonikrobotics-git/allegro_hand_ros2_v6_v/tree/fd7072d) | MIT | <img src="doc/preview/allegro_v6_palm.webp" width="100"> <img src="doc/preview/allegro_v6_back.webp" width="100"> |
+| [Allegro Hand V5 Sense](robots/hands/allegro_v5_sense) | [Wonik Robotics](https://www.allegrohand.com) | [allegro_hand_ros2_V5_Sense@92bfca9](https://github.com/Wonikrobotics-git/allegro_hand_ros2_V5_Sense/tree/92bfca9) | MIT | <img src="doc/preview/allegro_v5_sense_palm.webp" width="100"> <img src="doc/preview/allegro_v5_sense_back.webp" width="100"> |
+| [ROBOTIS HX5-D20](robots/hands/robotis_hx5_d20) | [ROBOTIS](https://docs.robotis.com/docs/systems/hx5_d20/introduction) | [robotis_hand@fe8c244](https://github.com/ROBOTIS-GIT/robotis_hand/tree/fe8c244c6429e9a5ffecb4f6e430216c323f534c) | Apache-2.0 | <img src="doc/preview/robotis_hx5_d20_palm.webp" width="100"> <img src="doc/preview/robotis_hx5_d20_back.webp" width="100"> |
+| [ROBROS IGRIS-C hand](robots/hands/igris_c_hand) | [ROBROS](https://www.robros.co.kr) | [igris_c_description_public@8e7d9bc](https://github.com/robrosinc/igris_c_description_public/tree/8e7d9bc) | BSD-3-Clause | <img src="doc/preview/igris_c_hand_palm.webp" width="100"> <img src="doc/preview/igris_c_hand_back.webp" width="100"> |
+| [LEAP Hand V2 Advanced](robots/hands/leap_hand_v2_adv) | [LEAP Hand](http://leaphand.com) | [LEAP_Hand_V2_Adv_API@a093619](https://github.com/leap-hand/LEAP_Hand_V2_Adv_API/tree/a093619) | Apache-2.0 | <img src="doc/preview/leap_hand_v2_adv_palm.webp" width="100"> <img src="doc/preview/leap_hand_v2_adv_back.webp" width="100"> |
+| [LinkerHand L6](robots/hands/linkerhand_l6) | [LinkerBot](https://www.linkerbot.cn) | [linkerhand-urdf@49f2602](https://github.com/linker-bot/linkerhand-urdf/tree/49f2602) | Apache-2.0 | <img src="doc/preview/linkerhand_l6_palm.webp" width="100"> <img src="doc/preview/linkerhand_l6_back.webp" width="100"> |
+| [LinkerHand O6](robots/hands/linkerhand_o6) | [LinkerBot](https://www.linkerbot.cn) | [linkerhand-urdf@49f2602](https://github.com/linker-bot/linkerhand-urdf/tree/49f2602) | Apache-2.0 | <img src="doc/preview/linkerhand_o6_palm.webp" width="100"> <img src="doc/preview/linkerhand_o6_back.webp" width="100"> |
+| [LinkerHand L20](robots/hands/linkerhand_l20) | [LinkerBot](https://www.linkerbot.cn) | [linkerhand-urdf@49f2602](https://github.com/linker-bot/linkerhand-urdf/tree/49f2602) | Apache-2.0 | <img src="doc/preview/linkerhand_l20_palm.webp" width="100"> <img src="doc/preview/linkerhand_l20_back.webp" width="100"> |
+| [LinkerHand L20 Lite](robots/hands/linkerhand_l20lite) | [LinkerBot](https://www.linkerbot.cn) | [linkerhand-urdf@49f2602](https://github.com/linker-bot/linkerhand-urdf/tree/49f2602) | Apache-2.0 | <img src="doc/preview/linkerhand_l20lite_palm.webp" width="100"> <img src="doc/preview/linkerhand_l20lite_back.webp" width="100"> |
+| [LinkerHand O7](robots/hands/linkerhand_o7) | [LinkerBot](https://www.linkerbot.cn) | [linkerhand-urdf@49f2602](https://github.com/linker-bot/linkerhand-urdf/tree/49f2602) | Apache-2.0 | <img src="doc/preview/linkerhand_o7_palm.webp" width="100"> <img src="doc/preview/linkerhand_o7_back.webp" width="100"> |
+| [LinkerHand L25](robots/hands/linkerhand_l25) | [LinkerBot](https://www.linkerbot.cn) | [linkerhand-urdf@49f2602](https://github.com/linker-bot/linkerhand-urdf/tree/49f2602) | Apache-2.0 | <img src="doc/preview/linkerhand_l25_palm.webp" width="100"> <img src="doc/preview/linkerhand_l25_back.webp" width="100"> |
+| [LinkerHand O20](robots/hands/linkerhand_o20) | [LinkerBot](https://www.linkerbot.cn) | [linkerhand-urdf@49f2602](https://github.com/linker-bot/linkerhand-urdf/tree/49f2602) | Apache-2.0 | <img src="doc/preview/linkerhand_o20_palm.webp" width="100"> <img src="doc/preview/linkerhand_o20_back.webp" width="100"> |
+| [LinkerHand L30](robots/hands/linkerhand_l30) | [LinkerBot](https://www.linkerbot.cn) | [linkerhand-urdf@49f2602](https://github.com/linker-bot/linkerhand-urdf/tree/49f2602) | Apache-2.0 | <img src="doc/preview/linkerhand_l30_palm.webp" width="100"> <img src="doc/preview/linkerhand_l30_back.webp" width="100"> |
+| [LinkerHand O30i](robots/hands/linkerhand_o30) | [LinkerBot](https://www.linkerbot.cn) | [linkerhand-urdf@49f2602](https://github.com/linker-bot/linkerhand-urdf/tree/49f2602) | Apache-2.0 | <img src="doc/preview/linkerhand_o30_palm.webp" width="100"> <img src="doc/preview/linkerhand_o30_back.webp" width="100"> |
+| [LinkerHand T12](robots/hands/linkerhand_t12) | [LinkerBot](https://www.linkerbot.cn) | [linkerhand-urdf@49f2602](https://github.com/linker-bot/linkerhand-urdf/tree/49f2602) | Apache-2.0 | <img src="doc/preview/linkerhand_t12_palm.webp" width="100"> <img src="doc/preview/linkerhand_t12_back.webp" width="100"> |
+| [BrainCo Revo2](robots/hands/brainco_revo2) | [BrainCo](https://www.brainco.tech) | [revo2_description@92cc697](https://github.com/BrainCoTech/revo2_description/tree/92cc697) | Apache-2.0 | <img src="doc/preview/brainco_revo2_palm.webp" width="100"> <img src="doc/preview/brainco_revo2_back.webp" width="100"> |
+| [BrainCo Revo3](robots/hands/brainco_revo3) | [BrainCo](https://www.brainco.tech) | [brainco_revo3_ros2@2fa9db4](https://github.com/BrainCoTech/brainco_revo3_ros2/tree/2fa9db4) | Apache-2.0 | <img src="doc/preview/brainco_revo3_palm.webp" width="100"> <img src="doc/preview/brainco_revo3_back.webp" width="100"> |
+| [DexRobot DexHand021](robots/hands/dexrobot_dexhand021) | [DexRobot](https://www.dex-robot.com/en) | [dexrobot_urdf@eb5ecde](https://github.com/DexRobot/dexrobot_urdf/tree/eb5ecde) | Apache-2.0 | <img src="doc/preview/dexrobot_dexhand021_palm.webp" width="100"> <img src="doc/preview/dexrobot_dexhand021_back.webp" width="100"> |
+| [Sharpa Wave](robots/hands/sharpa_wave) | [Sharpa](https://www.sharpa.com) | [sharpa-urdf-usd-xml@d323b37](https://github.com/sharpa-robotics/sharpa-urdf-usd-xml/tree/d323b37) | Apache-2.0 | <img src="doc/preview/sharpa_wave_palm.webp" width="100"> <img src="doc/preview/sharpa_wave_back.webp" width="100"> |
+| [Wuji Hand](robots/hands/wuji_hand) | [Wuji Technology](https://wuji.tech) | [wuji-description@ffeb47f](https://github.com/wuji-technology/wuji-description/tree/ffeb47f/hand/body) | MIT | <img src="doc/preview/wuji_hand_palm.webp" width="100"> <img src="doc/preview/wuji_hand_back.webp" width="100"> |
+| [Wuji Hand 2 (2.1)](robots/hands/wuji_hand2) | [Wuji Technology](https://wuji.tech) | [wuji-description@ffeb47f](https://github.com/wuji-technology/wuji-description/tree/ffeb47f) | MIT | <img src="doc/preview/wuji_hand2_palm.webp" width="100"> <img src="doc/preview/wuji_hand2_back.webp" width="100"> |
+| [DexHand (TheRobotStudio)](robots/hands/dexhand_trs) | [DexHand](https://www.dexhand.org/) | [dexhand_description@211b0ea](https://github.com/iotdesignshop/dexhand_description/tree/211b0ea) | CC BY-NC-SA 4.0 | <img src="doc/preview/dexhand_trs_palm.webp" width="100"> <img src="doc/preview/dexhand_trs_back.webp" width="100"> |
+| [ORCA Hand v1](robots/hands/orca_hand_v1) | [ORCA](https://orcahand.com) | [orcahand_description@64ff756 v1/](https://github.com/orcahand/orcahand_description/tree/64ff756/v1) | MIT | <img src="doc/preview/orca_hand_v1_palm.webp" width="100"> <img src="doc/preview/orca_hand_v1_back.webp" width="100"> |
+| [ORCA Hand v2](robots/hands/orca_hand_v2) | [ORCA](https://orcahand.com) | [orcahand_description@64ff756 v2/](https://github.com/orcahand/orcahand_description/tree/64ff756/v2) | MIT | <img src="doc/preview/orca_hand_v2_palm.webp" width="100"> <img src="doc/preview/orca_hand_v2_back.webp" width="100"> |
+| [Allegro Hand](robots/hands/allegro_hand) | [Wonik Robotics](https://www.wonikrobotics.com/research-robot-hand) | [allegro_hand_ros@296ef6b](https://github.com/simlabrobotics/allegro_hand_ros/tree/296ef6b/allegro_hand_description) | BSD | <img src="doc/preview/allegro_hand_palm.webp" width="100"> <img src="doc/preview/allegro_hand_back.webp" width="100"> |
+| [Shadow Hand](robots/hands/shadow_hand) | [Shadow Robot Company](https://www.shadowrobot.com/) | [sr_common@172c3d9](https://github.com/shadow-robot/sr_common/tree/172c3d9/sr_description) | BSD-3-Clause | <img src="doc/preview/shadow_hand_palm.webp" width="100"> <img src="doc/preview/shadow_hand_back.webp" width="100"> |
+| [SCHUNK SVH Hand](robots/hands/schunk_hand) | [SCHUNK](https://schunk.com/us/en) | [schunk_svh_ros_driver@c271044](https://github.com/SCHUNK-GmbH-Co-KG/schunk_svh_ros_driver/tree/c271044/schunk_svh_description) | GPL-3.0 | <img src="doc/preview/schunk_hand_palm.webp" width="100"> <img src="doc/preview/schunk_hand_back.webp" width="100"> |
+| [Ability Hand](robots/hands/ability_hand) | [PSYONIC](https://www.psyonic.io/) | [ability-hand-api@26ca079](https://github.com/psyonicinc/ability-hand-api/tree/26ca079/URDF) | MIT | <img src="doc/preview/ability_hand_palm.webp" width="100"> <img src="doc/preview/ability_hand_back.webp" width="100"> |
+| [LEAP Hand](robots/hands/leap_hand) | [LEAP Hand](http://leaphand.com) | [LEAP_Hand_Sim@150bc3d](https://github.com/leap-hand/LEAP_Hand_Sim/tree/150bc3d/assets/leap_hand) | MIT | <img src="doc/preview/leap_hand_palm.webp" width="100"> <img src="doc/preview/leap_hand_back.webp" width="100"> |
+| [Inspire Hand](robots/hands/inspire_hand) | [Inspire-Robots](https://www.inspire-robots.com/) | [Inspire STEP download](https://en.inspire-robots.com/download) (official CAD; no official URDF) | None | <img src="doc/preview/inspire_hand_palm.webp" width="100"> <img src="doc/preview/inspire_hand_back.webp" width="100"> |
+| [Inspire RH56DFTP (Unitree G1 model)](robots/hands/inspire_rh56dftp_unitree) | [Inspire-Robots](https://www.inspire-robots.com) | [unitree_ros@157ff95](https://github.com/unitreerobotics/unitree_ros/tree/157ff95) | BSD-3-Clause | <img src="doc/preview/inspire_rh56dftp_unitree_palm.webp" width="100"> <img src="doc/preview/inspire_rh56dftp_unitree_back.webp" width="100"> |
+| [Unitree Dex5-1](robots/hands/unitree_dex5_1) | [Unitree](https://www.unitree.com) | [unitree_ros@157ff95](https://github.com/unitreerobotics/unitree_ros/tree/157ff95) | BSD-3-Clause | <img src="doc/preview/unitree_dex5_1_palm.webp" width="100"> <img src="doc/preview/unitree_dex5_1_back.webp" width="100"> |
+| [Unitree Dex5-S](robots/hands/unitree_dex5_s) | [Unitree](https://www.unitree.com) | [unitree_ros@157ff95](https://github.com/unitreerobotics/unitree_ros/tree/157ff95) | BSD-3-Clause | <img src="doc/preview/unitree_dex5_s_palm.webp" width="100"> <img src="doc/preview/unitree_dex5_s_back.webp" width="100"> |
+| [Unitree Dex2-5](robots/hands/unitree_dex2_5) | [Unitree](https://www.unitree.com) | [unitree_ros@157ff95](https://github.com/unitreerobotics/unitree_ros/tree/157ff95) | BSD-3-Clause | <img src="doc/preview/unitree_dex2_5_palm.webp" width="100"> <img src="doc/preview/unitree_dex2_5_back.webp" width="100"> |
+| [Fourier Hand 6-DoF](robots/hands/fourier_hand_6dof) | [Fourier](https://www.fftai.com) | [Wiki-GRx-Models@7d96c75](https://github.com/FFTAI/Wiki-GRx-Models/tree/7d96c75) | GPL-3.0 | <img src="doc/preview/fourier_hand_6dof_palm.webp" width="100"> <img src="doc/preview/fourier_hand_6dof_back.webp" width="100"> |
+| [RobotEra XHAND1 (STAR1 model)](robots/hands/robotera_xhand1_star1) | [RobotEra](https://www.robotera.com) | [models@e8660e6](https://github.com/roboterax/models/tree/e8660e6) | BSD-3-Clause | <img src="doc/preview/robotera_xhand1_star1_palm.webp" width="100"> <img src="doc/preview/robotera_xhand1_star1_back.webp" width="100"> |
+| [RobotEra XHAND1 Pro U](robots/hands/robotera_xhand1_pro_u) | [RobotEra](https://www.robotera.com) | [xhand1-pro-u@d9c8dce](https://github.com/roboterax/xhand1-pro-u/tree/d9c8dce) | MIT | <img src="doc/preview/robotera_xhand1_pro_u_palm.webp" width="100"> <img src="doc/preview/robotera_xhand1_pro_u_back.webp" width="100"> |
+| [AgiBot OmniHand 2025](robots/hands/agibot_omnihand_2025) | [AgiBot](https://www.agibot.com) | [agilink_omnihand_description@ddd053c](https://github.com/AgibotTech/agilink_omnihand_description/tree/ddd053c) | Apache-2.0 | <img src="doc/preview/agibot_omnihand_2025_palm.webp" width="100"> <img src="doc/preview/agibot_omnihand_2025_back.webp" width="100"> |
+| [Rysen Apex Hand](robots/hands/rysen_apex_hand) | [Rysen Robotics](https://www.rysenbot.com/) | [rysen-description@7c9fb7d](https://github.com/RysenRobotics/rysen-description/tree/7c9fb7d) | Apache-2.0 | <img src="doc/preview/rysen_apex_hand_palm.webp" width="100"> <img src="doc/preview/rysen_apex_hand_back.webp" width="100"> |
+| [Proception ProHand Gen2](robots/hands/proception_prohand_gen2) | [Proception](https://proception.ai) | [pro-models@7a16524](https://github.com/Proception-AI/pro-models/tree/7a16524) | BSD-3-Clause (URDF), proprietary (meshes) | — |
 
-## Included Models
+Per-hand changes are listed in each folder's `PATCHES.txt`.
 
-| Directory | Hand | Manufacturer | License | Source |
-|-----------|------|--------------|---------|--------|
-| `base_hand/` | Base Hand | WHATsLAB | Proprietary | Internal |
-| `orca_hand/` | Orca Hand | ETH Zurich SRL | MIT | [orcahand_description](https://github.com/orcahand/orcahand_description) |
-| `robotis_hx5_d20/` | ROBOTIS Hand 2 HX5 | ROBOTIS | Apache-2.0 | [robotis_hand](https://github.com/ROBOTIS-GIT/robotis_hand) |
-| `allegro_hand/` | Allegro Hand | Wonik Robotics | BSD | [dex-urdf](https://github.com/dexsuite/dex-urdf) |
-| `leap_hand/` | LEAP Hand | CMU | MIT | [dex-urdf](https://github.com/dexsuite/dex-urdf) |
-| `schunk_hand/` | SCHUNK SVH | SCHUNK | Apache-2.0 | [dex-urdf](https://github.com/dexsuite/dex-urdf) |
-| `tesollo_dg5f/` | DG5F | Tesollo | BSD-3-Clause | [dg5f_ros2](https://github.com/tesollodelto/dg5f_ros2) |
+Meshes are not stored in this repository. Each hand folder has a `meshes.json` that lists the original upstream mesh files (repository, commit, path, sha256, size) referenced by its URDFs. The URDFs alone are enough for kinematics; for visual and collision geometry, download the meshes once into the user cache (`$XDG_CACHE_HOME` or `~/.cache/dexhand_description/<version>/<hand>/`):
 
----
-
-## Directory Layout
-
-Models from **dex-urdf** keep the original layout (URDF at root, `meshes/` alongside):
-
+```bash
+dexhand-fetch --list
+dexhand-fetch leap_hand tesollo_dg5f_s
+dexhand-fetch --all
 ```
-{hand}/
-├── {hand}_{side}.urdf
-└── meshes/
-    └── visual/
+
+```python
+import dexhand_description
+
+path = dexhand_description.hand_dir("leap_hand")
 ```
 
-**Internal models** (base_hand, orca_hand, robotis_hx5_d20) use a `urdf/` subdirectory:
+`hand_dir` returns the cached hand folder (URDFs with the meshes at their relative paths) or `None` if a download or sha256 check failed.
 
-```
-{hand}/
-├── urdf/
-│   ├── left.urdf
-│   └── right.urdf
-└── meshes/
-```
-
----
-
-## Attribution
-
-### Allegro Hand
-Copyright © Wonik Robotics  
-License: BSD  
-Changes: none (original from dex-urdf)
-
-### LEAP Hand
-Copyright © Carnegie Mellon University  
-License: MIT  
-Changes: none (original from dex-urdf)
-
-### SCHUNK SVH
-Copyright © SCHUNK GmbH  
-License: Apache-2.0  
-Changes: none (original from dex-urdf)
-
-### ROBOTIS Hand 2 (HX5)
-Copyright © ROBOTIS Co., Ltd.  
-License: Apache-2.0  
-Changes: URDF path adjustments and physics parameter tuning for ROS 2.
-
-### Orca Hand
-Copyright © Soft Robotics Lab, ETH Zurich  
-License: MIT  
-Changes: Added fixed joints at fingertip positions.
-
-### Tesollo DG5F
-Copyright © Tesollo  
-License: BSD-3-Clause  
-Changes: Converted `package://` mesh paths to relative paths.
-
-### Base Hand
-
-The base hand model uses anatomical 3D mesh data from **BodyParts3D**.
-
-Copyright © The Database Center for Life Science (DBCLS)  
-License: Creative Commons Attribution 4.0 International (CC BY 4.0)  
-Changes: Mesh scale adjustment, coordinate axis conversion, and URDF rigging for ROS 2 simulation and FK computation.
-
-The overall base_hand package is © WHATsLAB. All rights reserved.
-
----
-
-## License
-
-This repository **aggregates third-party hand models, each under its own upstream
-license** (see [Attribution](#attribution) — BSD / MIT / Apache-2.0 / CC BY 4.0). No
-single license is imposed on the collection; every bundled model retains its original
-license and copyright. WHATs LAB's own contributions (packaging, rigging, `base_hand`)
-are © WHATs LAB Corp.
+Hands whose `meshes.json` has `"redistribute": false` (see the hand's `MESHES-LICENSE`) are downloaded from upstream with a warning; their meshes must not be rehosted.

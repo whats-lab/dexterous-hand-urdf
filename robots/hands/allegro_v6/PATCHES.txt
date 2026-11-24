@@ -1,0 +1,2 @@
+Copied from https://github.com/Wonikrobotics-git/allegro_hand_ros2_v6_v @ fd7072d: URDF files renamed to <hand_id>_<side>.urdf, mesh paths rewritten to relative meshes/... (path segments with spaces or ending in .urdf renamed), and only the meshes referenced by the URDFs kept.
+v6, v6_v (vision) and v6_f (force) as allegro_v6_<side>[_v|_f].urdf.

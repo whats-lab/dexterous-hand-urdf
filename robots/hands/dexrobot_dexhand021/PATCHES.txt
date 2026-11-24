@@ -1,0 +1,2 @@
+Copied from https://github.com/DexRobot/dexrobot_urdf @ eb5ecde: URDF files renamed to <hand_id>_<side>.urdf, mesh paths rewritten to relative meshes/... (path segments with spaces or ending in .urdf renamed), and only the meshes referenced by the URDFs kept.
+Full and simplified meshes. The URDF has 20 independent joints; the product's 12-actuator coupling is not modelled upstream.

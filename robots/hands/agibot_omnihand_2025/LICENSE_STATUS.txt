@@ -1,0 +1,3 @@
+No LICENSE file in the official repo (https://github.com/AgibotTech/agilink_omnihand_description @ ddd053c). Its package.xml declares Apache-2.0 without license text; the declaration is kept as upstream_package.xml.
+
+Included in this repository by decision of WHATs LAB (2026-11-23) for non-commercial research use, pending confirmation from the rights holder.

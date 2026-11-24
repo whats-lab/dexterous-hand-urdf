@@ -1,0 +1,2 @@
+Copied from https://github.com/leap-hand/LEAP_Hand_V2_Adv_API @ a093619: URDF files renamed to <hand_id>_<side>.urdf, mesh paths rewritten to relative meshes/... (path segments with spaces or ending in .urdf renamed), and only the meshes referenced by the URDFs kept.
+Kept as upstream, including its inconsistency (left URDF has 4 mimic joints, right has none; in the left file middle_pip mimics index_dip, and pinocchio's mimic=True parser rejects the file; the default buildModelFromUrdf loads it).

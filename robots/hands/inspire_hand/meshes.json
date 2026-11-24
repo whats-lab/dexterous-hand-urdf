@@ -1,0 +1,210 @@
+{
+ "repo": "dexsuite/dex-urdf",
+ "commit": "f5e7132f22108164577fea4c25ef99b5cc0e1900",
+ "files": [
+  {
+   "path": "meshes/collision/left_index_intermediate.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/left_index_intermediate.obj",
+   "sha256": "7e29a7ed6b070a6a07cde1a60356c5b993e601d3a72c02d83bf1296f0f5fb902",
+   "size": 104519
+  },
+  {
+   "path": "meshes/collision/left_index_proximal.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/left_index_proximal.obj",
+   "sha256": "e4729ae88acb28358ba90a094c0a014a3536cc112a7451bc14ecc34baa399026",
+   "size": 42128
+  },
+  {
+   "path": "meshes/collision/left_middle_intermediate.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/left_middle_intermediate.obj",
+   "sha256": "58f8e4f6bd3e5df1e02c4fb08e72cffda93a8ba69eba5d723424d70171d0aa29",
+   "size": 101298
+  },
+  {
+   "path": "meshes/collision/left_pinky_intermediate.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/left_pinky_intermediate.obj",
+   "sha256": "78455326a6e15df785fb0e2f55662e43e8231e4cabedb8aa4ffe6e2a95890198",
+   "size": 164842
+  },
+  {
+   "path": "meshes/collision/left_thumb_distal.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/left_thumb_distal.obj",
+   "sha256": "37b579f6cd36fe4599e400d7d56eab4f913fc3c255ce5e3af57d6f496a87b053",
+   "size": 70918
+  },
+  {
+   "path": "meshes/collision/left_thumb_intermediate.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/left_thumb_intermediate.obj",
+   "sha256": "b2c83a75ab32e3044fe132e4e652135e5978d3c61c1cef4641cd70225859525f",
+   "size": 44768
+  },
+  {
+   "path": "meshes/collision/left_thumb_proximal.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/left_thumb_proximal.obj",
+   "sha256": "954b06c2605e1e56042aa2cbcb6e044cc49f200d3da4e40a84ae5dae01e5fc82",
+   "size": 59031
+  },
+  {
+   "path": "meshes/collision/left_thumb_proximal_base.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/left_thumb_proximal_base.obj",
+   "sha256": "89b9807a27b9139a4abaf87a8204c6b7990d3d3145ee220893dd62306f3be8f8",
+   "size": 5415
+  },
+  {
+   "path": "meshes/collision/right_index_intermediate.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/right_index_intermediate.obj",
+   "sha256": "dd53ff65ae730edafd9ff80a90615c50576a0dd0acd228b2c0bdb03271fed417",
+   "size": 169645
+  },
+  {
+   "path": "meshes/collision/right_index_proximal.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/right_index_proximal.obj",
+   "sha256": "b03fd612bc35f229d7d567801165f2bfa241a8fc3ed6ef00e8c8fd4e143f222d",
+   "size": 70325
+  },
+  {
+   "path": "meshes/collision/right_middle_intermediate.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/right_middle_intermediate.obj",
+   "sha256": "cdd6b0035d17b2ae8ca908b743ab85da74aa0415b30ea911bd4c5be376a91ca0",
+   "size": 69424
+  },
+  {
+   "path": "meshes/collision/right_pinky_intermediate.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/right_pinky_intermediate.obj",
+   "sha256": "34f210b27d682ac50aaed9632b8cc6d09fddb6c08fa7d0d25428eeaa2b3441be",
+   "size": 112643
+  },
+  {
+   "path": "meshes/collision/right_thumb_distal.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/right_thumb_distal.obj",
+   "sha256": "45fda90356a618728e33db7f5077b591b3aa778ada8395e5ee2d68080ab16a3d",
+   "size": 116917
+  },
+  {
+   "path": "meshes/collision/right_thumb_intermediate.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/right_thumb_intermediate.obj",
+   "sha256": "c8779b10337cca5477abc35f3287f6f5d07fbe58933a43738ebd1d1e297c560d",
+   "size": 75284
+  },
+  {
+   "path": "meshes/collision/right_thumb_proximal.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/right_thumb_proximal.obj",
+   "sha256": "e58d05f48e5a5bb72b14fe16e516e5c6d779da9722d58704765c5ca715bbfa10",
+   "size": 98037
+  },
+  {
+   "path": "meshes/collision/right_thumb_proximal_base.obj",
+   "source": "robots/hands/inspire_hand/meshes/collision/right_thumb_proximal_base.obj",
+   "sha256": "058319b2f7fb81b67e34f442171c7672a9b953652e80f263edb4b12968ddb2f5",
+   "size": 9466
+  },
+  {
+   "path": "meshes/visual/left_base_link.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/left_base_link.glb",
+   "sha256": "f69967f7eecd1806baf1e67c32488c17ba16f1f5f5701204fdeb6d49331f5a15",
+   "size": 898872
+  },
+  {
+   "path": "meshes/visual/left_index_intermediate.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/left_index_intermediate.glb",
+   "sha256": "3a4bd7dae131b19da606b7611680c9886e83072d6c61e7b947bc735c8ab29747",
+   "size": 167048
+  },
+  {
+   "path": "meshes/visual/left_index_proximal.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/left_index_proximal.glb",
+   "sha256": "1ea4313f0efc0a18de3d2b7d06145760a574c0d19b21b001f7227e0e8e22ecf9",
+   "size": 212348
+  },
+  {
+   "path": "meshes/visual/left_middle_intermediate.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/left_middle_intermediate.glb",
+   "sha256": "672ef42a4fe9a3adf1aa93ad579c12419085c7b164dc3895b441fc318fdee885",
+   "size": 161244
+  },
+  {
+   "path": "meshes/visual/left_pinky_intermediate.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/left_pinky_intermediate.glb",
+   "sha256": "2bbeb5d8013f95f4a567004364e74ece6f5e367e8597ef630aefb462fd223990",
+   "size": 204556
+  },
+  {
+   "path": "meshes/visual/left_thumb_distal.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/left_thumb_distal.glb",
+   "sha256": "993a02fe7f87003960c104bf6fdc76a297dc4a100b1de50042074d906dc52589",
+   "size": 45312
+  },
+  {
+   "path": "meshes/visual/left_thumb_intermediate.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/left_thumb_intermediate.glb",
+   "sha256": "22e0c4cfd7b531d36f0bd9ead646c51c2257f39a00a68b7d236b5b2c78fee505",
+   "size": 89504
+  },
+  {
+   "path": "meshes/visual/left_thumb_proximal.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/left_thumb_proximal.glb",
+   "sha256": "658c983511369d1817a2206694540e1074908752f70ee730c7b2d6173fa747fa",
+   "size": 45684
+  },
+  {
+   "path": "meshes/visual/left_thumb_proximal_base.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/left_thumb_proximal_base.glb",
+   "sha256": "0623a10ac8f6d7a0f5d8b974fa48af59da7f46d2440bed1e4161f385feb1883e",
+   "size": 39924
+  },
+  {
+   "path": "meshes/visual/right_base_link.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/right_base_link.glb",
+   "sha256": "5e4523c936818785318829a5ae64831994d7a85814e53d6461c0ee9212ca6750",
+   "size": 851444
+  },
+  {
+   "path": "meshes/visual/right_index_intermediate.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/right_index_intermediate.glb",
+   "sha256": "55f2041dd7674ba95d3fca88dbfdd721bf6f4c4b17d8ae56733ca040a6ee0584",
+   "size": 167248
+  },
+  {
+   "path": "meshes/visual/right_index_proximal.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/right_index_proximal.glb",
+   "sha256": "aa989ff69ebf066dabef421ed9062d34a4588162aa1569c717a3262a99a031ba",
+   "size": 225860
+  },
+  {
+   "path": "meshes/visual/right_middle_intermediate.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/right_middle_intermediate.glb",
+   "sha256": "57ae7d1525270ac4edef4f9ff1b98898e3943e39d3ccc4ab068831fd54349636",
+   "size": 146144
+  },
+  {
+   "path": "meshes/visual/right_pinky_intermediate.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/right_pinky_intermediate.glb",
+   "sha256": "6b49449acc77fc66f78eaa2025e608b8eae94f22c1cc3e6b6663c960035675e3",
+   "size": 204908
+  },
+  {
+   "path": "meshes/visual/right_thumb_distal.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/right_thumb_distal.glb",
+   "sha256": "eb4f5ac8fc524c0c70d06f98dd897307a0a340fa74091d3345c981d2a8f23cf8",
+   "size": 45788
+  },
+  {
+   "path": "meshes/visual/right_thumb_intermediate.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/right_thumb_intermediate.glb",
+   "sha256": "1e9df1f663633b73c918479c2b27bd7c586a90a7c9273f10b00e87030197c228",
+   "size": 88992
+  },
+  {
+   "path": "meshes/visual/right_thumb_proximal.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/right_thumb_proximal.glb",
+   "sha256": "c3b9fdd15bcea183e0f05fa261cb7da93ba4d905e7fa04906c7776c9d3975d5a",
+   "size": 45796
+  },
+  {
+   "path": "meshes/visual/right_thumb_proximal_base.glb",
+   "source": "robots/hands/inspire_hand/meshes/visual/right_thumb_proximal_base.glb",
+   "sha256": "3e1143d3fc366a169e795be8003892f7e5d7cd5b7b322ac55b39089aca5c9f81",
+   "size": 40060
+  }
+ ]
+}

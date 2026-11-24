@@ -1,0 +1,3 @@
+Copied from https://github.com/RysenRobotics/rysen-description @ 7c9fb7d (apex_hand/urdf/apex_hand_<side>/apex_hand_<side>.urdf, not the *_tactile variants): URDF files renamed to <hand_id>_<side>.urdf. Mesh paths are unchanged (meshes/left_*.STL, meshes/right_*.STL); meshes are not stored here, meshes.json points to the upstream files.
+21 revolute joints, 16 actuated; thumb_j4 and the fingers' j3 are <mimic> joints as upstream.
+The older RysenRobotics/apex-hand-urdf README (@ fe190bf) calls its URDF preliminary, with dynamics parameters not fully calibrated; rysen-description has different inertials and does not repeat that note.

@@ -1,0 +1,12 @@
+name: README check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  readme:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+      - run: python3 tools/check_readme.py .

@@ -1,0 +1,198 @@
+{
+ "repo": "dexsuite/dex-urdf",
+ "commit": "f5e7132f22108164577fea4c25ef99b5cc0e1900",
+ "files": [
+  {
+   "path": "meshes/collision/white_tip.obj",
+   "source": "robots/hands/leap_hand/meshes/collision/white_tip.obj",
+   "sha256": "bbc1d4b64f4f4115fb0fd776a14abd9496e339804bf42cb645d30aee13e61f88",
+   "size": 640739
+  },
+  {
+   "path": "meshes/collision/white_tip_thumb.obj",
+   "source": "robots/hands/leap_hand/meshes/collision/white_tip_thumb.obj",
+   "sha256": "80e7c3de59c0b1b141e2c91ffa36374bef11636e362173d7a68a79022829020f",
+   "size": 402712
+  },
+  {
+   "path": "meshes/visual/dip.glb",
+   "source": "robots/hands/leap_hand/meshes/visual/dip.glb",
+   "sha256": "548013ccb478a29552b2d8e150cc5f90f45c6a638bc008e9ed4f81b23228a6c0",
+   "size": 1485152
+  },
+  {
+   "path": "meshes/visual/dip.mtl",
+   "source": "robots/hands/leap_hand/meshes/visual/dip.mtl",
+   "sha256": "240a97143e932aba69009abdd728066939517cf808108623a014ef577976caeb",
+   "size": 253
+  },
+  {
+   "path": "meshes/visual/dip.obj",
+   "source": "robots/hands/leap_hand/meshes/visual/dip.obj",
+   "sha256": "472e054348c5a0e987829e721d5ba8486ddd47d867e416bb45d8d2a2ff917acf",
+   "size": 1013886
+  },
+  {
+   "path": "meshes/visual/fingertip.glb",
+   "source": "robots/hands/leap_hand/meshes/visual/fingertip.glb",
+   "sha256": "e422eb83230fed126c38d7b6f43a5f9ec71b58059c8acefdcf6b2ec04bdc0e7c",
+   "size": 544612
+  },
+  {
+   "path": "meshes/visual/fingertip.mtl",
+   "source": "robots/hands/leap_hand/meshes/visual/fingertip.mtl",
+   "sha256": "7e972e2fb3bd55d0aac677a6cc41a2c1a6678868ac0b4f1a03af5786540fc3d7",
+   "size": 436
+  },
+  {
+   "path": "meshes/visual/fingertip.obj",
+   "source": "robots/hands/leap_hand/meshes/visual/fingertip.obj",
+   "sha256": "6bfa2afb2a06557ce0c54b03baec13522bfe561aabb576bd4701d4704f93ec0f",
+   "size": 359831
+  },
+  {
+   "path": "meshes/visual/mcp_joint.glb",
+   "source": "robots/hands/leap_hand/meshes/visual/mcp_joint.glb",
+   "sha256": "7b33228fa19433e260c20588698416d4a0fc7018cdf927c28316513d21f79c3e",
+   "size": 1557804
+  },
+  {
+   "path": "meshes/visual/mcp_joint.mtl",
+   "source": "robots/hands/leap_hand/meshes/visual/mcp_joint.mtl",
+   "sha256": "240a97143e932aba69009abdd728066939517cf808108623a014ef577976caeb",
+   "size": 253
+  },
+  {
+   "path": "meshes/visual/mcp_joint.obj",
+   "source": "robots/hands/leap_hand/meshes/visual/mcp_joint.obj",
+   "sha256": "3d7194a6a33626ffcdfce78a0ca854e67b6b49f2e09a3bd62656f94515fdfbec",
+   "size": 1065471
+  },
+  {
+   "path": "meshes/visual/palm_lower.glb",
+   "source": "robots/hands/leap_hand/meshes/visual/palm_lower.glb",
+   "sha256": "3262010395bce54e8441adffc704b4cf10a2a1f69c3aa726ff5bb63de61a9f57",
+   "size": 5045588
+  },
+  {
+   "path": "meshes/visual/palm_lower.mtl",
+   "source": "robots/hands/leap_hand/meshes/visual/palm_lower.mtl",
+   "sha256": "240a97143e932aba69009abdd728066939517cf808108623a014ef577976caeb",
+   "size": 253
+  },
+  {
+   "path": "meshes/visual/palm_lower.obj",
+   "source": "robots/hands/leap_hand/meshes/visual/palm_lower.obj",
+   "sha256": "90d1d9b2a1c9eea15fbeb2232019c6191a55a3c4afa7f7427ce7afa0e3108b07",
+   "size": 2978219
+  },
+  {
+   "path": "meshes/visual/palm_lower_left.glb",
+   "source": "robots/hands/leap_hand/meshes/visual/palm_lower_left.glb",
+   "sha256": "c080628e0d47dd074db4499a942a3d623261034d6dabbb5c3b6be985eb1a7977",
+   "size": 5338144
+  },
+  {
+   "path": "meshes/visual/palm_lower_left.mtl",
+   "source": "robots/hands/leap_hand/meshes/visual/palm_lower_left.mtl",
+   "sha256": "8d089b69a407ec56c2beea4be14c24d0be0a8eab7fae7df04f35cb147ef69153",
+   "size": 236
+  },
+  {
+   "path": "meshes/visual/palm_lower_left.obj",
+   "source": "robots/hands/leap_hand/meshes/visual/palm_lower_left.obj",
+   "sha256": "5369c7bb802fb7effb58ff24d64da77b8630330c800cf490d96b631e93fed1e9",
+   "size": 4514064
+  },
+  {
+   "path": "meshes/visual/pip.glb",
+   "source": "robots/hands/leap_hand/meshes/visual/pip.glb",
+   "sha256": "f538bd1a1aff270032c55ec12b6b5f6df263465d8ad70900ef71ea8b3c7755f2",
+   "size": 1036400
+  },
+  {
+   "path": "meshes/visual/pip.mtl",
+   "source": "robots/hands/leap_hand/meshes/visual/pip.mtl",
+   "sha256": "240a97143e932aba69009abdd728066939517cf808108623a014ef577976caeb",
+   "size": 253
+  },
+  {
+   "path": "meshes/visual/pip.obj",
+   "source": "robots/hands/leap_hand/meshes/visual/pip.obj",
+   "sha256": "3fff19dc1f0100bb5f34eaf8a40fcf3db40f96fd7179bb7336e538b21ff8e067",
+   "size": 673869
+  },
+  {
+   "path": "meshes/visual/pip_left.glb",
+   "source": "robots/hands/leap_hand/meshes/visual/pip_left.glb",
+   "sha256": "297c1aa40bc83e12b471f0e16950188153ea88f20a3fe8197823b9c1a3702470",
+   "size": 1076996
+  },
+  {
+   "path": "meshes/visual/pip_left.mtl",
+   "source": "robots/hands/leap_hand/meshes/visual/pip_left.mtl",
+   "sha256": "8d089b69a407ec56c2beea4be14c24d0be0a8eab7fae7df04f35cb147ef69153",
+   "size": 236
+  },
+  {
+   "path": "meshes/visual/pip_left.obj",
+   "source": "robots/hands/leap_hand/meshes/visual/pip_left.obj",
+   "sha256": "8a9206845849784efef43486e2dafaad142f32a53c0d0fdde0381d178ec6acb4",
+   "size": 1115403
+  },
+  {
+   "path": "meshes/visual/thumb_dip.glb",
+   "source": "robots/hands/leap_hand/meshes/visual/thumb_dip.glb",
+   "sha256": "90d8564dfc71b191a14a0464c6812255f32350647bae32eab8eac15972cc6db5",
+   "size": 1452096
+  },
+  {
+   "path": "meshes/visual/thumb_dip.mtl",
+   "source": "robots/hands/leap_hand/meshes/visual/thumb_dip.mtl",
+   "sha256": "240a97143e932aba69009abdd728066939517cf808108623a014ef577976caeb",
+   "size": 253
+  },
+  {
+   "path": "meshes/visual/thumb_dip.obj",
+   "source": "robots/hands/leap_hand/meshes/visual/thumb_dip.obj",
+   "sha256": "5b402876601f2b0b36631e6a54ad20588f88e74f52320b6c902a8bc694578689",
+   "size": 968312
+  },
+  {
+   "path": "meshes/visual/thumb_fingertip.glb",
+   "source": "robots/hands/leap_hand/meshes/visual/thumb_fingertip.glb",
+   "sha256": "a88ba3ddc33179f6cb9427ab5dc8019dc1005d38ba1b75adf36d1c5531a30654",
+   "size": 1263544
+  },
+  {
+   "path": "meshes/visual/thumb_fingertip.mtl",
+   "source": "robots/hands/leap_hand/meshes/visual/thumb_fingertip.mtl",
+   "sha256": "7e972e2fb3bd55d0aac677a6cc41a2c1a6678868ac0b4f1a03af5786540fc3d7",
+   "size": 436
+  },
+  {
+   "path": "meshes/visual/thumb_fingertip.obj",
+   "source": "robots/hands/leap_hand/meshes/visual/thumb_fingertip.obj",
+   "sha256": "4695d72a70285e8a0132ed4de49876cf99c813182e3a24b172b53631224890de",
+   "size": 734609
+  },
+  {
+   "path": "meshes/visual/thumb_pip.glb",
+   "source": "robots/hands/leap_hand/meshes/visual/thumb_pip.glb",
+   "sha256": "4fc1fcc3421ef81e07492ec1842e2fba1b2c3dcf60007ba2ae03525836e5be2d",
+   "size": 402568
+  },
+  {
+   "path": "meshes/visual/thumb_pip.mtl",
+   "source": "robots/hands/leap_hand/meshes/visual/thumb_pip.mtl",
+   "sha256": "240a97143e932aba69009abdd728066939517cf808108623a014ef577976caeb",
+   "size": 253
+  },
+  {
+   "path": "meshes/visual/thumb_pip.obj",
+   "source": "robots/hands/leap_hand/meshes/visual/thumb_pip.obj",
+   "sha256": "d28876cc3b674323aa7d8a628a4240cda2757c61263b05e86a66280035a2689d",
+   "size": 294575
+  }
+ ]
+}

@@ -1,0 +1,3 @@
+Copied from https://github.com/Proception-AI/pro-models @ 7a16524 (branch release/gen2; assets/urdf/gen_2_5_<L|R>/ASY__<LEFT|RIGHT>_HAND_GEN25_ON_FOREARM_GEN1E_optimized.urdf, not the _convex variants): URDF files renamed to <hand_id>_<side>.urdf and mesh paths rewritten from gen_2_5_<L|R>/optimized/ to meshes/gen_2_5_<L|R>/optimized/. Meshes are not stored here, meshes.json points to the upstream files.
+The URDF includes the forearm and the two wrist joints (*_wrist_abd, *_wrist_flex), as upstream.
+LICENSE is the upstream LICENSE.txt (BSD-3-Clause, URDF). The mesh geometry is proprietary and not redistributable (MESHES-LICENSE, copied verbatim); meshes.json is marked "redistribute": false.

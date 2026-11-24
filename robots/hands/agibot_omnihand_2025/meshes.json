@@ -1,0 +1,72 @@
+{
+ "repo": "AgibotTech/agilink_omnihand_description",
+ "commit": "ddd053c4b09bd7eddc0ab28305d9107b49157808",
+ "files": [
+  {
+   "path": "meshes/finger_abad.STL",
+   "source": "meshes/finger_abad.STL",
+   "sha256": "9d1a2d92825713ed1501273ca39bcdf3cbfc4657ca9c2ce7db72cd2929d831ec",
+   "size": 429184
+  },
+  {
+   "path": "meshes/finger_dip.STL",
+   "source": "meshes/finger_dip.STL",
+   "sha256": "595bb13585ef4704336c90b7ddd0ac7910a47d48fecfde2d27484c4847a0426f",
+   "size": 1052684
+  },
+  {
+   "path": "meshes/finger_pip.STL",
+   "source": "meshes/finger_pip.STL",
+   "sha256": "ec2162a525fd0432c46cadb34bab3fba5bec75f75ec09e10796f67a332f4de6e",
+   "size": 498284
+  },
+  {
+   "path": "meshes/l_palm.STL",
+   "source": "meshes/l_palm.STL",
+   "sha256": "1ed7474b0c6b5e568294fae8c63d26a4b8d1605f70f986502600963c2ceb3984",
+   "size": 3397734
+  },
+  {
+   "path": "meshes/l_thumb_roll.STL",
+   "source": "meshes/l_thumb_roll.STL",
+   "sha256": "2d3e0a37ae75776d29f443bbdecb7ec005b813859374952fbb66917a2eecbeb3",
+   "size": 1835284
+  },
+  {
+   "path": "meshes/r_palm.STL",
+   "source": "meshes/r_palm.STL",
+   "sha256": "6e5f63838af93da0aec9654de02287fa3d66a5af970cf4cb1177ca20c50ffa0d",
+   "size": 3397784
+  },
+  {
+   "path": "meshes/r_thumb_roll.STL",
+   "source": "meshes/r_thumb_roll.STL",
+   "sha256": "78bfe2799a0cec14b1a30ad39a807da37208fb6f1060c95345eec0f9606acc9f",
+   "size": 1214884
+  },
+  {
+   "path": "meshes/thumb_abad.STL",
+   "source": "meshes/thumb_abad.STL",
+   "sha256": "fa33570023311e0944753be441e5b50af7914f7fe738dc00f2d58f2707539285",
+   "size": 453584
+  },
+  {
+   "path": "meshes/thumb_dip.STL",
+   "source": "meshes/thumb_dip.STL",
+   "sha256": "d95c5d23d5969876f575f45cee6113907833ba98478962b2949c7345a14d7690",
+   "size": 513584
+  },
+  {
+   "path": "meshes/thumb_mcp.STL",
+   "source": "meshes/thumb_mcp.STL",
+   "sha256": "641e576547829f68aff373874fa7b1de9aae26a5e37fd8cf12324acf9b4d1d39",
+   "size": 948784
+  },
+  {
+   "path": "meshes/thumb_pip.STL",
+   "source": "meshes/thumb_pip.STL",
+   "sha256": "d353c076debc891d3d404fc15f64403f9fc0bab5b941235a8b30274fd8b54291",
+   "size": 274784
+  }
+ ]
+}

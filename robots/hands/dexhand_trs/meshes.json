@@ -1,0 +1,366 @@
+{
+ "repo": "iotdesignshop/dexhand_description",
+ "commit": "211b0ea23e21215532613711c383ea6823423c0c",
+ "files": [
+  {
+   "path": "meshes/left/base_link.stl",
+   "source": "meshes/left/base_link.stl",
+   "sha256": "5520ba6158381404d0d9095808a5e9ee2da59aa0590c9f7b5f871f03fc66bc26",
+   "size": 26084
+  },
+  {
+   "path": "meshes/left/forearm_left_1.stl",
+   "source": "meshes/left/forearm_left_1.stl",
+   "sha256": "78c18f34ca4197f0d0a485d773a39376dfc18ef3c38c80f2cafaf2e25d1facd0",
+   "size": 2017884
+  },
+  {
+   "path": "meshes/left/hand-cover-left_1.stl",
+   "source": "meshes/left/hand-cover-left_1.stl",
+   "sha256": "246ad0112e896de7d76859b68b0f4ccf1045896896a9310e644fe46a020f112f",
+   "size": 1359984
+  },
+  {
+   "path": "meshes/left/index_bulk_left_1.stl",
+   "source": "meshes/left/index_bulk_left_1.stl",
+   "sha256": "77fb63209f87b5bfb4433af0077077bb3e3d27a55e4ec2a903f19aed8067fcbe",
+   "size": 3742284
+  },
+  {
+   "path": "meshes/left/index_knuckle_1.stl",
+   "source": "meshes/left/index_knuckle_1.stl",
+   "sha256": "03ec5413fe50073dada84d0f5e06cb58deaaffac1b7a0a318fa7e19adf3a2167",
+   "size": 407284
+  },
+  {
+   "path": "meshes/left/index_mlp_1.stl",
+   "source": "meshes/left/index_mlp_1.stl",
+   "sha256": "6ee9ef5af0a171232371662888d4c31d77d124bff03ae14ae2da10a8866e3e33",
+   "size": 220084
+  },
+  {
+   "path": "meshes/left/index_plp_1.stl",
+   "source": "meshes/left/index_plp_1.stl",
+   "sha256": "120736dad594d982470ad0c5354cd89a85ccbb1c6398b314ac3f42d524783146",
+   "size": 329384
+  },
+  {
+   "path": "meshes/left/index_tip_1.stl",
+   "source": "meshes/left/index_tip_1.stl",
+   "sha256": "4c93c49a5b5c68682f37227819989bcfb06ffc6b6bb153c8316c29317b7fffc1",
+   "size": 336484
+  },
+  {
+   "path": "meshes/left/middle_bulk_left_1.stl",
+   "source": "meshes/left/middle_bulk_left_1.stl",
+   "sha256": "f3f043082694b9ebe811459c249bbe256c9d80f28ee2ee7a403b33ce93b2d2b7",
+   "size": 418184
+  },
+  {
+   "path": "meshes/left/middle_knuckle_1.stl",
+   "source": "meshes/left/middle_knuckle_1.stl",
+   "sha256": "56a39f4d82f46c418f39ff3c8e4fc775d662ea73925ec8857aac49e7be2a201e",
+   "size": 410984
+  },
+  {
+   "path": "meshes/left/middle_mlp_1.stl",
+   "source": "meshes/left/middle_mlp_1.stl",
+   "sha256": "4c066c204b7e58f84235ab049a823d19cacf516b4878c984a52cf06999460321",
+   "size": 220484
+  },
+  {
+   "path": "meshes/left/middle_plp_1.stl",
+   "source": "meshes/left/middle_plp_1.stl",
+   "sha256": "303a2c85ec83abac37044f429b9ae50636a2f567747e555e20f1f0b9d7448fe4",
+   "size": 330984
+  },
+  {
+   "path": "meshes/left/middle_tip_1.stl",
+   "source": "meshes/left/middle_tip_1.stl",
+   "sha256": "a8b3b5197483e4a65e3eadbb25a9e56fe8f1ab040573d44a4c03c749e4643d48",
+   "size": 347584
+  },
+  {
+   "path": "meshes/left/pinky_bulk_left_1.stl",
+   "source": "meshes/left/pinky_bulk_left_1.stl",
+   "sha256": "31ca2433a43068ee35650f5d8116e292d1042c647af7b78baad86b6b3dcc0be1",
+   "size": 352384
+  },
+  {
+   "path": "meshes/left/pinky_knuckle_1.stl",
+   "source": "meshes/left/pinky_knuckle_1.stl",
+   "sha256": "4ef0e3709c4cbd76b02aab131d7a9bbf442ee1f97a75f4fff0a3c63c0f7e0bbe",
+   "size": 398084
+  },
+  {
+   "path": "meshes/left/pinky_mlp_1.stl",
+   "source": "meshes/left/pinky_mlp_1.stl",
+   "sha256": "e01f874ddac1cf0c87d4349e70527c6f25cd4ab850e6a5b220337144ef0a1a63",
+   "size": 232484
+  },
+  {
+   "path": "meshes/left/pinky_plp_1.stl",
+   "source": "meshes/left/pinky_plp_1.stl",
+   "sha256": "b549d9089619e4dedbdfe29f79f2a12c52b5b541c6d6a9220cd4842c1494d3b8",
+   "size": 330984
+  },
+  {
+   "path": "meshes/left/pinky_tip_1.stl",
+   "source": "meshes/left/pinky_tip_1.stl",
+   "sha256": "60f2d2502c855c769cfd2cf2cb6e4cf6de31cd41ecaa27df6649e64c03fc763a",
+   "size": 339084
+  },
+  {
+   "path": "meshes/left/ring_bulk_left_1.stl",
+   "source": "meshes/left/ring_bulk_left_1.stl",
+   "sha256": "fd950e6cd82c7136ce7f616d24b20d4a9bb15d906f86434279e69835f5c201de",
+   "size": 586084
+  },
+  {
+   "path": "meshes/left/ring_knuckle_1.stl",
+   "source": "meshes/left/ring_knuckle_1.stl",
+   "sha256": "42098a2dea2799e5e6258e749d88e7d0609968b38e5bc55cbd3b6ef508b3575a",
+   "size": 402284
+  },
+  {
+   "path": "meshes/left/ring_mlp_1.stl",
+   "source": "meshes/left/ring_mlp_1.stl",
+   "sha256": "9e2330283bfa5ce323f83745c4f132536c0bd1525ac13f94a1b673b179fd824d",
+   "size": 219284
+  },
+  {
+   "path": "meshes/left/ring_plp_1.stl",
+   "source": "meshes/left/ring_plp_1.stl",
+   "sha256": "11abeb6f934daa55436e28279ba012bc312cafbc5af484e2df1871f8f6fd57ba",
+   "size": 328084
+  },
+  {
+   "path": "meshes/left/ring_tip_1.stl",
+   "source": "meshes/left/ring_tip_1.stl",
+   "sha256": "6373645711902944872ee724397aeee9ee28b0f2fe5fe28c442130fe1fae85b7",
+   "size": 334584
+  },
+  {
+   "path": "meshes/left/thumb_cmc_a_1.stl",
+   "source": "meshes/left/thumb_cmc_a_1.stl",
+   "sha256": "166602c4923d55a452570b4c5297a4f6d4789019aa1eea59635e7d49bc55d77a",
+   "size": 289484
+  },
+  {
+   "path": "meshes/left/thumb_cmc_b_1.stl",
+   "source": "meshes/left/thumb_cmc_b_1.stl",
+   "sha256": "c0afdc8741d9377ea0065e6053b107b411165507bb1061d65d706ac31db57853",
+   "size": 211484
+  },
+  {
+   "path": "meshes/left/thumb_mlp_1.stl",
+   "source": "meshes/left/thumb_mlp_1.stl",
+   "sha256": "6c4fabf827953bd7669e428da00285d91d17bc3daad69eda437f4f43688f67a1",
+   "size": 166484
+  },
+  {
+   "path": "meshes/left/thumb_plp_1.stl",
+   "source": "meshes/left/thumb_plp_1.stl",
+   "sha256": "2f88effce63573f555d1658c3f0ae1f6234538dd4b0d51ea8b01b277d923650a",
+   "size": 277884
+  },
+  {
+   "path": "meshes/left/thumb_tip_1.stl",
+   "source": "meshes/left/thumb_tip_1.stl",
+   "sha256": "1a9770f83d2006c53594a62b9de09fd9b980a2a0d2349e467433249b93f44cfe",
+   "size": 266584
+  },
+  {
+   "path": "meshes/left/wrist_lower_1.stl",
+   "source": "meshes/left/wrist_lower_1.stl",
+   "sha256": "979b9f8c07de8d5314d65cbb33a299d75cdcc80fc0aa871b68dffa7aac2c3074",
+   "size": 515584
+  },
+  {
+   "path": "meshes/left/wrist_upper_1.stl",
+   "source": "meshes/left/wrist_upper_1.stl",
+   "sha256": "b105be8bcf2b2933c9bfb098c8e857b2da0d1129bf2d5edacc63a8286e5ebe13",
+   "size": 263284
+  },
+  {
+   "path": "meshes/right/base_link.stl",
+   "source": "meshes/right/base_link.stl",
+   "sha256": "5520ba6158381404d0d9095808a5e9ee2da59aa0590c9f7b5f871f03fc66bc26",
+   "size": 26084
+  },
+  {
+   "path": "meshes/right/forearm_1.stl",
+   "source": "meshes/right/forearm_1.stl",
+   "sha256": "364a2e7f924ce3531acbb0ec46aea116b7de92395682ff21c7745148df6bad40",
+   "size": 2017384
+  },
+  {
+   "path": "meshes/right/hand-cover_1.stl",
+   "source": "meshes/right/hand-cover_1.stl",
+   "sha256": "16d9eb1f1f86bac5ed8403c9b26f599e4e9e7ed7e778c5c86524cb2339ad3569",
+   "size": 1373184
+  },
+  {
+   "path": "meshes/right/index_bulk_1.stl",
+   "source": "meshes/right/index_bulk_1.stl",
+   "sha256": "568ce74871a60e54aacaecb4157e9eaac8fc34001a19416e6b6e7902fb66538c",
+   "size": 625284
+  },
+  {
+   "path": "meshes/right/index_knuckle_1.stl",
+   "source": "meshes/right/index_knuckle_1.stl",
+   "sha256": "464e51f356aa8bb0af83436dbf79ff560b96596ce6b7000cb5c60ca1a249073f",
+   "size": 407284
+  },
+  {
+   "path": "meshes/right/index_mlp_1.stl",
+   "source": "meshes/right/index_mlp_1.stl",
+   "sha256": "0cc41fc5233ed5c1480d26154f77d1cb0ced63baabbb40aafd0140bb6ed56baf",
+   "size": 220084
+  },
+  {
+   "path": "meshes/right/index_plp_1.stl",
+   "source": "meshes/right/index_plp_1.stl",
+   "sha256": "1f6226b2c6922fbc347b8c93f86b2012143a0c4f0afe445f94b8104cccd6472a",
+   "size": 329384
+  },
+  {
+   "path": "meshes/right/index_tip_1.stl",
+   "source": "meshes/right/index_tip_1.stl",
+   "sha256": "6ccaa03299236d400ad65df930b80918bb87d1e74664171c25d81a29cbed3459",
+   "size": 336484
+  },
+  {
+   "path": "meshes/right/middle_bulk_1.stl",
+   "source": "meshes/right/middle_bulk_1.stl",
+   "sha256": "f038523b8e8f11fc5b56450ac769e305bdfa6144e5c6626cb1a830616a820e87",
+   "size": 418184
+  },
+  {
+   "path": "meshes/right/middle_knuckle_1.stl",
+   "source": "meshes/right/middle_knuckle_1.stl",
+   "sha256": "df6acd2e9f584c8e09be4230f8dc92387d01d97cfd1a6df780e631fd77678681",
+   "size": 410984
+  },
+  {
+   "path": "meshes/right/middle_mlp_1.stl",
+   "source": "meshes/right/middle_mlp_1.stl",
+   "sha256": "781cf317d90906c1de8992887b0ee9e9bfde6141d89b6a360e4ede029825f87d",
+   "size": 221084
+  },
+  {
+   "path": "meshes/right/middle_plp_1.stl",
+   "source": "meshes/right/middle_plp_1.stl",
+   "sha256": "b7f7d92e595d25c3ca1ba650212390071f6dd534ee34404611c197d64455b325",
+   "size": 330984
+  },
+  {
+   "path": "meshes/right/middle_tip_1.stl",
+   "source": "meshes/right/middle_tip_1.stl",
+   "sha256": "10dfe689b36bea179117bac313fb3dc4db493f2916d840f78164021412051d7d",
+   "size": 347584
+  },
+  {
+   "path": "meshes/right/pinky_bulk_1.stl",
+   "source": "meshes/right/pinky_bulk_1.stl",
+   "sha256": "6a1abae4fb0f7e575539cb99e141eb52caf7ee4c99e180987d610109070f559e",
+   "size": 352384
+  },
+  {
+   "path": "meshes/right/pinky_knuckle_1.stl",
+   "source": "meshes/right/pinky_knuckle_1.stl",
+   "sha256": "4cc7a1d3baf8ae0c3ae2c25553c51c24d931f96db3d862162463a9cdf5cd3030",
+   "size": 398084
+  },
+  {
+   "path": "meshes/right/pinky_mlp_1.stl",
+   "source": "meshes/right/pinky_mlp_1.stl",
+   "sha256": "730d1e482147888db3f53f3b33f802cc2e0bfa6caebd4fa509ad62fec8ca2d4b",
+   "size": 232484
+  },
+  {
+   "path": "meshes/right/pinky_plp_1.stl",
+   "source": "meshes/right/pinky_plp_1.stl",
+   "sha256": "98f501e4af101b30c8a732e6ddd2b0aa1d2d2206e57d13d72018c40501b0f71e",
+   "size": 330984
+  },
+  {
+   "path": "meshes/right/pinky_tip_1.stl",
+   "source": "meshes/right/pinky_tip_1.stl",
+   "sha256": "1d1ac873307a621fffe02cf8dae19ed4b435280f6ef2a908a96ec13a4c177b29",
+   "size": 339084
+  },
+  {
+   "path": "meshes/right/ring_bulk_1.stl",
+   "source": "meshes/right/ring_bulk_1.stl",
+   "sha256": "4d405fa0782abaec2522ec2cee65891c9f6e87bb5b6aa478bd61f274854ddfdd",
+   "size": 6446084
+  },
+  {
+   "path": "meshes/right/ring_knuckle_1.stl",
+   "source": "meshes/right/ring_knuckle_1.stl",
+   "sha256": "166760c1c6d9d750d48a07c2d964bf66554ff92bb3bd7cd98b000e23584ccbbc",
+   "size": 402284
+  },
+  {
+   "path": "meshes/right/ring_mlp_1.stl",
+   "source": "meshes/right/ring_mlp_1.stl",
+   "sha256": "609ac6ba42b01f1dc91644393ba3ee8e04bb8ab79be5e5e5a86004cdab1d5333",
+   "size": 219284
+  },
+  {
+   "path": "meshes/right/ring_plp_1.stl",
+   "source": "meshes/right/ring_plp_1.stl",
+   "sha256": "91c9347fa8255f0cf02f4b4f2c92926e53cf8efe333c6134770219499d131b2d",
+   "size": 328084
+  },
+  {
+   "path": "meshes/right/ring_tip_1.stl",
+   "source": "meshes/right/ring_tip_1.stl",
+   "sha256": "623541559fa1db67f4ff81230a373fad32938a8181f5e68a89a0240ef6bd238a",
+   "size": 334584
+  },
+  {
+   "path": "meshes/right/thumb_cmc_a_1.stl",
+   "source": "meshes/right/thumb_cmc_a_1.stl",
+   "sha256": "d1d77cecf381ac5eafa0c662ed79f652d51e82507e6bdc37069d68db9c3578c3",
+   "size": 289484
+  },
+  {
+   "path": "meshes/right/thumb_cmc_b_1.stl",
+   "source": "meshes/right/thumb_cmc_b_1.stl",
+   "sha256": "3fe3fc2f9d67cb4db9d16685115f441e83f28ebed46627d027fd3e562aa371d0",
+   "size": 211484
+  },
+  {
+   "path": "meshes/right/thumb_mlp_1.stl",
+   "source": "meshes/right/thumb_mlp_1.stl",
+   "sha256": "9bfd558e261cedd312824c0cf4c5418a868fd1edb439936f726995ee41f00f87",
+   "size": 166484
+  },
+  {
+   "path": "meshes/right/thumb_plp_1.stl",
+   "source": "meshes/right/thumb_plp_1.stl",
+   "sha256": "e89e810c87f3d5f2feb67e7348f4eb59d6a4c1b1a4cf12d21816d1f59ca4195d",
+   "size": 277884
+  },
+  {
+   "path": "meshes/right/thumb_tip_1.stl",
+   "source": "meshes/right/thumb_tip_1.stl",
+   "sha256": "8aa1e323606ab7491515695bca32675c63396ee2cda90e46fcf68cae4bc7e390",
+   "size": 266584
+  },
+  {
+   "path": "meshes/right/wrist_lower_1.stl",
+   "source": "meshes/right/wrist_lower_1.stl",
+   "sha256": "4cad8ef117ae9ce09f440b88fc0805a74d4e9d35d0aca766c35d473339299cc3",
+   "size": 515584
+  },
+  {
+   "path": "meshes/right/wrist_upper_1.stl",
+   "source": "meshes/right/wrist_upper_1.stl",
+   "sha256": "bdf16d8b69d878b4565183c0e7db2291381710d4e95d393cf7ef0ec4653ee486",
+   "size": 263284
+  }
+ ]
+}

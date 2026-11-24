@@ -1,0 +1,246 @@
+{
+ "repo": "roboterax/models",
+ "commit": "e8660e664e39e5b80ebb1f252e1b77b0e6929cff",
+ "files": [
+  {
+   "path": "meshes/left_hand_base_link.STL",
+   "source": "star1/meshes/left_hand_base_link.STL",
+   "sha256": "6d7495645f245cf7ce266b010ce864102dfbdbdc9f029ecd1f73c1c5d549d421",
+   "size": 684
+  },
+  {
+   "path": "meshes/left_hand_ee_link.STL",
+   "source": "star1/meshes/left_hand_ee_link.STL",
+   "sha256": "e2bda1707a5e15bcd60be2a7450627607f7d0b153850afc92b86df8fc5eef210",
+   "size": 684
+  },
+  {
+   "path": "meshes/left_hand_index_bend_link.STL",
+   "source": "star1/meshes/left_hand_index_bend_link.STL",
+   "sha256": "dffd1bf191354b1e1445996b059ac3f7d5c85bff45767c28e4031c88b55594d5",
+   "size": 164784
+  },
+  {
+   "path": "meshes/left_hand_index_rota_link1.STL",
+   "source": "star1/meshes/left_hand_index_rota_link1.STL",
+   "sha256": "d3043620eff3416a9d060f08cf890763db8db77bd72715c0b426fd5724a770c3",
+   "size": 691384
+  },
+  {
+   "path": "meshes/left_hand_index_rota_link2.STL",
+   "source": "star1/meshes/left_hand_index_rota_link2.STL",
+   "sha256": "125636813d960f2ca14932bb74c03d4035a310e4bcbbb5fd5bf7ecdf69757bf4",
+   "size": 395584
+  },
+  {
+   "path": "meshes/left_hand_index_rota_tip.STL",
+   "source": "star1/meshes/left_hand_index_rota_tip.STL",
+   "sha256": "4f870a8b554d3b705f86d2f7d4a4f3fbca14f74e3c39efc90d110b86ad136eb9",
+   "size": 6484
+  },
+  {
+   "path": "meshes/left_hand_link.STL",
+   "source": "star1/meshes/left_hand_link.STL",
+   "sha256": "4d2e6c0d9af6a2f116aa5fde55b280186e102705efb035fdbfda9a747ebf1a9b",
+   "size": 1037784
+  },
+  {
+   "path": "meshes/left_hand_mid_link1.STL",
+   "source": "star1/meshes/left_hand_mid_link1.STL",
+   "sha256": "a66d2574f4a433eef6a0f43b9d4ecd14b32557693953defa654cd10c7c305aa0",
+   "size": 691384
+  },
+  {
+   "path": "meshes/left_hand_mid_link2.STL",
+   "source": "star1/meshes/left_hand_mid_link2.STL",
+   "sha256": "a695ec28c9c41cc4a18b0ffc421cec785221fa43cca94b1c8b8f3077987a357b",
+   "size": 395584
+  },
+  {
+   "path": "meshes/left_hand_mid_tip.STL",
+   "source": "star1/meshes/left_hand_mid_tip.STL",
+   "sha256": "15db9d2c0f08f8b7613e97952fb7836e578b874e836186c1b59056d43627c667",
+   "size": 6484
+  },
+  {
+   "path": "meshes/left_hand_pinky_link1.STL",
+   "source": "star1/meshes/left_hand_pinky_link1.STL",
+   "sha256": "1a7d786e133d34955e4358d72fed7ddabd798bff80207af9b932f01ec7fb15c2",
+   "size": 691384
+  },
+  {
+   "path": "meshes/left_hand_pinky_link2.STL",
+   "source": "star1/meshes/left_hand_pinky_link2.STL",
+   "sha256": "98148a77d8367fe6cfe9f44fa3e01f288ba56a9cd86c232232972ff3ca3366c7",
+   "size": 395584
+  },
+  {
+   "path": "meshes/left_hand_pinky_tip.STL",
+   "source": "star1/meshes/left_hand_pinky_tip.STL",
+   "sha256": "9ad959ab2dee00abcf792c26bd544665a553412ba2f0c8879f5c4b1aad8c1cfb",
+   "size": 6484
+  },
+  {
+   "path": "meshes/left_hand_ring_link1.STL",
+   "source": "star1/meshes/left_hand_ring_link1.STL",
+   "sha256": "96a858ed17c4193ee87a09b1544d2a34b8dcedd5bd10f89e56ee26451dbdd4b9",
+   "size": 691384
+  },
+  {
+   "path": "meshes/left_hand_ring_link2.STL",
+   "source": "star1/meshes/left_hand_ring_link2.STL",
+   "sha256": "33a7411768db62e15b952cde84579d8a64207ebbfe599188888a138058bc7f90",
+   "size": 395584
+  },
+  {
+   "path": "meshes/left_hand_ring_tip.STL",
+   "source": "star1/meshes/left_hand_ring_tip.STL",
+   "sha256": "5fa3a4ffb9de17f804049c8fd3595b50c72c3f6aff7235ddd3c6085254976972",
+   "size": 6484
+  },
+  {
+   "path": "meshes/left_hand_thumb_bend_link.STL",
+   "source": "star1/meshes/left_hand_thumb_bend_link.STL",
+   "sha256": "b13cf4e0e7bdcc534087a49c9edf36ba46ca526869fe6259ef4c22f82365483d",
+   "size": 296684
+  },
+  {
+   "path": "meshes/left_hand_thumb_rota_link1.STL",
+   "source": "star1/meshes/left_hand_thumb_rota_link1.STL",
+   "sha256": "ba4d473f8913f60f31178c68ba2e196fffba6340ae85d9e5adfe64166f331ea2",
+   "size": 698584
+  },
+  {
+   "path": "meshes/left_hand_thumb_rota_link2.STL",
+   "source": "star1/meshes/left_hand_thumb_rota_link2.STL",
+   "sha256": "e0252b238a0d06999ab39b94f53290d22c14e0ddb66015fbded0614e3906e393",
+   "size": 395384
+  },
+  {
+   "path": "meshes/left_hand_thumb_rota_tip.STL",
+   "source": "star1/meshes/left_hand_thumb_rota_tip.STL",
+   "sha256": "4721b78c31f34239681826516c089e7b118d7d34f1940ac8dabe8ec0ad30781f",
+   "size": 6484
+  },
+  {
+   "path": "meshes/right_hand_base_link.STL",
+   "source": "star1/meshes/right_hand_base_link.STL",
+   "sha256": "c518a19d15ef295da74dea9f8520bdef94c4ceb6fbac7568bd0cecf2e37ce6db",
+   "size": 684
+  },
+  {
+   "path": "meshes/right_hand_ee_link.STL",
+   "source": "star1/meshes/right_hand_ee_link.STL",
+   "sha256": "b0d428ab36a97335fe900b7826c271d5cdb48098462878f4875b8a1ff60ce21d",
+   "size": 684
+  },
+  {
+   "path": "meshes/right_hand_index_bend_link.STL",
+   "source": "star1/meshes/right_hand_index_bend_link.STL",
+   "sha256": "8969bc01d636eb86d64d8e5ae81fc9530392fbaf1e99d01ea700cad16739e809",
+   "size": 164784
+  },
+  {
+   "path": "meshes/right_hand_index_rota_link1.STL",
+   "source": "star1/meshes/right_hand_index_rota_link1.STL",
+   "sha256": "aa81e5c7a89339893f8ce3c109ad44f5da9e81b067f655bf85a8c94a15170560",
+   "size": 691384
+  },
+  {
+   "path": "meshes/right_hand_index_rota_link2.STL",
+   "source": "star1/meshes/right_hand_index_rota_link2.STL",
+   "sha256": "1978ac4ba6eb13bba2fb7a03e6b7ad16ad9c22fce6cac4b71c2620650bbe7110",
+   "size": 395584
+  },
+  {
+   "path": "meshes/right_hand_index_rota_tip.STL",
+   "source": "star1/meshes/right_hand_index_rota_tip.STL",
+   "sha256": "8859c91d2694df7548e81cf3b236e1e3e6d3820281820135672fd05fd47655c5",
+   "size": 6484
+  },
+  {
+   "path": "meshes/right_hand_link.STL",
+   "source": "star1/meshes/right_hand_link.STL",
+   "sha256": "990938909f1c2743425f425433f8d73352160072a82d81aa21fb8f73918cdc38",
+   "size": 1033984
+  },
+  {
+   "path": "meshes/right_hand_mid_link1.STL",
+   "source": "star1/meshes/right_hand_mid_link1.STL",
+   "sha256": "b9ece604072b09b00b14dca913f7adcfe86f81067eb511d08c4d995bf057aa1d",
+   "size": 691384
+  },
+  {
+   "path": "meshes/right_hand_mid_link2.STL",
+   "source": "star1/meshes/right_hand_mid_link2.STL",
+   "sha256": "4a451a017695c88bac5028d04618b77efe3e0105839698126078aff18db33bad",
+   "size": 395584
+  },
+  {
+   "path": "meshes/right_hand_mid_tip.STL",
+   "source": "star1/meshes/right_hand_mid_tip.STL",
+   "sha256": "2a388d4e095beafa003075ceea50ba93aa0c08304d41e40aea84991577cb2e87",
+   "size": 6484
+  },
+  {
+   "path": "meshes/right_hand_pinky_link1.STL",
+   "source": "star1/meshes/right_hand_pinky_link1.STL",
+   "sha256": "d8d95abf22c08b0cb19bf17f6dc70ef5ad10c2c0476d6155ddf545fd80b6f7b8",
+   "size": 691384
+  },
+  {
+   "path": "meshes/right_hand_pinky_link2.STL",
+   "source": "star1/meshes/right_hand_pinky_link2.STL",
+   "sha256": "e45d273473af9a3c6e7920cbea599c3fd28b796dbbd92104ba051633da96e4ce",
+   "size": 395584
+  },
+  {
+   "path": "meshes/right_hand_pinky_tip.STL",
+   "source": "star1/meshes/right_hand_pinky_tip.STL",
+   "sha256": "f179fe01ad735fb38fa71f0be0a2ead3f83798658c47b276be642de7fd272045",
+   "size": 6484
+  },
+  {
+   "path": "meshes/right_hand_ring_link1.STL",
+   "source": "star1/meshes/right_hand_ring_link1.STL",
+   "sha256": "cc6449f3311c0c6066921c088630611d0d96c786e3a0976b57cf74443ac459ae",
+   "size": 691384
+  },
+  {
+   "path": "meshes/right_hand_ring_link2.STL",
+   "source": "star1/meshes/right_hand_ring_link2.STL",
+   "sha256": "93fc89a8ed9c9cbc4bd1ef0ee6e251ab6064ff61776be66e0cd69497015be09d",
+   "size": 395584
+  },
+  {
+   "path": "meshes/right_hand_ring_tip.STL",
+   "source": "star1/meshes/right_hand_ring_tip.STL",
+   "sha256": "f70d7ad040feaf3d39a326b21036c1cf90fcea41aef0439164d8bf21b5adefb9",
+   "size": 6484
+  },
+  {
+   "path": "meshes/right_hand_thumb_bend_link.STL",
+   "source": "star1/meshes/right_hand_thumb_bend_link.STL",
+   "sha256": "128a534a22c58c34ba091365daf5cf3310d576386033623ff7c3ba0e4bcdfa75",
+   "size": 296884
+  },
+  {
+   "path": "meshes/right_hand_thumb_rota_link1.STL",
+   "source": "star1/meshes/right_hand_thumb_rota_link1.STL",
+   "sha256": "1fe3c9615f90eccd012b5fed8b3aba1f1de68987f03d643367b53740530e1a63",
+   "size": 697884
+  },
+  {
+   "path": "meshes/right_hand_thumb_rota_link2.STL",
+   "source": "star1/meshes/right_hand_thumb_rota_link2.STL",
+   "sha256": "25c5ae9613658b5a73a45e6ae96369cfb0dac83742285849dfb35d04c450db19",
+   "size": 398584
+  },
+  {
+   "path": "meshes/right_hand_thumb_rota_tip.STL",
+   "source": "star1/meshes/right_hand_thumb_rota_tip.STL",
+   "sha256": "2f078506d71fce7f7e0f92a2754f2382488f44044f4572dc0b2d04410259f579",
+   "size": 6484
+  }
+ ]
+}

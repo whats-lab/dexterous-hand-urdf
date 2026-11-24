@@ -1,0 +1,126 @@
+{
+ "repo": "leap-hand/LEAP_Hand_V2_Adv_API",
+ "commit": "a0936196e8fa0bcefff045d6fc02523d6da591f2",
+ "files": [
+  {
+   "path": "meshes/leap_v2_left/4_finger_frame.stl",
+   "source": "leap_v2/leap_v2/leap_v2_left/4_finger_frame.stl",
+   "sha256": "f17500b20320305c2ec85adc129546f69948f17796f764eced0cc723ce56bc7e",
+   "size": 10936684
+  },
+  {
+   "path": "meshes/leap_v2_left/axle_4_gear_together.stl",
+   "source": "leap_v2/leap_v2/leap_v2_left/axle_4_gear_together.stl",
+   "sha256": "e0bfd2fee78408b8faf961eb22d4f6567f316b2b2b0283c61f5f8d5f5fa11437",
+   "size": 1112784
+  },
+  {
+   "path": "meshes/leap_v2_left/axle_4_gear_together_mir.stl",
+   "source": "leap_v2/leap_v2/leap_v2_left/axle_4_gear_together_mir.stl",
+   "sha256": "736449a3c2fccb540c35866e7db1f44d3aac0453d8729ecc91eb4a3e6bcaa902",
+   "size": 1100084
+  },
+  {
+   "path": "meshes/leap_v2_left/dip_tip_soft_upward_cut.stl",
+   "source": "leap_v2/leap_v2/leap_v2_left/dip_tip_soft_upward_cut.stl",
+   "sha256": "ccbd43295a31d8ec3bb136c877c54f8e2501675d7a04d540fbdb859bc3804ccb",
+   "size": 390884
+  },
+  {
+   "path": "meshes/leap_v2_left/finger_v2_with_motor.stl",
+   "source": "leap_v2/leap_v2/leap_v2_left/finger_v2_with_motor.stl",
+   "sha256": "ae776266c2e3b640974c7be495afaec23fbfeaaee917fd161d74e772da08bbbc",
+   "size": 622184
+  },
+  {
+   "path": "meshes/leap_v2_left/no_finger_frame.stl",
+   "source": "leap_v2/leap_v2/leap_v2_left/no_finger_frame.stl",
+   "sha256": "b685506234b35f8f253c4d02ae476962ae4242cd15b4b734a77d870c6612ebe4",
+   "size": 1204684
+  },
+  {
+   "path": "meshes/leap_v2_left/pip_dip_soft_parts.stl",
+   "source": "leap_v2/leap_v2/leap_v2_left/pip_dip_soft_parts.stl",
+   "sha256": "4c072af05450d18b53a4dc7dc9436f31faafd49329a3ae1e32c139f7842e59ea",
+   "size": 643884
+  },
+  {
+   "path": "meshes/leap_v2_left/thumb_frame.stl",
+   "source": "leap_v2/leap_v2/leap_v2_left/thumb_frame.stl",
+   "sha256": "415a207e2b7defd86213e5f345a874eb97eb4a4816db99e17c2bce9ba74b20cb",
+   "size": 3093584
+  },
+  {
+   "path": "meshes/leap_v2_left/thumb_tip_hard.stl",
+   "source": "leap_v2/leap_v2/leap_v2_left/thumb_tip_hard.stl",
+   "sha256": "1a6e4527a6a34478ed0a4449464473014b6817571ebdc5be6efee1ec1710ea14",
+   "size": 864084
+  },
+  {
+   "path": "meshes/leap_v2_left/thumb_with_motor.stl",
+   "source": "leap_v2/leap_v2/leap_v2_left/thumb_with_motor.stl",
+   "sha256": "195e5e55fb31d2eb56ebf425e6632ba8fb086a377ed693aa4ca21a9b281f3ab3",
+   "size": 628684
+  },
+  {
+   "path": "meshes/leap_v2_right/4_finger_frame_mirror.stl",
+   "source": "leap_v2/leap_v2/leap_v2_right/4_finger_frame_mirror.stl",
+   "sha256": "bcecc9ce7b9c7b96f09dc70c525339d52db55c0a7aee933b3ffe706974b044e0",
+   "size": 11371384
+  },
+  {
+   "path": "meshes/leap_v2_right/axle_4_gear_together.stl",
+   "source": "leap_v2/leap_v2/leap_v2_right/axle_4_gear_together.stl",
+   "sha256": "e0bfd2fee78408b8faf961eb22d4f6567f316b2b2b0283c61f5f8d5f5fa11437",
+   "size": 1112784
+  },
+  {
+   "path": "meshes/leap_v2_right/axle_4_gear_together_mir.stl",
+   "source": "leap_v2/leap_v2/leap_v2_right/axle_4_gear_together_mir.stl",
+   "sha256": "736449a3c2fccb540c35866e7db1f44d3aac0453d8729ecc91eb4a3e6bcaa902",
+   "size": 1100084
+  },
+  {
+   "path": "meshes/leap_v2_right/dip_tip_soft_upward_cut.stl",
+   "source": "leap_v2/leap_v2/leap_v2_right/dip_tip_soft_upward_cut.stl",
+   "sha256": "ccbd43295a31d8ec3bb136c877c54f8e2501675d7a04d540fbdb859bc3804ccb",
+   "size": 390884
+  },
+  {
+   "path": "meshes/leap_v2_right/finger_v2_with_motor.stl",
+   "source": "leap_v2/leap_v2/leap_v2_right/finger_v2_with_motor.stl",
+   "sha256": "605b11b0b35afd0714c1716788cacc164f425e0aa87a9f6979c49643c396caee",
+   "size": 622184
+  },
+  {
+   "path": "meshes/leap_v2_right/no_finger_frame_mirror.stl",
+   "source": "leap_v2/leap_v2/leap_v2_right/no_finger_frame_mirror.stl",
+   "sha256": "029587689beeada6ccc7af35dd854906417d4be773ba97cc516be4a2b4209731",
+   "size": 1159584
+  },
+  {
+   "path": "meshes/leap_v2_right/pip_dip_soft_parts.stl",
+   "source": "leap_v2/leap_v2/leap_v2_right/pip_dip_soft_parts.stl",
+   "sha256": "4c072af05450d18b53a4dc7dc9436f31faafd49329a3ae1e32c139f7842e59ea",
+   "size": 643884
+  },
+  {
+   "path": "meshes/leap_v2_right/thumb_frame_mirror.stl",
+   "source": "leap_v2/leap_v2/leap_v2_right/thumb_frame_mirror.stl",
+   "sha256": "8fd1b282fa64a8cd1d6825c0d8ccc1cf6bdb81b6ce6cfbaa49b445e0bca66bfa",
+   "size": 3005684
+  },
+  {
+   "path": "meshes/leap_v2_right/thumb_tip_hard.stl",
+   "source": "leap_v2/leap_v2/leap_v2_right/thumb_tip_hard.stl",
+   "sha256": "1a6e4527a6a34478ed0a4449464473014b6817571ebdc5be6efee1ec1710ea14",
+   "size": 864084
+  },
+  {
+   "path": "meshes/leap_v2_right/thumb_with_motor.stl",
+   "source": "leap_v2/leap_v2/leap_v2_right/thumb_with_motor.stl",
+   "sha256": "0f5733275a392a1921747e37201464aa4916bc16cf363f78807ce2ccb58768bb",
+   "size": 628684
+  }
+ ]
+}

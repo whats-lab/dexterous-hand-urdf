@@ -1,0 +1,258 @@
+{
+ "repo": "unitreerobotics/unitree_ros",
+ "commit": "157ff950351e5f535e03c5d85a16b7d594b3dbcc",
+ "files": [
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_11L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_11L.STL",
+   "sha256": "19a60bf1f661641f8acaf32962b59a31fe67db1148ee24808a9121839606087f",
+   "size": 631984
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_12L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_12L.STL",
+   "sha256": "9ef0609c9044c9fda79aabe19a2b0812c481727e790ae1dc324f941879fbe1ef",
+   "size": 627884
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_13L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_13L.STL",
+   "sha256": "fb5bd7347309c5f1ba810dd98d8feab90a46ed6e6ea3b76874a0fabe727e764b",
+   "size": 1385784
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_14L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_14L.STL",
+   "sha256": "2ff19d29bf478a805e6faff6e12469477d5015c34465bfea1b79ed601e502d71",
+   "size": 1158484
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_21L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_21L.STL",
+   "sha256": "86ff5b9f7948cb8429daf33835024e6949ac24c9ab669462e438d6d0dceb4ac4",
+   "size": 36084
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_22L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_22L.STL",
+   "sha256": "2dde79c77d0d3b593f48ae92c9b11687d3cfaef20d75ec5201fdba37af441683",
+   "size": 158184
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_23L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_23L.STL",
+   "sha256": "6310d519ae0b1d7d77699abeaa0d95b335479fd825dc2d5852d8ea9ed723f1fd",
+   "size": 91884
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_24L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_24L.STL",
+   "sha256": "c7934261a43e4546b5449dc897867d9d01ea89f7b3501168ba08b85df1c38c19",
+   "size": 216284
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_31L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_31L.STL",
+   "sha256": "724a26da18169c478a9800172d3689bc3b40ddf115dd33351936955ef3d98df1",
+   "size": 36084
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_32L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_32L.STL",
+   "sha256": "d216ef5fda57ff04924d5ba57773ed3334b83b2ece6a5bd07b58cd9eb90cf473",
+   "size": 158084
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_33L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_33L.STL",
+   "sha256": "147d942d659e36bc02c7cfddce4b316b8b1905210e5870ba01ff466cd8a064f9",
+   "size": 91884
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_34L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_34L.STL",
+   "sha256": "f33790d497f017e93ff20d2185623eaf7518f74edd67e081a11b726228bd64d1",
+   "size": 216284
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_41L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_41L.STL",
+   "sha256": "95b32444e2224e545d0dd2f860cbffe645bf84ff6f25bf9b7f9d9481fe2f5e85",
+   "size": 36084
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_42L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_42L.STL",
+   "sha256": "f29182b5d3c9265d6e125934d317f5d1490091eebed04560f6b5b1429a0b6298",
+   "size": 157584
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_43L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_43L.STL",
+   "sha256": "12c70623d56033ec67012bd39d8834c1c407bc5050d2862f96719cfa1a81316f",
+   "size": 91884
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_44L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_44L.STL",
+   "sha256": "aefb87e1c7302e92ac4c83e935357c2b5f337b15a58a4336780b92237479ceac",
+   "size": 216284
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_51L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_51L.STL",
+   "sha256": "857d58056fb47a3ca5ce536b5b9abe3d336a4c4d86c72bb94f887f3521af45df",
+   "size": 36084
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_52L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_52L.STL",
+   "sha256": "2ce80d3068a706d5565392dc4a7020643381e30146006c39f3bb93d4eecf13dd",
+   "size": 156784
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_53L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_53L.STL",
+   "sha256": "ab9ea1573c5a1811b134bb951154b7b0230832c0d6edde3197f3ece844358309",
+   "size": 91884
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/Link_54L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/Link_54L.STL",
+   "sha256": "c8452c7488d6b9166627b553ed101ef6beb8314871eac23c0a49c0cf66d12992",
+   "size": 216284
+  },
+  {
+   "path": "meshes/Dex5-URDF-L/meshes/base_link00L.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-L/meshes/base_link00L.STL",
+   "sha256": "b95239593baf121603f13e4d296b0612e4a2638948a82de93ed2878c711197f4",
+   "size": 1507784
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_11R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_11R.STL",
+   "sha256": "46418e0ea5043a59bb5ccb022907e9c287f1d659ad3d00d599c9d5b5c25dbb73",
+   "size": 615084
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_12R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_12R.STL",
+   "sha256": "ee20ecec9d7c2f86075f7d02d123760c11e393cf78faec166ab2d08be08ecfc7",
+   "size": 644384
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_13R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_13R.STL",
+   "sha256": "1c66cba057ab91cff0c88bbbb23e888b760c09c59b153e3be0d5cea4d468ac80",
+   "size": 1406584
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_14R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_14R.STL",
+   "sha256": "2ff19d29bf478a805e6faff6e12469477d5015c34465bfea1b79ed601e502d71",
+   "size": 1158484
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_21R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_21R.STL",
+   "sha256": "fb06603b93d761262c8854a2b84c82c54a10ceb184513578ffe50f2813cb31e7",
+   "size": 36084
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_22R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_22R.STL",
+   "sha256": "876cd7763be611cf55c000a08c4c6f9c838146077be7f571d306062d701c1ec7",
+   "size": 158184
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_23R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_23R.STL",
+   "sha256": "65951767c4c537c5945d18fc2de64dd3a579fcf387d7f78c00227f51c720df2f",
+   "size": 91884
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_24R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_24R.STL",
+   "sha256": "bc3603397a3ac78cc09f104787aa6c4c2c227b2ded5f1c6320eb3b3873f728c5",
+   "size": 216284
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_31R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_31R.STL",
+   "sha256": "5147756f1a2fe46a444b0d447f5b20cad95260fa8fd7f73cc9ca2945964a689a",
+   "size": 36084
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_32R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_32R.STL",
+   "sha256": "013d4f7a4b2bb1089834945b93898d1a0a31dd3c54a11cca038b18789aa3b29f",
+   "size": 158084
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_33R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_33R.STL",
+   "sha256": "55c16e5e77e1b5f768db1af6622a8c574bd43f9bb7aecd278c7595b78d9f66a5",
+   "size": 91884
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_34R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_34R.STL",
+   "sha256": "6bb3c7e8fea951834e333ed8f8c8ffdb29de7f1b0dc6286ed662fa5ab7d45cb4",
+   "size": 216284
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_41R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_41R.STL",
+   "sha256": "5147756f1a2fe46a444b0d447f5b20cad95260fa8fd7f73cc9ca2945964a689a",
+   "size": 36084
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_42R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_42R.STL",
+   "sha256": "c8cade5560528f66a9d0384feae94b88fdf377804d064c21b42e0858477ad434",
+   "size": 157584
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_43R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_43R.STL",
+   "sha256": "55c16e5e77e1b5f768db1af6622a8c574bd43f9bb7aecd278c7595b78d9f66a5",
+   "size": 91884
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_44R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_44R.STL",
+   "sha256": "22f90173bc38e1061aeee3d1a51dcfcd8c1bcb5c3c147dcbe508d5f57d8a0974",
+   "size": 216284
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_51R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_51R.STL",
+   "sha256": "5147756f1a2fe46a444b0d447f5b20cad95260fa8fd7f73cc9ca2945964a689a",
+   "size": 36084
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_52R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_52R.STL",
+   "sha256": "7bdb53b6b07bd99105509daf843ba08467a61f7670a37239341ef3ecae983035",
+   "size": 156784
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_53R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_53R.STL",
+   "sha256": "55c16e5e77e1b5f768db1af6622a8c574bd43f9bb7aecd278c7595b78d9f66a5",
+   "size": 91884
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/Link_54R.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/Link_54R.STL",
+   "sha256": "22f90173bc38e1061aeee3d1a51dcfcd8c1bcb5c3c147dcbe508d5f57d8a0974",
+   "size": 216284
+  },
+  {
+   "path": "meshes/Dex5-URDF-R/meshes/base_link00.STL",
+   "source": "robots/dexterous_hand_description/dex5_1/Dex5-URDF-R/meshes/base_link00.STL",
+   "sha256": "bcdfc6e7385471bbe7e5c67008a419573825487ada8958cd65f7db0574da3e4a",
+   "size": 1373384
+  }
+ ]
+}

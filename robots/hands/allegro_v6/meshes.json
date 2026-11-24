@@ -1,0 +1,2010 @@
+{
+ "repo": "Wonikrobotics-git/allegro_hand_ros2_v6_v",
+ "commit": "fd7072db0ce37becefbce9ffe6519968505a6291",
+ "files": [
+  {
+   "path": "meshes/Finger01_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger01_Link01.STL",
+   "sha256": "bebdc7efee90452b0128ad56049447855696032c8a6815511439276909b57126",
+   "size": 1049084
+  },
+  {
+   "path": "meshes/Finger01_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger01_Link02.STL",
+   "sha256": "fa4453e525f2f9d51214bfbac27b8c86c169d11527750ede35676fdf8d2a5aeb",
+   "size": 452784
+  },
+  {
+   "path": "meshes/Finger01_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger01_Link03.STL",
+   "sha256": "2893f88f878bdd31ce89457d9a64d924abd7e73490b27e285e0f1effa37e5ce4",
+   "size": 862684
+  },
+  {
+   "path": "meshes/Finger01_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger01_Link04.STL",
+   "sha256": "ccbaec98b7a76c6b64e73ff7fe722195b470aa3b6c39c79ec972bcd8f1901070",
+   "size": 1449284
+  },
+  {
+   "path": "meshes/Finger02_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger02_Link01.STL",
+   "sha256": "909c15ad6b2a3346068aeeb9f4dfa6c0e10248c375ccbc9879260dd430c61316",
+   "size": 908384
+  },
+  {
+   "path": "meshes/Finger02_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger02_Link02.STL",
+   "sha256": "6e6196b5a5ca25df3d924d4d973cbc04cd2ea6896930084ddbb5fa1dee61ad55",
+   "size": 883484
+  },
+  {
+   "path": "meshes/Finger02_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger02_Link03.STL",
+   "sha256": "8f0f2bf123f053b0e0a84afb2d5e12c78d4bcc93008b9fa175d240ec4feec095",
+   "size": 883484
+  },
+  {
+   "path": "meshes/Finger02_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger02_Link04.STL",
+   "sha256": "84aae083c953dd8658e616d2d4a7cd729c993a6627bd1f52c0c173c10dac0925",
+   "size": 751284
+  },
+  {
+   "path": "meshes/Finger03_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger03_Link01.STL",
+   "sha256": "d143cd19208f566d4918bc4430566babb0c4579daa5e9c463e91d5154ff43905",
+   "size": 908384
+  },
+  {
+   "path": "meshes/Finger03_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger03_Link02.STL",
+   "sha256": "b560113a9e575e7f0eed7c018dea8dbf73352d085b57b55b80c4ef1282c62ac0",
+   "size": 883484
+  },
+  {
+   "path": "meshes/Finger03_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger03_Link03.STL",
+   "sha256": "d83353a1e7b9908640ee4cf45a7afd9bc9537be4d9b3b1045d91558b29d00d98",
+   "size": 883484
+  },
+  {
+   "path": "meshes/Finger03_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger03_Link04.STL",
+   "sha256": "53d5f1563b8db6b8eb1b57b9f0810b28705314c0be111146e60512455353ae6f",
+   "size": 751284
+  },
+  {
+   "path": "meshes/Finger04_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger04_Link01.STL",
+   "sha256": "29ca3858cb02c66f0901661d3e6a805362b47b13c14ea5c07cc02b200964ba8b",
+   "size": 908384
+  },
+  {
+   "path": "meshes/Finger04_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger04_Link02.STL",
+   "sha256": "c4cf2b9edfed102abda2ac407562ec2b5ccb5ae03dc2c8c7fe41e8e7bfe84c74",
+   "size": 883484
+  },
+  {
+   "path": "meshes/Finger04_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger04_Link03.STL",
+   "sha256": "aa34c18d6725e6b23f3f3731d1ef6cddf6355a4ec378e83b19a15f9494115650",
+   "size": 883484
+  },
+  {
+   "path": "meshes/Finger04_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger04_Link04.STL",
+   "sha256": "4528f3beeec7b4f797bc12606d3c9d07237c4c91c7aa76b1e49eed4b49204260",
+   "size": 751284
+  },
+  {
+   "path": "meshes/Finger05_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger05_Link01.STL",
+   "sha256": "f092b0682ac06f017258ab97c9a2d6dd78d02d7d2a38ef16dde38da730a3d984",
+   "size": 908384
+  },
+  {
+   "path": "meshes/Finger05_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger05_Link02.STL",
+   "sha256": "7e45009590804c3d2b7bb5fab95f47758a20733b91214c1a271971be8d1f6001",
+   "size": 883484
+  },
+  {
+   "path": "meshes/Finger05_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger05_Link03.STL",
+   "sha256": "12b4affbc100444de9771cf3749160b0bedad67c9b11d3bf22c7fc7d17d8db0d",
+   "size": 883484
+  },
+  {
+   "path": "meshes/Finger05_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Finger05_Link04.STL",
+   "sha256": "817805f13df9f9aec8a8e7dd6f5f66c484ed21ece421dacfc308dc1a9f274226",
+   "size": 751284
+  },
+  {
+   "path": "meshes/Palm.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/Palm.STL",
+   "sha256": "e5922a71e1736fd0befd03e7d8c1e98e75687907573a12d460532f2ca12e5a81",
+   "size": 6503984
+  },
+  {
+   "path": "meshes/left/Finger01_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger01_Link01.STL",
+   "sha256": "de94c0202f6882ee4dbd3420e5855be1f39a67983b8956b4b9903273f068a75e",
+   "size": 1014184
+  },
+  {
+   "path": "meshes/left/Finger01_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger01_Link02.STL",
+   "sha256": "990843ae405ee767ca971511cf26232f573189c026fc4f9a6c2d32d4c527a938",
+   "size": 452684
+  },
+  {
+   "path": "meshes/left/Finger01_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger01_Link03.STL",
+   "sha256": "b8f9603bebcfd8e746a494317bb98a9ecdee24494ab7a960c91df72d387649de",
+   "size": 862984
+  },
+  {
+   "path": "meshes/left/Finger01_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger01_Link04.STL",
+   "sha256": "f305924ac08327682c0785a6caca64005833b2d4fc5d812f23aa6cfdc41d9a00",
+   "size": 1449484
+  },
+  {
+   "path": "meshes/left/Finger02_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger02_Link01.STL",
+   "sha256": "63a7d525984cec8534e542a496b4ca50c8f001ee9d466f1191205571b69a0fa3",
+   "size": 908184
+  },
+  {
+   "path": "meshes/left/Finger02_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger02_Link02.STL",
+   "sha256": "26a852e7b76d858038c4c8f97f1e8ddab1172fef6b91496823861518714290a6",
+   "size": 883784
+  },
+  {
+   "path": "meshes/left/Finger02_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger02_Link03.STL",
+   "sha256": "216a5e3c53e7c164c4322004f86f98f9703eefd65bd4c21206c6bc426a2c0be3",
+   "size": 883784
+  },
+  {
+   "path": "meshes/left/Finger02_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger02_Link04.STL",
+   "sha256": "428ec98efe78aee41db43bdf975d71569398f8cc32c07c9a346c2ec5082dcb9d",
+   "size": 641184
+  },
+  {
+   "path": "meshes/left/Finger03_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger03_Link01.STL",
+   "sha256": "2d45b208a775bce9764241a30c04a9a9c310a28fbfc2e71309a91aef6b9e0477",
+   "size": 908184
+  },
+  {
+   "path": "meshes/left/Finger03_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger03_Link02.STL",
+   "sha256": "14d81a47ed37680dff003b001fd8b06d049406e97b3baa4418404f66b55747fa",
+   "size": 883784
+  },
+  {
+   "path": "meshes/left/Finger03_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger03_Link03.STL",
+   "sha256": "973da3dcf7be9820f1b79307dd6bf124e995fcd4a71afda740c22e7e4b527015",
+   "size": 883784
+  },
+  {
+   "path": "meshes/left/Finger03_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger03_Link04.STL",
+   "sha256": "c7c8066f87c0b59994e5ea6957e419e4e3b343b65bd978c6af8d7288a14d0f00",
+   "size": 751884
+  },
+  {
+   "path": "meshes/left/Finger04_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger04_Link01.STL",
+   "sha256": "3a3d8c5f8c929057786130e9541c927e70afd6137feefd5d8657e7e6d795a5d4",
+   "size": 908184
+  },
+  {
+   "path": "meshes/left/Finger04_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger04_Link02.STL",
+   "sha256": "be612a673d49bf1193662cff85afce5dc4a675e57537d27fcfee6e3f0e2468b2",
+   "size": 883784
+  },
+  {
+   "path": "meshes/left/Finger04_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger04_Link03.STL",
+   "sha256": "eaec1fce2da1f057b3dc75651c791c9fef18ca748349cd3e10360d294c5cc0f2",
+   "size": 883784
+  },
+  {
+   "path": "meshes/left/Finger04_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger04_Link04.STL",
+   "sha256": "f830610e33803b94045eadec1f621f65a6951acd7e0a9a45e5c78434cd10b071",
+   "size": 751884
+  },
+  {
+   "path": "meshes/left/Finger05_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger05_Link01.STL",
+   "sha256": "1ae31f72ce7aff4fef1139b7c55248ed2ce010993704b1cbbd16087c74963ef7",
+   "size": 908184
+  },
+  {
+   "path": "meshes/left/Finger05_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger05_Link02.STL",
+   "sha256": "bdab9e63638813e187d3faa34574cf76ffa9bab79f70c04cec4898e06ce503ae",
+   "size": 883784
+  },
+  {
+   "path": "meshes/left/Finger05_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger05_Link03.STL",
+   "sha256": "ba06d7f20b66168cde20f5b80564808873fd04c3b8d59f2879c277524349f25e",
+   "size": 883784
+  },
+  {
+   "path": "meshes/left/Finger05_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Finger05_Link04.STL",
+   "sha256": "766b415bae47f68e17490155087014348f5d48016b2d9de4d6238b8b02b2b144",
+   "size": 751884
+  },
+  {
+   "path": "meshes/left/Palm.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/left/Palm.STL",
+   "sha256": "dae727f2a364ccbc99bdca9637ad511c303989f9cee572d9173b20a778852ac2",
+   "size": 6422584
+  },
+  {
+   "path": "meshes/v6_f/left/Finger01_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger01_Link01.STL",
+   "sha256": "be8c7c65b9cea91cb24cfbdb87b6492677a9902f03007b88ba38fc1e0f18f2e6",
+   "size": 732584
+  },
+  {
+   "path": "meshes/v6_f/left/Finger01_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger01_Link01.dae",
+   "sha256": "a1620bdf905f6dc25aa6e210bd35917f78cd47f8d488e361552d240e2f707d05",
+   "size": 854388
+  },
+  {
+   "path": "meshes/v6_f/left/Finger01_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger01_Link02.STL",
+   "sha256": "1292f588a13aa2c177d1122cccc8118deb78757b7796a7151bd08c59182c9f2c",
+   "size": 448484
+  },
+  {
+   "path": "meshes/v6_f/left/Finger01_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger01_Link02.dae",
+   "sha256": "415ac32b63da216af414fce8a74ed259a0a0e6e6c349226a401377f1bffcf670",
+   "size": 569444
+  },
+  {
+   "path": "meshes/v6_f/left/Finger01_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger01_Link03.STL",
+   "sha256": "5b9de3306a9b434573005abec06ed7f120541b6cea11b7600081d174f18e5c74",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/left/Finger01_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger01_Link03.dae",
+   "sha256": "8f6afab5ced38ca7cb632e67a9d8b1613c84b2d64808995bd79576c7c4cb8abe",
+   "size": 595662
+  },
+  {
+   "path": "meshes/v6_f/left/Finger01_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger01_Link04.STL",
+   "sha256": "5c1776f1ba314a70054f71e0e624d0ce7d8b85af3205cc3b94525cf88a961d87",
+   "size": 876084
+  },
+  {
+   "path": "meshes/v6_f/left/Finger01_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger01_Link04.dae",
+   "sha256": "4340bc52be0ebbda783ac5f09d20b42bfdfc1caf80b1072768abb18d382b4630",
+   "size": 1038423
+  },
+  {
+   "path": "meshes/v6_f/left/Finger01_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger01_Link05.STL",
+   "sha256": "a9a71f47c1771cf69c0277fdcce9447373ffc1badaca4510d19235d6eac4dfde",
+   "size": 191384
+  },
+  {
+   "path": "meshes/v6_f/left/Finger01_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger01_Link05.dae",
+   "sha256": "c98f0acbdba116c9b5b6c51cfcb2779a5c1a05aca88e97341b0a164f4abfb2fb",
+   "size": 218362
+  },
+  {
+   "path": "meshes/v6_f/left/Finger01_S01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger01_S01.STL",
+   "sha256": "1df3d83d2dd8f42affc0df632dfa426097eab7b7b9bb4408fb84cd90836068a4",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/left/Finger01_S01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger01_S01.dae",
+   "sha256": "a42c3c4e4f66ca33a33fdc08543302d1c1dc2fb9a9a300e4cd5594b52aaae646",
+   "size": 52141
+  },
+  {
+   "path": "meshes/v6_f/left/Finger01_S02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger01_S02.STL",
+   "sha256": "61b416d6d7bca962472001034b87cc35cf85bd2f2b0b2e2f02fa88de51183024",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/left/Finger01_S02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger01_S02.dae",
+   "sha256": "8996e44cc2686998bd90525ca9430ec208aaec280827dbe791b3b7d4b290e369",
+   "size": 52174
+  },
+  {
+   "path": "meshes/v6_f/left/Finger02_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger02_Link01.STL",
+   "sha256": "d08c5874235815e61def0fcee4e2139f43b3e8347f77bd52ee87015c2b28037e",
+   "size": 601284
+  },
+  {
+   "path": "meshes/v6_f/left/Finger02_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger02_Link01.dae",
+   "sha256": "5e66df1449a9e682c1f864369a214be1b8144f9f3e7fd217b8f13554b5ec839b",
+   "size": 682916
+  },
+  {
+   "path": "meshes/v6_f/left/Finger02_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger02_Link02.STL",
+   "sha256": "a310bd4cdd243339e7c0e2f45fd8fde3a91a772332936f87fc58a45cc6681845",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/left/Finger02_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger02_Link02.dae",
+   "sha256": "829b09383b0d3f9915e090f7f477c6d8c16388f5c474066a72a33ad694886466",
+   "size": 578244
+  },
+  {
+   "path": "meshes/v6_f/left/Finger02_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger02_Link03.STL",
+   "sha256": "6b5a2fb3696022219e7e26ef324f6180fee70c37e1a6c6a445a871aa8958a7d6",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/left/Finger02_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger02_Link03.dae",
+   "sha256": "44a716bc191ff2484607b7da1b5c671c495c385dfe3df179d03ad93fbace4807",
+   "size": 578242
+  },
+  {
+   "path": "meshes/v6_f/left/Finger02_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger02_Link04.STL",
+   "sha256": "d0ebfe3d27dd1b1548c8a10d026ad3a97ababd58f78bb17f088ed0561e064353",
+   "size": 559984
+  },
+  {
+   "path": "meshes/v6_f/left/Finger02_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger02_Link04.dae",
+   "sha256": "7b2efc77560d26a342098f5546d3a7bbb9f81cdec0f8361a7b148f32ca1dbdbc",
+   "size": 632813
+  },
+  {
+   "path": "meshes/v6_f/left/Finger02_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger02_Link05.STL",
+   "sha256": "f2d5ff4b5dbe07e22e7f129f46d749fac34de2038aa63a8e3e4944bf596e9c01",
+   "size": 191384
+  },
+  {
+   "path": "meshes/v6_f/left/Finger02_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger02_Link05.dae",
+   "sha256": "0b6c0c2730ffb5813a54f280dcf5403d0eaea15e071a1714074508b82122cacd",
+   "size": 218362
+  },
+  {
+   "path": "meshes/v6_f/left/Finger02_S03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger02_S03.STL",
+   "sha256": "3fc8b63b5086cbf31cb06227958ac1f149e2695a9ca185f5ecc90305d6cc3af1",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/left/Finger02_S03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger02_S03.dae",
+   "sha256": "4edfa3c4765ca197e8d941deb8187ef5b20a983824598f6203fcb53ed10bc333",
+   "size": 52441
+  },
+  {
+   "path": "meshes/v6_f/left/Finger02_S04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger02_S04.STL",
+   "sha256": "3fc8b63b5086cbf31cb06227958ac1f149e2695a9ca185f5ecc90305d6cc3af1",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/left/Finger02_S04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger02_S04.dae",
+   "sha256": "84bcc0ba9ec51c1ee3d6158362fd0594df4cb23039feb902b76aef97e612ee05",
+   "size": 52441
+  },
+  {
+   "path": "meshes/v6_f/left/Finger03_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger03_Link01.STL",
+   "sha256": "5e7380f3969cdc26f19ca8e505b3d7b7a5b957b3ce55d05cc70008605a83f5d1",
+   "size": 601284
+  },
+  {
+   "path": "meshes/v6_f/left/Finger03_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger03_Link01.dae",
+   "sha256": "329dab35686d22160d09fc99dd97861c787573f5921df752fce598c6cff316f5",
+   "size": 682912
+  },
+  {
+   "path": "meshes/v6_f/left/Finger03_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger03_Link02.STL",
+   "sha256": "27d5726f35951b8ed9841c4337fa27a7534ed7ca386badf508ba3a576adaf69d",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/left/Finger03_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger03_Link02.dae",
+   "sha256": "650a6839669ef172f4efefccbb409f1b71d4b20b80df126c3cdc8dc8da37a29c",
+   "size": 578236
+  },
+  {
+   "path": "meshes/v6_f/left/Finger03_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger03_Link03.STL",
+   "sha256": "1d54e023096016bb774662768a1d6262d950137341c0d4acf42d2595811e5a07",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/left/Finger03_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger03_Link03.dae",
+   "sha256": "9c46fcc117701d98d6a443769f003b9df584d1c913e7d82303fa9d0cda36d611",
+   "size": 578236
+  },
+  {
+   "path": "meshes/v6_f/left/Finger03_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger03_Link04.STL",
+   "sha256": "1410b95b4af06c33bcba327ffc4ddb9a62adeab8e66550561370425455202e90",
+   "size": 559984
+  },
+  {
+   "path": "meshes/v6_f/left/Finger03_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger03_Link04.dae",
+   "sha256": "38ec4839de53ff3b7523ab7d7bb42018ed7f90702e21587c99476d072e0d7c21",
+   "size": 632813
+  },
+  {
+   "path": "meshes/v6_f/left/Finger03_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger03_Link05.STL",
+   "sha256": "78c1577852f224c874b5e4fb40e191fb7b307620b8b7de71c4753b63eabd8ec5",
+   "size": 191384
+  },
+  {
+   "path": "meshes/v6_f/left/Finger03_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger03_Link05.dae",
+   "sha256": "6560a8884e71e15bc8d7e2d7eb06a833c5b171d5b5989d359798f2d17f720a53",
+   "size": 218362
+  },
+  {
+   "path": "meshes/v6_f/left/Finger03_S05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger03_S05.STL",
+   "sha256": "9ff4ebe6a22bb255d5ebfccff8e389a845ccb968f2a4da19315667b53267ccb3",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/left/Finger03_S05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger03_S05.dae",
+   "sha256": "ea897ac5fe089c7e0950e266d6f3ad0d1d1fa5927a61dc8f6475f42a60bf4adc",
+   "size": 52284
+  },
+  {
+   "path": "meshes/v6_f/left/Finger03_S06.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger03_S06.STL",
+   "sha256": "9ff4ebe6a22bb255d5ebfccff8e389a845ccb968f2a4da19315667b53267ccb3",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/left/Finger03_S06.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger03_S06.dae",
+   "sha256": "086dc6b3a3221c4bacbc6af0e41a163606459ee68433b2c5517153e3fa032083",
+   "size": 52284
+  },
+  {
+   "path": "meshes/v6_f/left/Finger04_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger04_Link01.STL",
+   "sha256": "eeca193dfe261b61528dfaadc060b17082f42744253d7889741bb63e4e302967",
+   "size": 601284
+  },
+  {
+   "path": "meshes/v6_f/left/Finger04_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger04_Link01.dae",
+   "sha256": "eedc3ad77a67fff828c275c3260eda025932afa4e0836b333ebed377f0dbc877",
+   "size": 682912
+  },
+  {
+   "path": "meshes/v6_f/left/Finger04_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger04_Link02.STL",
+   "sha256": "640229d536cee99afa76c5885643ca65e872555514a8c44cbb44af828798867a",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/left/Finger04_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger04_Link02.dae",
+   "sha256": "b750acae1713938c4dbd826bd31365121e7e4ee1997bff9a6ede28118dc2346a",
+   "size": 578236
+  },
+  {
+   "path": "meshes/v6_f/left/Finger04_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger04_Link03.STL",
+   "sha256": "2d89cc1cd746388ba566d70d54fd5a9c61ae0ea8f375708ec5732dee37a942c7",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/left/Finger04_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger04_Link03.dae",
+   "sha256": "8d6b6210131900435607b3567ac78a6c4c987e9ae7d92efaf9f8b304f2dc9ea8",
+   "size": 578236
+  },
+  {
+   "path": "meshes/v6_f/left/Finger04_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger04_Link04.STL",
+   "sha256": "1e8e36ac42250e6911a45b6e5c9f7eb07627661bcae814803335f6ea966c19f6",
+   "size": 559984
+  },
+  {
+   "path": "meshes/v6_f/left/Finger04_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger04_Link04.dae",
+   "sha256": "cd23c1f44dc9c7f0a3969966a3a4e51da482b1ef9b22088acf6fa4eab7f7d9a1",
+   "size": 632813
+  },
+  {
+   "path": "meshes/v6_f/left/Finger04_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger04_Link05.STL",
+   "sha256": "7911afaf5f350819875c94a5b45a8514027b756402df9b3109a02b438aa45486",
+   "size": 191384
+  },
+  {
+   "path": "meshes/v6_f/left/Finger04_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger04_Link05.dae",
+   "sha256": "8eb5e41e94e71b635057e5e1e049527424af6a024839efa0143f8cc9372cde98",
+   "size": 218362
+  },
+  {
+   "path": "meshes/v6_f/left/Finger04_S07.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger04_S07.STL",
+   "sha256": "311b76614f6a83e34eaa3f5c28649a771bab3e6419075ac1c9d0933d00868688",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/left/Finger04_S07.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger04_S07.dae",
+   "sha256": "764d3f4a04c9e776913cefcc7e87e5c57c86a42dac4179e2cecc575d995e39b6",
+   "size": 52352
+  },
+  {
+   "path": "meshes/v6_f/left/Finger04_S08.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger04_S08.STL",
+   "sha256": "311b76614f6a83e34eaa3f5c28649a771bab3e6419075ac1c9d0933d00868688",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/left/Finger04_S08.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger04_S08.dae",
+   "sha256": "7c1f4a122cde0e160c4f870a0e5cf149b75d29f123f2cf8d6a350aeb21b9a50a",
+   "size": 52352
+  },
+  {
+   "path": "meshes/v6_f/left/Finger05_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger05_Link01.STL",
+   "sha256": "e3c67f088669f62359325f91757219e3e4c497dd057c8c540b602001f3165c10",
+   "size": 601284
+  },
+  {
+   "path": "meshes/v6_f/left/Finger05_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger05_Link01.dae",
+   "sha256": "74e2bd029b8831b722ad3362485dfdad2d022b3f3fe33985fe930f7ea89cd3a7",
+   "size": 722628
+  },
+  {
+   "path": "meshes/v6_f/left/Finger05_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger05_Link02.STL",
+   "sha256": "20745ecf896fc70da6a5b0b94990b16a408cff0bcd208eb0fc47254df6ebc640",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/left/Finger05_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger05_Link02.dae",
+   "sha256": "5e1671f6e038bebc7e3021355efab8229f522deb9cd544385e6f1218d5ee9ca5",
+   "size": 590042
+  },
+  {
+   "path": "meshes/v6_f/left/Finger05_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger05_Link03.STL",
+   "sha256": "8a519a4f3d4b707786725fc04a8fa6ef5c9bd880e1b1c227bc1af62a08ca4f3d",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/left/Finger05_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger05_Link03.dae",
+   "sha256": "997a43cbc105edc4a6866f781a4d1c8c1687aba7be12780f44ea2b6b2402b561",
+   "size": 590042
+  },
+  {
+   "path": "meshes/v6_f/left/Finger05_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger05_Link04.STL",
+   "sha256": "506da76cfe5b7b01e7340b94ff7e32a2d981a9ebf5e523842d91704db96aea11",
+   "size": 559984
+  },
+  {
+   "path": "meshes/v6_f/left/Finger05_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger05_Link04.dae",
+   "sha256": "05f145171963b241989d7ee3edd31e00ccb5fd7078f6b691d5858e1648954a05",
+   "size": 649808
+  },
+  {
+   "path": "meshes/v6_f/left/Finger05_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger05_Link05.STL",
+   "sha256": "bc677febf3be56b894c6a9ce737d4b9c6efb719766888272862f21ea743ba751",
+   "size": 191384
+  },
+  {
+   "path": "meshes/v6_f/left/Finger05_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger05_Link05.dae",
+   "sha256": "f7466d60800c80609d6f96ce2867646f2c19f4a6407663f9803797419e7854db",
+   "size": 218362
+  },
+  {
+   "path": "meshes/v6_f/left/Finger05_S09.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger05_S09.STL",
+   "sha256": "4e8b887776cc9e434c4da805760c570335f7247dd7c2b144feed293ee57718e0",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/left/Finger05_S09.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger05_S09.dae",
+   "sha256": "efd8c0f37f23b63c8e52dadcaaedbcee58b7b28fddceec35e633e2dd5f89bc86",
+   "size": 52239
+  },
+  {
+   "path": "meshes/v6_f/left/Finger05_S10.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger05_S10.STL",
+   "sha256": "300de4058184883069ac272ae250bf532e98765eef15b1416ce7902499448988",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/left/Finger05_S10.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Finger05_S10.dae",
+   "sha256": "e5a9a95e579126334ada7876ea885b5d9880e71ad03ed10426a65318641ffe61",
+   "size": 52239
+  },
+  {
+   "path": "meshes/v6_f/left/Palm.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Palm.STL",
+   "sha256": "2b08032e4ee1d8c57b725fbf0db696dbc6209a4d7581e9cc81dce97a6e2c5002",
+   "size": 4062284
+  },
+  {
+   "path": "meshes/v6_f/left/Palm.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Palm.dae",
+   "sha256": "9d50f7982e942e22ac22218f7c88cbf4138f6b18baf6965bc754df00ce54008a",
+   "size": 5088789
+  },
+  {
+   "path": "meshes/v6_f/left/Palm_01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Palm_01.STL",
+   "sha256": "ea00db4a5734a83bf373d6e27b222474af832c2888247ca57ed0095ce8816368",
+   "size": 128284
+  },
+  {
+   "path": "meshes/v6_f/left/Palm_01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Palm_01.dae",
+   "sha256": "e119492f87d3f60e5b810c0df4b6e7ba31a3a27a85c8404e807b3478c532b360",
+   "size": 144644
+  },
+  {
+   "path": "meshes/v6_f/left/Palm_02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Palm_02.STL",
+   "sha256": "f4e79ae9b7f7c585435d87bcb4e173e371073a25c11a3342ad1541f890ccdc9a",
+   "size": 99984
+  },
+  {
+   "path": "meshes/v6_f/left/Palm_02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Palm_02.dae",
+   "sha256": "1f79c556697b270abffafec234fa1b356121591b614425c781e8e9b4be2fbba8",
+   "size": 112161
+  },
+  {
+   "path": "meshes/v6_f/left/Palm_03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Palm_03.STL",
+   "sha256": "ea38e36654d1379f749babd5ba9816822da7ec4faf840242c1b781911f2bd079",
+   "size": 107784
+  },
+  {
+   "path": "meshes/v6_f/left/Palm_03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/left/Palm_03.dae",
+   "sha256": "8201806839325fca838b397cd60adc053d3b2f3e1218df28ec39104df142ca66",
+   "size": 119491
+  },
+  {
+   "path": "meshes/v6_f/right/Finger01_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger01_Link01.STL",
+   "sha256": "800375962f1187806f87bfcf80169eae598a7b6e6c15456dfe9c0aa20ebece66",
+   "size": 732584
+  },
+  {
+   "path": "meshes/v6_f/right/Finger01_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger01_Link01.dae",
+   "sha256": "de187387f600ef58e5299340b35baed148f7bf317f788420259304f3b60f5bbf",
+   "size": 861204
+  },
+  {
+   "path": "meshes/v6_f/right/Finger01_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger01_Link02.STL",
+   "sha256": "b4edee55013d7298350997480880a5112957eabb07f03ec0f6a3ce23e61cae66",
+   "size": 448484
+  },
+  {
+   "path": "meshes/v6_f/right/Finger01_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger01_Link02.dae",
+   "sha256": "95929aa324a8e44860268d92dba45b448a687f1f4cdd291f61cdbf745f40a450",
+   "size": 570968
+  },
+  {
+   "path": "meshes/v6_f/right/Finger01_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger01_Link03.STL",
+   "sha256": "7512e3b9c7374f1eb11aa2a9d24532cdeec117df53b33ee66209c72bba3d53ae",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/right/Finger01_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger01_Link03.dae",
+   "sha256": "0bf4c148b9683b808269e567bb1f7e3c2e71893c3acdd3e16234f229aa20f552",
+   "size": 598069
+  },
+  {
+   "path": "meshes/v6_f/right/Finger01_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger01_Link04.STL",
+   "sha256": "bcf0a775109990910a1dd134d7567da6cafff3cb818e0567c554eb80754f73b6",
+   "size": 876084
+  },
+  {
+   "path": "meshes/v6_f/right/Finger01_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger01_Link04.dae",
+   "sha256": "cdee7a227eda64e69e58843e3e3241f3cf093ca2c3d8f2ad51204f763a62b7d5",
+   "size": 1044865
+  },
+  {
+   "path": "meshes/v6_f/right/Finger01_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger01_Link05.STL",
+   "sha256": "2e0f41945ccc74f7490e717c517d3acb1084941cde8538f2a2fa9475b0b70979",
+   "size": 191384
+  },
+  {
+   "path": "meshes/v6_f/right/Finger01_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger01_Link05.dae",
+   "sha256": "1a80df0e0eda3db14c1002b8e1223b48009075cae5f993979267c4c45e5d51d4",
+   "size": 218276
+  },
+  {
+   "path": "meshes/v6_f/right/Finger01_S01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger01_S01.STL",
+   "sha256": "11d0bcdf530e45a32ec9fe73c3d2da83e45419b7a39d2c9cbb64f39576191f1b",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/right/Finger01_S01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger01_S01.dae",
+   "sha256": "e159d2dfa4b95e200f000e4dee0416c0a322c1395973abaaffa16f25a15a4bde",
+   "size": 52165
+  },
+  {
+   "path": "meshes/v6_f/right/Finger01_S02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger01_S02.STL",
+   "sha256": "152af1d80cab16d1b4be8543292e1661f0d916f0d4e742934a8863c6ada7789b",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/right/Finger01_S02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger01_S02.dae",
+   "sha256": "48bff392f6bff86e88d4b2d34e1621c28971806eab98631414cbea63371dee0a",
+   "size": 52198
+  },
+  {
+   "path": "meshes/v6_f/right/Finger02_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger02_Link01.STL",
+   "sha256": "34d1f0143e36972a4b34bc23f35f7b08df75bb11c0972cc7cb46ffe93053045f",
+   "size": 601284
+  },
+  {
+   "path": "meshes/v6_f/right/Finger02_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger02_Link01.dae",
+   "sha256": "17c37d6441371b9b18ed8e6420fe2fa43b9319faff2bf79f3996b4d1fe7cf161",
+   "size": 681970
+  },
+  {
+   "path": "meshes/v6_f/right/Finger02_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger02_Link02.STL",
+   "sha256": "3f2d2d1aa4bcbf2a3f0e6e49d55353bcdfb6c559980a5595dc72b2e737984806",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/right/Finger02_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger02_Link02.dae",
+   "sha256": "f159ee16c7e41809c18c63a534e47e75d2e487c670de882484fc1d6451537268",
+   "size": 581703
+  },
+  {
+   "path": "meshes/v6_f/right/Finger02_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger02_Link03.STL",
+   "sha256": "c7e3af16c72af1035d91049c08c6f044872c841fa2f6070663384f72ca661574",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/right/Finger02_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger02_Link03.dae",
+   "sha256": "afb0ee9ba0fb57950d5caae9c87dcf1f341367551c2e12f7cc96dc51d4c1165a",
+   "size": 581697
+  },
+  {
+   "path": "meshes/v6_f/right/Finger02_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger02_Link04.STL",
+   "sha256": "b90d9d97fe5f8e95640722bdfd03f63c3bf33a15a7a765c39bbfc425df1bbba3",
+   "size": 559984
+  },
+  {
+   "path": "meshes/v6_f/right/Finger02_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger02_Link04.dae",
+   "sha256": "2ba0d883d8d84a36623428b9f8f090b73e23a6e0a33331b5bea87618c38910a4",
+   "size": 635167
+  },
+  {
+   "path": "meshes/v6_f/right/Finger02_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger02_Link05.STL",
+   "sha256": "641dd5e5647237ab70c6628f0bbea776b1daa8113804f42bc3419d6d1c90ca82",
+   "size": 191384
+  },
+  {
+   "path": "meshes/v6_f/right/Finger02_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger02_Link05.dae",
+   "sha256": "980aa843183a922f91ef35ee744ce0b454fe5be787d355e93bbcc5b4d9278c60",
+   "size": 218276
+  },
+  {
+   "path": "meshes/v6_f/right/Finger02_S03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger02_S03.STL",
+   "sha256": "3d08b7e36d9d963a91f7654575caafabbf78aa0aad4e95dc17beb4c566bd4b47",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/right/Finger02_S03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger02_S03.dae",
+   "sha256": "a11b963b9c598965df60936a7f7d0aa9f7e50f17c1057fb6c0e748015b006ddc",
+   "size": 52366
+  },
+  {
+   "path": "meshes/v6_f/right/Finger02_S04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger02_S04.STL",
+   "sha256": "3d08b7e36d9d963a91f7654575caafabbf78aa0aad4e95dc17beb4c566bd4b47",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/right/Finger02_S04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger02_S04.dae",
+   "sha256": "9a18ba9e0588f9fe605fc6624db495bd02ac77a9a86649ca1d3f77b15444f42b",
+   "size": 52366
+  },
+  {
+   "path": "meshes/v6_f/right/Finger03_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger03_Link01.STL",
+   "sha256": "bd5aa4483c9c2cd4e95bda5a06eb60aa88df82a95e7711821c99cb9d6873a19e",
+   "size": 601284
+  },
+  {
+   "path": "meshes/v6_f/right/Finger03_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger03_Link01.dae",
+   "sha256": "c3ac58f601524b7af838a316f5d200bf1e8ba74563fdc4a3a646317d3f80ce85",
+   "size": 681974
+  },
+  {
+   "path": "meshes/v6_f/right/Finger03_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger03_Link02.STL",
+   "sha256": "e2571e0bb953df46f30f1a4c9304765e2f89b134b9cdf5e366038465414f7446",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/right/Finger03_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger03_Link02.dae",
+   "sha256": "18b79afa41701a442e17a9bb42eb11fdaa1f418f2b34c182d7f114f1b0b12ed1",
+   "size": 581691
+  },
+  {
+   "path": "meshes/v6_f/right/Finger03_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger03_Link03.STL",
+   "sha256": "fe9f3e34e100be5627228314d19ca4dad8dcf8e13e48610ca1816fee18480c94",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/right/Finger03_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger03_Link03.dae",
+   "sha256": "33b7394aa8aa0eb8cc051f8d7cf6e715f4cc812a9301e708b68329276ede0510",
+   "size": 581691
+  },
+  {
+   "path": "meshes/v6_f/right/Finger03_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger03_Link04.STL",
+   "sha256": "5d1b4b2f06420d0fa4bf8f8bd714924de09acaf9873cf3b459508c41e2138c68",
+   "size": 559984
+  },
+  {
+   "path": "meshes/v6_f/right/Finger03_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger03_Link04.dae",
+   "sha256": "4a4c87691e30ad52739fea316fbabc19ea8908e145519c6c946d27aaedb67eee",
+   "size": 635167
+  },
+  {
+   "path": "meshes/v6_f/right/Finger03_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger03_Link05.STL",
+   "sha256": "ff02c593b475af1d8c787c4e779eea5c3fbc7cd632ca817e43ec5f0ec5633596",
+   "size": 191384
+  },
+  {
+   "path": "meshes/v6_f/right/Finger03_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger03_Link05.dae",
+   "sha256": "622d6bddb71861799a9f1d26673f6f54d9246ff70860622288debb622450de8c",
+   "size": 218276
+  },
+  {
+   "path": "meshes/v6_f/right/Finger03_S05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger03_S05.STL",
+   "sha256": "6ed2ece35797d1aef5cad910460c223d5b5fa9ed1946b029fe09d3dd536f1832",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/right/Finger03_S05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger03_S05.dae",
+   "sha256": "e2a63cdc199858a3b8a2effe52c815ca732879f11c77c0f568a7842a343b011f",
+   "size": 52286
+  },
+  {
+   "path": "meshes/v6_f/right/Finger03_S06.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger03_S06.STL",
+   "sha256": "6ed2ece35797d1aef5cad910460c223d5b5fa9ed1946b029fe09d3dd536f1832",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/right/Finger03_S06.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger03_S06.dae",
+   "sha256": "03e55620362d3c43d7ea3d95ebd7aa9404c52db52c81221a5f0b4c461a7e5584",
+   "size": 52286
+  },
+  {
+   "path": "meshes/v6_f/right/Finger04_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger04_Link01.STL",
+   "sha256": "48e3eeeb47ffbcd3a8410e263feece2bed7af586495c44fdadf2633ee03d9b0d",
+   "size": 601284
+  },
+  {
+   "path": "meshes/v6_f/right/Finger04_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger04_Link01.dae",
+   "sha256": "dcc4f54d76915bb69e7b501267399ba4ec237b1e21c1819d02de8387bf3c0bb1",
+   "size": 681974
+  },
+  {
+   "path": "meshes/v6_f/right/Finger04_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger04_Link02.STL",
+   "sha256": "6eedae30e052c43f8f8171eae1c373b9e65186fa88fa9eb739afbfa28870595a",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/right/Finger04_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger04_Link02.dae",
+   "sha256": "9032dc689729453870be1caa7f097ba3767d02fd8ce5e7725155ca5cabc5e9f1",
+   "size": 581691
+  },
+  {
+   "path": "meshes/v6_f/right/Finger04_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger04_Link03.STL",
+   "sha256": "29499d2c4438e066d33e021c495011e465fc47f961cc6ad6d20fa8895a5a96e7",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/right/Finger04_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger04_Link03.dae",
+   "sha256": "a390dfbc57b24033912c0c4a5456c0b6523154b24802519de28e705ad2819cb7",
+   "size": 581691
+  },
+  {
+   "path": "meshes/v6_f/right/Finger04_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger04_Link04.STL",
+   "sha256": "414007f28d2bc8ea1867e4766460f5b05c67cedffe93ed03dea1df0a4777df8d",
+   "size": 559984
+  },
+  {
+   "path": "meshes/v6_f/right/Finger04_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger04_Link04.dae",
+   "sha256": "c9de0654c88f7893b211f94b268460f032e76bc4dc8671f179985285af730ea4",
+   "size": 635167
+  },
+  {
+   "path": "meshes/v6_f/right/Finger04_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger04_Link05.STL",
+   "sha256": "f57eab25c726feee69bd837dbb0e8299ab6f0a35270a64f8280b4e451d875365",
+   "size": 191384
+  },
+  {
+   "path": "meshes/v6_f/right/Finger04_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger04_Link05.dae",
+   "sha256": "100e07fbc5ee6d89cf272f72c07562f35d7b5938ef69db30cdb2c07caca567cc",
+   "size": 218276
+  },
+  {
+   "path": "meshes/v6_f/right/Finger04_S07.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger04_S07.STL",
+   "sha256": "51630792f92d10787688b61eebeae52ec5adc67e1c0de9ce65a6df7ac0100630",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/right/Finger04_S07.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger04_S07.dae",
+   "sha256": "167304b04ca47e4718b0373164925f396c2cefc22ee0d00fac128b20bbb59c29",
+   "size": 52442
+  },
+  {
+   "path": "meshes/v6_f/right/Finger04_S08.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger04_S08.STL",
+   "sha256": "51630792f92d10787688b61eebeae52ec5adc67e1c0de9ce65a6df7ac0100630",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/right/Finger04_S08.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger04_S08.dae",
+   "sha256": "0a30785eb01e0f4c5bb0dbedb2398f51ce6f6e95627617f2973752b54627bc10",
+   "size": 52442
+  },
+  {
+   "path": "meshes/v6_f/right/Finger05_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger05_Link01.STL",
+   "sha256": "5bcf124a7991f562aaac90b98c7b932ce9f3e75a5dac6b223bd5a8e36b831c9b",
+   "size": 601284
+  },
+  {
+   "path": "meshes/v6_f/right/Finger05_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger05_Link01.dae",
+   "sha256": "91ac1ba99b6994475e2c4cdbc08df84d20765f727cf8510aa281c26eb9db1ab7",
+   "size": 721748
+  },
+  {
+   "path": "meshes/v6_f/right/Finger05_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger05_Link02.STL",
+   "sha256": "16ebf42b47607f2d1089fbf04e158d5829a7ab2cf01c1a3782c0443714bd2cf6",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/right/Finger05_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger05_Link02.dae",
+   "sha256": "a82685accc980e8e8e8ee6c5b97eaee683bd95f3441f383f084d2694715d7ee9",
+   "size": 593477
+  },
+  {
+   "path": "meshes/v6_f/right/Finger05_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger05_Link03.STL",
+   "sha256": "9e4a5156d299c7e8d963837244bf45ed0ec01b361dda5d5bdca8814b83a0ffc2",
+   "size": 497084
+  },
+  {
+   "path": "meshes/v6_f/right/Finger05_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger05_Link03.dae",
+   "sha256": "fa34e8610ba01e9b255d884577fbe0890659340c0ba5c9c4818e2cdd334d9841",
+   "size": 593477
+  },
+  {
+   "path": "meshes/v6_f/right/Finger05_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger05_Link04.STL",
+   "sha256": "7a7c156d37298e05afe3b62d8815ce1c300c843ed6eac8760278655f046a18ea",
+   "size": 559984
+  },
+  {
+   "path": "meshes/v6_f/right/Finger05_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger05_Link04.dae",
+   "sha256": "e27339382275d22874a256665233531803fa5e48e4f990394b8111b8d4111c73",
+   "size": 652167
+  },
+  {
+   "path": "meshes/v6_f/right/Finger05_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger05_Link05.STL",
+   "sha256": "ea0638a77608a03b10dd08c0ce6a10ec180fefd34b7477c80a1e2ec22bcff664",
+   "size": 191384
+  },
+  {
+   "path": "meshes/v6_f/right/Finger05_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger05_Link05.dae",
+   "sha256": "2db555ef38c58e6dda57d93f7f4c2d4f6ee436f0901e88cd21341c3f39d01024",
+   "size": 218276
+  },
+  {
+   "path": "meshes/v6_f/right/Finger05_S09.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger05_S09.STL",
+   "sha256": "fed5fba1cb0f484f51704159437fa79f67299526be878b325e827b88c878fd39",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/right/Finger05_S09.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger05_S09.dae",
+   "sha256": "066784eb0f982af5f46af518de2afd4e7d88fbfd069e5c1dccc33af5b0dd095f",
+   "size": 52318
+  },
+  {
+   "path": "meshes/v6_f/right/Finger05_S10.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger05_S10.STL",
+   "sha256": "41a00df872da79b217ce3ac31a0c5affce0c6a22728d0ed8b4765915b467eca7",
+   "size": 46184
+  },
+  {
+   "path": "meshes/v6_f/right/Finger05_S10.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Finger05_S10.dae",
+   "sha256": "87082286097d2609a49c332d68f8c8a194625ce89fca153ea60c53407944db12",
+   "size": 52318
+  },
+  {
+   "path": "meshes/v6_f/right/Palm.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Palm.STL",
+   "sha256": "401d5899a6ad9bbd81f97d0198da4cbc30a4ff31962cfc550be19cee9b0d7f6a",
+   "size": 4062284
+  },
+  {
+   "path": "meshes/v6_f/right/Palm.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Palm.dae",
+   "sha256": "accb57128f34fa9d8ba2e481d399dc7ceed23de98e5a94f94232e12f76fa90db",
+   "size": 5103800
+  },
+  {
+   "path": "meshes/v6_f/right/Palm_01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Palm_01.STL",
+   "sha256": "516a23d69a2122a9c7d0f325f10e65b2c65e0ce5789b6d94e6274c851961d913",
+   "size": 128284
+  },
+  {
+   "path": "meshes/v6_f/right/Palm_01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Palm_01.dae",
+   "sha256": "95f2000c1ac3733ca19899ad8d89d37da3ea716182b166a340b911ea8227e1d9",
+   "size": 144569
+  },
+  {
+   "path": "meshes/v6_f/right/Palm_02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Palm_02.STL",
+   "sha256": "5e2ac1d2f1230528dd88a6e32a52bd669ae417f8597ef1b9c52e806d900a443b",
+   "size": 99984
+  },
+  {
+   "path": "meshes/v6_f/right/Palm_02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Palm_02.dae",
+   "sha256": "a1326184dbea0efd6fe79ec438b8068c98277c1433bb062ed844c82c66d4cba9",
+   "size": 111897
+  },
+  {
+   "path": "meshes/v6_f/right/Palm_03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Palm_03.STL",
+   "sha256": "9d011d8595eac790ad3370e56ce145c67a32c125bffedef9ed617c7b90ff764e",
+   "size": 107784
+  },
+  {
+   "path": "meshes/v6_f/right/Palm_03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_f/right/Palm_03.dae",
+   "sha256": "961639f87980cfa0b13ab08c13480e0e916cc81f298afd6cba58a345b6a653d8",
+   "size": 119694
+  },
+  {
+   "path": "meshes/v6_v/left/Finger01_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger01_Link01.STL",
+   "sha256": "b4c373b04b511a7561c1dcbe71cab23968960ffd4e0c32481db1fffe8e9a4571",
+   "size": 732784
+  },
+  {
+   "path": "meshes/v6_v/left/Finger01_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger01_Link01.dae",
+   "sha256": "7184f8a2d1d1996240c2d1d2f991b545725e100b20b3dba6c28a5f79f9affb2d",
+   "size": 854628
+  },
+  {
+   "path": "meshes/v6_v/left/Finger01_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger01_Link02.STL",
+   "sha256": "ba9d9f508304849e59ab4b268bd805f51d658fd25782a4f322ea9cdad5cae281",
+   "size": 448484
+  },
+  {
+   "path": "meshes/v6_v/left/Finger01_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger01_Link02.dae",
+   "sha256": "616e7f1ff8700b73e0a16ca239bdcd8479a2a4d89ba09abbf4638d58c0766a89",
+   "size": 569061
+  },
+  {
+   "path": "meshes/v6_v/left/Finger01_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger01_Link03.STL",
+   "sha256": "73f499093a8483356ac0949ccfacd7150889e2fc955ed80f481d7c2d595ff3ac",
+   "size": 477684
+  },
+  {
+   "path": "meshes/v6_v/left/Finger01_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger01_Link03.dae",
+   "sha256": "24fff8449ccbb04a251d21e12f5b5d8894754b83059f24ec301151cc19504b9f",
+   "size": 572047
+  },
+  {
+   "path": "meshes/v6_v/left/Finger01_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger01_Link04.STL",
+   "sha256": "7d4e68061981407fc82dd8de5a69b64d78d232de488477686fffa8f2fd4bd22a",
+   "size": 537984
+  },
+  {
+   "path": "meshes/v6_v/left/Finger01_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger01_Link04.dae",
+   "sha256": "a4857152d422bbc4b8cfe910b51917ececd5a52611dff3e9d229cd70518b4abd",
+   "size": 631890
+  },
+  {
+   "path": "meshes/v6_v/left/Finger01_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger01_Link05.STL",
+   "sha256": "01ab96f74536a41d1828d16216b8bfacd66b1f1639aa36c5f43523bedfc056d6",
+   "size": 642284
+  },
+  {
+   "path": "meshes/v6_v/left/Finger01_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger01_Link05.dae",
+   "sha256": "f583026a2077e2b83a1a485d6fb59fd8389e4f77a2df7f23e395aeef989591ed",
+   "size": 806905
+  },
+  {
+   "path": "meshes/v6_v/left/Finger01_Link06.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger01_Link06.STL",
+   "sha256": "0e3896f2ed85b259dd48009c7a3cfa5818e07575308ad9c1a45a0b7ca614b232",
+   "size": 44284
+  },
+  {
+   "path": "meshes/v6_v/left/Finger01_Link06.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger01_Link06.dae",
+   "sha256": "3c64a392a3578f498b72b9113de6d0c9b8300217688c65e6c7d9b76a0fca38f7",
+   "size": 50827
+  },
+  {
+   "path": "meshes/v6_v/left/Finger02_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger02_Link01.STL",
+   "sha256": "40bb5ee15dd66649d9fcc9a030e4be8cff3d3ef24a0fc21449faef5aa0eccc75",
+   "size": 601484
+  },
+  {
+   "path": "meshes/v6_v/left/Finger02_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger02_Link01.dae",
+   "sha256": "0a04014becc1c4e7089ad46f33fe8b4d11a6cacea38fda8b138629ede14e459e",
+   "size": 683129
+  },
+  {
+   "path": "meshes/v6_v/left/Finger02_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger02_Link02.STL",
+   "sha256": "8fe119362128a071ea9f9b37e98d99b857d440596e57b3faacc6dd0387a10964",
+   "size": 460884
+  },
+  {
+   "path": "meshes/v6_v/left/Finger02_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger02_Link02.dae",
+   "sha256": "3f33fce93f75fa9e7b6ba0f7ba5dd59ea2d073be9d5317ea0bed4b34c73376cd",
+   "size": 540417
+  },
+  {
+   "path": "meshes/v6_v/left/Finger02_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger02_Link03.STL",
+   "sha256": "790aa6437a7c92e9b6d58bdd1364103f0499fc38aaebe73cebae35679c5dfa03",
+   "size": 498484
+  },
+  {
+   "path": "meshes/v6_v/left/Finger02_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger02_Link03.dae",
+   "sha256": "17e9fc259f1270f9295c982b675274ac72d7ed468579ab1c6f0349b8d651247c",
+   "size": 595246
+  },
+  {
+   "path": "meshes/v6_v/left/Finger02_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger02_Link04.STL",
+   "sha256": "e821e3da4bf2daea2031192ed443874e02670fa8691cb2632436c22101d5d458",
+   "size": 197384
+  },
+  {
+   "path": "meshes/v6_v/left/Finger02_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger02_Link04.dae",
+   "sha256": "ac67190c58deae27dcb4e7de37c22c7d1e2999539f72da3b758d748556948489",
+   "size": 222515
+  },
+  {
+   "path": "meshes/v6_v/left/Finger02_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger02_Link05.STL",
+   "sha256": "f746c9a812cf12f6f103868cf9abf1337304ddf8190ee71961e68b8cf01de35b",
+   "size": 642284
+  },
+  {
+   "path": "meshes/v6_v/left/Finger02_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger02_Link05.dae",
+   "sha256": "fb1e46732e6b58f1a1aa2c3e6cb445f2eec3d3263d1f12134e8435c6662514bf",
+   "size": 807025
+  },
+  {
+   "path": "meshes/v6_v/left/Finger02_Link06.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger02_Link06.STL",
+   "sha256": "5940211ee67f4b0f603623cf5ee43119d44497dfcb4ae201d30c6dd1bed85867",
+   "size": 44284
+  },
+  {
+   "path": "meshes/v6_v/left/Finger02_Link06.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger02_Link06.dae",
+   "sha256": "20e2463eaf8d42afa123087f5a41b6980be4ee4ca535449251f88fc205d4ff1a",
+   "size": 50866
+  },
+  {
+   "path": "meshes/v6_v/left/Finger03_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger03_Link01.STL",
+   "sha256": "fae658c53de0fe51f76a8a551bc777b313d2e85ddc5fd27db77d7fd76fa4dd5d",
+   "size": 601484
+  },
+  {
+   "path": "meshes/v6_v/left/Finger03_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger03_Link01.dae",
+   "sha256": "dc07790483472eac45d5a759113544c49376f728998ac0763719f4f925ca033f",
+   "size": 683129
+  },
+  {
+   "path": "meshes/v6_v/left/Finger03_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger03_Link02.STL",
+   "sha256": "b83b078614e2f8d6f6f86c1dc72c2f78c44c4fedc98c067710b3a327053288a0",
+   "size": 498484
+  },
+  {
+   "path": "meshes/v6_v/left/Finger03_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger03_Link02.dae",
+   "sha256": "97828f2d388dd5d2f5925b67fbeb07448b116882db88822626e778179bfc9fda",
+   "size": 581554
+  },
+  {
+   "path": "meshes/v6_v/left/Finger03_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger03_Link03.STL",
+   "sha256": "344fd447f7414d35a7efa350b8f3e6753a627eef5ce812e8de131ed0e667832a",
+   "size": 498484
+  },
+  {
+   "path": "meshes/v6_v/left/Finger03_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger03_Link03.dae",
+   "sha256": "059cb228d43bb2f1e9f53580a80a15633ee0364905d2df67515377ef1a7db3f1",
+   "size": 581554
+  },
+  {
+   "path": "meshes/v6_v/left/Finger03_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger03_Link04.STL",
+   "sha256": "ce36cba9c0de04b2985dae43987992427d569c4672082268cd68a8749c95ffbe",
+   "size": 197384
+  },
+  {
+   "path": "meshes/v6_v/left/Finger03_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger03_Link04.dae",
+   "sha256": "efd0c64844baae320febc434ff889e303981740d2f2c3be10ff327436bbdf29e",
+   "size": 217589
+  },
+  {
+   "path": "meshes/v6_v/left/Finger03_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger03_Link05.STL",
+   "sha256": "5afea51e7398ec1669c55527fcedbf6dcfa81c2b927b7ceee6f661013cdc4986",
+   "size": 642284
+  },
+  {
+   "path": "meshes/v6_v/left/Finger03_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger03_Link05.dae",
+   "sha256": "448b2aca159ea64b78ecdf4f16eeb41f12c4f9ef44c9e875fcb6f083fad634d1",
+   "size": 800618
+  },
+  {
+   "path": "meshes/v6_v/left/Finger03_Link06.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger03_Link06.STL",
+   "sha256": "6604249895d0bd3b208522fa3a53207961229daec172502b84d411fa611549bd",
+   "size": 44284
+  },
+  {
+   "path": "meshes/v6_v/left/Finger03_Link06.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger03_Link06.dae",
+   "sha256": "59c9c0efc2998aabb577b2bf718301fd4133fae223896e03c975f1dfed1a5bf3",
+   "size": 50501
+  },
+  {
+   "path": "meshes/v6_v/left/Finger04_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger04_Link01.STL",
+   "sha256": "cd6d5c1687b80930d7dfabbc01ed920678fbf598ecbcb54a954d253c4ae7512e",
+   "size": 601484
+  },
+  {
+   "path": "meshes/v6_v/left/Finger04_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger04_Link01.dae",
+   "sha256": "bcf57bc52f1f2962ff4a5750facc8dcac43cb0a73eacf73025abc4686fd9791e",
+   "size": 683129
+  },
+  {
+   "path": "meshes/v6_v/left/Finger04_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger04_Link02.STL",
+   "sha256": "d66b321ae116b4da166c66f7911c8dbf575148ba6f85fcfdb8432a75c79e4d49",
+   "size": 498484
+  },
+  {
+   "path": "meshes/v6_v/left/Finger04_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger04_Link02.dae",
+   "sha256": "e1a788eaf77d540d12bfbcb0a7337371a2fdd3728bf409ef1ea4c750769c7f20",
+   "size": 581554
+  },
+  {
+   "path": "meshes/v6_v/left/Finger04_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger04_Link03.STL",
+   "sha256": "801df0b108332878786a83440977eec7c8bc62be7c141513e7138b68a19ceca2",
+   "size": 498484
+  },
+  {
+   "path": "meshes/v6_v/left/Finger04_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger04_Link03.dae",
+   "sha256": "10a13d33226d1ef4dc39b2bf0f2de9c6b55794f6dcb015cc6cf0814039a47331",
+   "size": 581554
+  },
+  {
+   "path": "meshes/v6_v/left/Finger04_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger04_Link04.STL",
+   "sha256": "85791330926dddf8ff06bd5ccf26f2c90aa69fc9d326fa2a1dc4d2e91e2f00d4",
+   "size": 197384
+  },
+  {
+   "path": "meshes/v6_v/left/Finger04_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger04_Link04.dae",
+   "sha256": "ebbd656914094ae4b015febc32755ff5177faacedd5a204e9b7142752eb7ca3d",
+   "size": 217589
+  },
+  {
+   "path": "meshes/v6_v/left/Finger04_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger04_Link05.STL",
+   "sha256": "506c696ebf580c46fe72309870768e8d469ef47f6feb1019692d8d236d7027a4",
+   "size": 642284
+  },
+  {
+   "path": "meshes/v6_v/left/Finger04_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger04_Link05.dae",
+   "sha256": "398e3ae5aa8b629eec48124c7c9fbf70d765472f066804188bcb9e259f629f14",
+   "size": 807167
+  },
+  {
+   "path": "meshes/v6_v/left/Finger04_Link06.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger04_Link06.STL",
+   "sha256": "38e43bcd588e963b884f83151f21ccbf994fd3edb6d4eaa98ac4d154822f3f56",
+   "size": 44284
+  },
+  {
+   "path": "meshes/v6_v/left/Finger04_Link06.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger04_Link06.dae",
+   "sha256": "774485a3041bbf932af586973083996992f0603ef872743aecbaa07ff44ded5c",
+   "size": 50840
+  },
+  {
+   "path": "meshes/v6_v/left/Finger05_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger05_Link01.STL",
+   "sha256": "43f45a49b16768531fb137306ae0a9d20a68b4e2472389d0e22a8b6cb66ff6e5",
+   "size": 601484
+  },
+  {
+   "path": "meshes/v6_v/left/Finger05_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger05_Link01.dae",
+   "sha256": "4c6c935906a93a899dd9fe96f2ae10bf0d5984ed2058739f653e9b6fbff8069d",
+   "size": 722861
+  },
+  {
+   "path": "meshes/v6_v/left/Finger05_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger05_Link02.STL",
+   "sha256": "706d3b1bb4f9cca12ed423cb0f7919b2228382469b373a4d486bf2768225c497",
+   "size": 498484
+  },
+  {
+   "path": "meshes/v6_v/left/Finger05_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger05_Link02.dae",
+   "sha256": "77928dc3da1ee16b7d872f4c9c927e787cea496885aca97efefd0d8573a99760",
+   "size": 593723
+  },
+  {
+   "path": "meshes/v6_v/left/Finger05_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger05_Link03.STL",
+   "sha256": "b8da22cc29cda0a05ded30751ce81ed69ef838cddcc8f38ae0cd192c0630125d",
+   "size": 498484
+  },
+  {
+   "path": "meshes/v6_v/left/Finger05_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger05_Link03.dae",
+   "sha256": "b832ea999e1f1198f30072277ca2af772db225322054e57214eb9ec0e41ea14b",
+   "size": 593723
+  },
+  {
+   "path": "meshes/v6_v/left/Finger05_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger05_Link04.STL",
+   "sha256": "87f13dfaa3df7424e6f0b36803311411a4bb1c9d60e1c710755c116cdade4c88",
+   "size": 197384
+  },
+  {
+   "path": "meshes/v6_v/left/Finger05_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger05_Link04.dae",
+   "sha256": "3beddd27ece81105af12ea017e8cc3d4d81f27dcdfe01ee503325d973044a850",
+   "size": 222562
+  },
+  {
+   "path": "meshes/v6_v/left/Finger05_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger05_Link05.STL",
+   "sha256": "a1e2ae236230f1371aff3ef2f698cf8009c3b3e1b010481bc7c37e2b71c31b2c",
+   "size": 642284
+  },
+  {
+   "path": "meshes/v6_v/left/Finger05_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger05_Link05.dae",
+   "sha256": "ca50900f21db3f3160ec11787b84803e453d5964d51364fa47cb5a55bae24376",
+   "size": 806673
+  },
+  {
+   "path": "meshes/v6_v/left/Finger05_Link06.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger05_Link06.STL",
+   "sha256": "c1bbab249f95d722a38ac61522d0d2bcdcca39afed688718ac6bca66eec2d09a",
+   "size": 44284
+  },
+  {
+   "path": "meshes/v6_v/left/Finger05_Link06.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Finger05_Link06.dae",
+   "sha256": "f71dffa1ca3a6fd4383c7dffec9439de0fb7ef29072e239c08728ed9221f2fa0",
+   "size": 50817
+  },
+  {
+   "path": "meshes/v6_v/left/Palm.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Palm.STL",
+   "sha256": "a42866ad4a51d731bc872311a7347c01b32da8bea76368c5b69d1e429b4ec9af",
+   "size": 4063284
+  },
+  {
+   "path": "meshes/v6_v/left/Palm.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Palm.dae",
+   "sha256": "2cdec719f052559f1f9aafe08a90bba55ce1b16c6c21c19ec368313058a10b3a",
+   "size": 5089798
+  },
+  {
+   "path": "meshes/v6_v/left/Palm_01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Palm_01.STL",
+   "sha256": "11c9c829aaf62da3659e376d45f18874a421af68c0dd60af59ed9b2ad65a1535",
+   "size": 128284
+  },
+  {
+   "path": "meshes/v6_v/left/Palm_01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Palm_01.dae",
+   "sha256": "e119492f87d3f60e5b810c0df4b6e7ba31a3a27a85c8404e807b3478c532b360",
+   "size": 144644
+  },
+  {
+   "path": "meshes/v6_v/left/Palm_02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Palm_02.STL",
+   "sha256": "5bdeb37b7932421b50fbc01e2816c9f3fc0a26c9c1ba62358b15fe8341970bc0",
+   "size": 99984
+  },
+  {
+   "path": "meshes/v6_v/left/Palm_02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Palm_02.dae",
+   "sha256": "1f79c556697b270abffafec234fa1b356121591b614425c781e8e9b4be2fbba8",
+   "size": 112161
+  },
+  {
+   "path": "meshes/v6_v/left/Palm_03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Palm_03.STL",
+   "sha256": "08335185e8f30853aa1b9e9efb458ca2e1351b327c7d5682dd4d45f5123efb3e",
+   "size": 107784
+  },
+  {
+   "path": "meshes/v6_v/left/Palm_03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/left/Palm_03.dae",
+   "sha256": "8201806839325fca838b397cd60adc053d3b2f3e1218df28ec39104df142ca66",
+   "size": 119491
+  },
+  {
+   "path": "meshes/v6_v/right/Finger01_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger01_Link01.STL",
+   "sha256": "813a49dbfd302c9e01af44863859589c22513e42db874c855af8299e5f211445",
+   "size": 732784
+  },
+  {
+   "path": "meshes/v6_v/right/Finger01_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger01_Link01.dae",
+   "sha256": "cabbfdd12766623b984c64fb4449dd4eef6f1e63e0e6b5f691293d48d9a28e7c",
+   "size": 861460
+  },
+  {
+   "path": "meshes/v6_v/right/Finger01_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger01_Link02.STL",
+   "sha256": "d5b6599b328f5d76d44007e7ae89edbd2550970a468edcd8b1b1af7299f9d30f",
+   "size": 448484
+  },
+  {
+   "path": "meshes/v6_v/right/Finger01_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger01_Link02.dae",
+   "sha256": "0ef8253d4c5b0c007f4436492fb1a8473970b18dd60aa1695ea60ff9440c6386",
+   "size": 570550
+  },
+  {
+   "path": "meshes/v6_v/right/Finger01_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger01_Link03.STL",
+   "sha256": "1c494b4e99cc952dd742a13fcc8919ae128cb7acab37b5046cbee95931989064",
+   "size": 477684
+  },
+  {
+   "path": "meshes/v6_v/right/Finger01_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger01_Link03.dae",
+   "sha256": "653e6d057e296644b8d6d77b87180e4c8dd019de65654bca02436106116dee9c",
+   "size": 574222
+  },
+  {
+   "path": "meshes/v6_v/right/Finger01_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger01_Link04.STL",
+   "sha256": "0a9877f6ee22e1a9250ba021042550cc77358374cbfead7870e29b5d353c12cf",
+   "size": 537984
+  },
+  {
+   "path": "meshes/v6_v/right/Finger01_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger01_Link04.dae",
+   "sha256": "94ea69f44bb55c265765b2132d635f1fe608235bac7ff7e30f2f49d4c6bb5a1c",
+   "size": 635776
+  },
+  {
+   "path": "meshes/v6_v/right/Finger01_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger01_Link05.STL",
+   "sha256": "64d80a851a3b277fbeb096bcf1445e4f4201d30c8e63674c1d96210dbd90efa5",
+   "size": 642284
+  },
+  {
+   "path": "meshes/v6_v/right/Finger01_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger01_Link05.dae",
+   "sha256": "f07da57e606f52701cc6cac1a44fe04529d302dbe2d03be8bee98fa068a0eba5",
+   "size": 806598
+  },
+  {
+   "path": "meshes/v6_v/right/Finger01_Link06.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger01_Link06.STL",
+   "sha256": "a98dda3ed17b3cc076507a03c74466a9ab41ca3e9b23202fc328b44d7f21a21a",
+   "size": 44284
+  },
+  {
+   "path": "meshes/v6_v/right/Finger01_Link06.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger01_Link06.dae",
+   "sha256": "40a1d05e2681fdd256eede4afab9a0c6826c08a0ba8c4d7e79033bd86ab5b679",
+   "size": 50774
+  },
+  {
+   "path": "meshes/v6_v/right/Finger02_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger02_Link01.STL",
+   "sha256": "0177ccfa9dc6666ece2e3e4a0562fd46a9844fa1b2b728cbebef2782f162cf28",
+   "size": 601484
+  },
+  {
+   "path": "meshes/v6_v/right/Finger02_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger02_Link01.dae",
+   "sha256": "0213191a36af478c1c8918d3e163823c670c45e9f164d1252db7a5a35d28a4e5",
+   "size": 682201
+  },
+  {
+   "path": "meshes/v6_v/right/Finger02_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger02_Link02.STL",
+   "sha256": "537679aad748467caacab11713d8f79fa8e706362aee37135153d397d07926b6",
+   "size": 460884
+  },
+  {
+   "path": "meshes/v6_v/right/Finger02_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger02_Link02.dae",
+   "sha256": "2333ed74ec5a9b713bf89b6a404b48824e856da1cac685eec8540c986b2b045f",
+   "size": 543399
+  },
+  {
+   "path": "meshes/v6_v/right/Finger02_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger02_Link03.STL",
+   "sha256": "eff14609d7923817e87286453d7c479d30ec5aade450f780df74fc934a3ac84a",
+   "size": 498484
+  },
+  {
+   "path": "meshes/v6_v/right/Finger02_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger02_Link03.dae",
+   "sha256": "167dd14bbb6a4a7af9bc4cfea9286fdf7fb0d1f6d826967c26920846e094e879",
+   "size": 598652
+  },
+  {
+   "path": "meshes/v6_v/right/Finger02_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger02_Link04.STL",
+   "sha256": "a70f11b212b821e3077a522f445fd663a0438345bbf5b30e0415c3dc61d8b0b3",
+   "size": 197384
+  },
+  {
+   "path": "meshes/v6_v/right/Finger02_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger02_Link04.dae",
+   "sha256": "d8cb9f33be916d9d21bc2cc7524f45895bc8d232daa0319bede9ba96b5d4e661",
+   "size": 221805
+  },
+  {
+   "path": "meshes/v6_v/right/Finger02_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger02_Link05.STL",
+   "sha256": "98c04c21d51f5d9f11270b79a427243592c62507438f737b154aae4cdef7a981",
+   "size": 642284
+  },
+  {
+   "path": "meshes/v6_v/right/Finger02_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger02_Link05.dae",
+   "sha256": "ab9df9f51006cb33ab84e6f5b801ce4c24784e50b16ad70922a33e502c27b549",
+   "size": 806721
+  },
+  {
+   "path": "meshes/v6_v/right/Finger02_Link06.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger02_Link06.STL",
+   "sha256": "7a25c9fb1e8bc75a16fa11fd25f531ccf791561fc9fc8bdb9c0d50afd0aa17ac",
+   "size": 44284
+  },
+  {
+   "path": "meshes/v6_v/right/Finger02_Link06.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger02_Link06.dae",
+   "sha256": "51c9a31ff6871c8efa3a1a2d541aed684449fd3178b1e3bba7206d0306247780",
+   "size": 50807
+  },
+  {
+   "path": "meshes/v6_v/right/Finger03_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger03_Link01.STL",
+   "sha256": "460125bc2d543c6b95c5234eed86ff64a91b3e075403ccd52322e58bd222d389",
+   "size": 601484
+  },
+  {
+   "path": "meshes/v6_v/right/Finger03_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger03_Link01.dae",
+   "sha256": "1e7d88a1e4607d67d9270d23b30696e155608d833453251a649412e899f2252b",
+   "size": 682201
+  },
+  {
+   "path": "meshes/v6_v/right/Finger03_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger03_Link02.STL",
+   "sha256": "367fdefec80051c44f596691c67ff84e9143f78d7e66d3e335618a0f0f5323a2",
+   "size": 498484
+  },
+  {
+   "path": "meshes/v6_v/right/Finger03_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger03_Link02.dae",
+   "sha256": "fc5501fdd913217955e13d4a225f54579bc881376136c842cdd81e6820f5781e",
+   "size": 584903
+  },
+  {
+   "path": "meshes/v6_v/right/Finger03_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger03_Link03.STL",
+   "sha256": "315a1b169476e019e91d3526e7c5e1b34debd65cf5d39d84e2cec7fba4c5e398",
+   "size": 498484
+  },
+  {
+   "path": "meshes/v6_v/right/Finger03_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger03_Link03.dae",
+   "sha256": "f726822efa706b036f397240ff59a737b55e63d04ab3932360e8c025464ed3de",
+   "size": 584903
+  },
+  {
+   "path": "meshes/v6_v/right/Finger03_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger03_Link04.STL",
+   "sha256": "f7d443142c7144b13bf374f2b79cc746809fb7933f44c7fb0fe4394d74184ddb",
+   "size": 197384
+  },
+  {
+   "path": "meshes/v6_v/right/Finger03_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger03_Link04.dae",
+   "sha256": "68ba47057b1e103cacf169b68fd7618846e6736f77fe108dd419a7649ff90d0b",
+   "size": 216823
+  },
+  {
+   "path": "meshes/v6_v/right/Finger03_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger03_Link05.STL",
+   "sha256": "06ca55baec4f5c6b4f4c3e37f306fe40c1afdd480a26f65067fc387e9d05bb76",
+   "size": 642284
+  },
+  {
+   "path": "meshes/v6_v/right/Finger03_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger03_Link05.dae",
+   "sha256": "87c5815726463cd5fd8caa83b974ae368d4a06f1453014d5257cd343ba800908",
+   "size": 800478
+  },
+  {
+   "path": "meshes/v6_v/right/Finger03_Link06.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger03_Link06.STL",
+   "sha256": "f7bcf9c8a3a62176239184ade445ba5270c7c1aebefd7b39fef74a05641f2b98",
+   "size": 44284
+  },
+  {
+   "path": "meshes/v6_v/right/Finger03_Link06.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger03_Link06.dae",
+   "sha256": "ddaca575a2d3877ed87c0a2686c9ab5cfdd72548348b41228d74cf75a72aa0f6",
+   "size": 50492
+  },
+  {
+   "path": "meshes/v6_v/right/Finger04_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger04_Link01.STL",
+   "sha256": "fb984c9d76223d1f2aaaf7063f1cb030f2cf479d180478f75dd49242fb19d7c7",
+   "size": 601484
+  },
+  {
+   "path": "meshes/v6_v/right/Finger04_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger04_Link01.dae",
+   "sha256": "508654e6631ae48edc26a7bdc62f4bedad9333a688823fa652568fe0867f7718",
+   "size": 682201
+  },
+  {
+   "path": "meshes/v6_v/right/Finger04_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger04_Link02.STL",
+   "sha256": "0e65e58ec2a5e5c4070a81af2110e0c284216d09685ac1325b57487dc4cb6c55",
+   "size": 498484
+  },
+  {
+   "path": "meshes/v6_v/right/Finger04_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger04_Link02.dae",
+   "sha256": "d2cce09b9c621c69cf5a8ab2d5a2012ee010842b813ec4da12240b2d4e753a17",
+   "size": 584903
+  },
+  {
+   "path": "meshes/v6_v/right/Finger04_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger04_Link03.STL",
+   "sha256": "f65496eedab617e598497c0c12455c483a24a76d9cfd98778fb2cd676a319873",
+   "size": 498484
+  },
+  {
+   "path": "meshes/v6_v/right/Finger04_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger04_Link03.dae",
+   "sha256": "58fbf9d0dbef8a3f4888eeaa594db98a341fca3fb133426a257d7e8272c6d54c",
+   "size": 584903
+  },
+  {
+   "path": "meshes/v6_v/right/Finger04_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger04_Link04.STL",
+   "sha256": "bbe257d4c1caaa1b3c09d8d7b2ae03d1724f88fe1af19a00b75de5c380b72eec",
+   "size": 197384
+  },
+  {
+   "path": "meshes/v6_v/right/Finger04_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger04_Link04.dae",
+   "sha256": "15ab4eabe9a703bd313416cc336949667ee600c6482bf6a5277e3c0fd18fe774",
+   "size": 216823
+  },
+  {
+   "path": "meshes/v6_v/right/Finger04_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger04_Link05.STL",
+   "sha256": "e144de28f43ef1bd39f1680a9b64628976594216f502fcd1b499fc90045ce389",
+   "size": 642284
+  },
+  {
+   "path": "meshes/v6_v/right/Finger04_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger04_Link05.dae",
+   "sha256": "831438dff3a62171fdd2072fc7e367209695194b1a59e9e54a24c7eaef155b6e",
+   "size": 807069
+  },
+  {
+   "path": "meshes/v6_v/right/Finger04_Link06.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger04_Link06.STL",
+   "sha256": "9f30a5376e6acdb26f6b31cf341fa5651c537d701ca6cfcbad0fde6b66479fb3",
+   "size": 44284
+  },
+  {
+   "path": "meshes/v6_v/right/Finger04_Link06.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger04_Link06.dae",
+   "sha256": "6f3fc503ddda3f0abf5dc3a581e11e69ca0faa04e828622cd7ceaf7a33b0fb84",
+   "size": 50878
+  },
+  {
+   "path": "meshes/v6_v/right/Finger05_Link01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger05_Link01.STL",
+   "sha256": "1d57f5df825d88467c414fc8797df78dc9c222125e3e86516b982803bcf0e683",
+   "size": 601484
+  },
+  {
+   "path": "meshes/v6_v/right/Finger05_Link01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger05_Link01.dae",
+   "sha256": "3b5f2c08b0e4c15ad8c3bc8aed54624788ef9e216a5cf0804f0ac0019baef960",
+   "size": 721979
+  },
+  {
+   "path": "meshes/v6_v/right/Finger05_Link02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger05_Link02.STL",
+   "sha256": "fb0ed1dd7b2907f79b05afe1afb8d227a2488a7d517641ffb740bb0cf70865e6",
+   "size": 498484
+  },
+  {
+   "path": "meshes/v6_v/right/Finger05_Link02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger05_Link02.dae",
+   "sha256": "cc8c1f3742734ebc6d02a1d2b3aef583aed8e7e7f9eb61b888cfb9afab9b7545",
+   "size": 597142
+  },
+  {
+   "path": "meshes/v6_v/right/Finger05_Link03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger05_Link03.STL",
+   "sha256": "1f8a0c99916875fdb08a706c0cd37996e14b014ae932bd27d281463cb9466d51",
+   "size": 498484
+  },
+  {
+   "path": "meshes/v6_v/right/Finger05_Link03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger05_Link03.dae",
+   "sha256": "c4d7f51ec007357d7432c9fba5f1ad31892b2f76a7a2332856a9d58a0b81de51",
+   "size": 597143
+  },
+  {
+   "path": "meshes/v6_v/right/Finger05_Link04.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger05_Link04.STL",
+   "sha256": "6389e8aaa10f741be9ffaeb908b0ca491e2f5149c37c073e723b56bbfcab0ae5",
+   "size": 197384
+  },
+  {
+   "path": "meshes/v6_v/right/Finger05_Link04.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger05_Link04.dae",
+   "sha256": "6b908ac718b983bce4f0a025bd4f2bdec38c7d46ff2ceb18d3978966eee4b8ac",
+   "size": 221804
+  },
+  {
+   "path": "meshes/v6_v/right/Finger05_Link05.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger05_Link05.STL",
+   "sha256": "9efd11444737d28a275fefa89aa4bc51dfede6d9475f9aad69eb3f23fbf19e8a",
+   "size": 642284
+  },
+  {
+   "path": "meshes/v6_v/right/Finger05_Link05.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger05_Link05.dae",
+   "sha256": "faba297b0c896b435ae3b2157356fd6a582600b916484ed5bfc308b8196742de",
+   "size": 806721
+  },
+  {
+   "path": "meshes/v6_v/right/Finger05_Link06.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger05_Link06.STL",
+   "sha256": "85c46082eb2de8cc91d703b2167629bdd1e98ef4b38e898a02490f5e03002b98",
+   "size": 44284
+  },
+  {
+   "path": "meshes/v6_v/right/Finger05_Link06.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Finger05_Link06.dae",
+   "sha256": "1e0cd9f5eb9e2e669a0ebfb3125fa9e88ae50ac2ce12abda2cfd58145064ab0e",
+   "size": 50904
+  },
+  {
+   "path": "meshes/v6_v/right/Palm.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Palm.STL",
+   "sha256": "63037ceca9b4a9d6e37f3f23741d8b31da07143129fe858da06e886a57eba50a",
+   "size": 4063284
+  },
+  {
+   "path": "meshes/v6_v/right/Palm.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Palm.dae",
+   "sha256": "ce4e4d17b1dd0e207b3bf9b15324fa38d6a78c9ed8bd754f087ed1d347750a92",
+   "size": 5104801
+  },
+  {
+   "path": "meshes/v6_v/right/Palm_01.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Palm_01.STL",
+   "sha256": "516a23d69a2122a9c7d0f325f10e65b2c65e0ce5789b6d94e6274c851961d913",
+   "size": 128284
+  },
+  {
+   "path": "meshes/v6_v/right/Palm_01.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Palm_01.dae",
+   "sha256": "95f2000c1ac3733ca19899ad8d89d37da3ea716182b166a340b911ea8227e1d9",
+   "size": 144569
+  },
+  {
+   "path": "meshes/v6_v/right/Palm_02.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Palm_02.STL",
+   "sha256": "0871ed689f2f5f979731a289d11c84d8099c87d398b095ea7a383214dd399270",
+   "size": 99984
+  },
+  {
+   "path": "meshes/v6_v/right/Palm_02.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Palm_02.dae",
+   "sha256": "a1326184dbea0efd6fe79ec438b8068c98277c1433bb062ed844c82c66d4cba9",
+   "size": 111897
+  },
+  {
+   "path": "meshes/v6_v/right/Palm_03.STL",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Palm_03.STL",
+   "sha256": "e34e127b4c60dd53d16002965ca89f87510213877a5880f2fd5bc089899f4609",
+   "size": 107784
+  },
+  {
+   "path": "meshes/v6_v/right/Palm_03.dae",
+   "source": "src/allegro_hand_v6/allegro_hand_v6_description/meshes/v6_v/right/Palm_03.dae",
+   "sha256": "961639f87980cfa0b13ab08c13480e0e916cc81f298afd6cba58a345b6a653d8",
+   "size": 119694
+  }
+ ]
+}

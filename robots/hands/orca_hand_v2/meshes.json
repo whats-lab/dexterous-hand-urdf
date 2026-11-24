@@ -1,0 +1,198 @@
+{
+ "repo": "orcahand/orcahand_description",
+ "commit": "64ff756ddb7e85999bd09b0d6539f4403e512423",
+ "files": [
+  {
+   "path": "meshes/left/ForeArmStructure-Model.stl",
+   "source": "v2/assets/urdf/left/ForeArmStructure-Model.stl",
+   "sha256": "5955f1dba99df5e6ff346662a674f25ceaefd969621a1e0bdd84bcf318b1cc5d",
+   "size": 90684
+  },
+  {
+   "path": "meshes/left/I-AP-L.stl",
+   "source": "v2/assets/urdf/left/I-AP-L.stl",
+   "sha256": "419a4c2746675571d2946f53abc18c605985b5eacaf23e40a175bf852e8dcdb8",
+   "size": 1238384
+  },
+  {
+   "path": "meshes/left/I-FingerTipAssembly.stl",
+   "source": "v2/assets/urdf/left/I-FingerTipAssembly.stl",
+   "sha256": "5f7285322daf80748b4d8d93bb699afad205346353aff0f6b1eb731e8b9618ca",
+   "size": 1696784
+  },
+  {
+   "path": "meshes/left/I-PP.stl",
+   "source": "v2/assets/urdf/left/I-PP.stl",
+   "sha256": "b44928d2d09844402d51c7bef22b84407fb0b4fc2364ab2ffb9fc4aef1d36848",
+   "size": 1240784
+  },
+  {
+   "path": "meshes/left/L-Carpals.stl",
+   "source": "v2/assets/urdf/left/L-Carpals.stl",
+   "sha256": "0c8c075463cecfd4dfbfa0fec109d74d8019634102f1a9c09f529d3e7685969c",
+   "size": 4999984
+  },
+  {
+   "path": "meshes/left/L-T-AP.stl",
+   "source": "v2/assets/urdf/left/L-T-AP.stl",
+   "sha256": "75bf65169673aa705ab2898321eec1a5057633148f76132f844f493440f0e59b",
+   "size": 1161684
+  },
+  {
+   "path": "meshes/left/M-AP.stl",
+   "source": "v2/assets/urdf/left/M-AP.stl",
+   "sha256": "7495a5ef101f6bd08f533a30452fbb43443dfed87081744577333bedc961a41a",
+   "size": 1186984
+  },
+  {
+   "path": "meshes/left/M-FingerTipAssembly.stl",
+   "source": "v2/assets/urdf/left/M-FingerTipAssembly.stl",
+   "sha256": "44208e718e7edbf0407b4333bb645af426cc69929b8619e77e4ca0996849f795",
+   "size": 1704584
+  },
+  {
+   "path": "meshes/left/M-PP.stl",
+   "source": "v2/assets/urdf/left/M-PP.stl",
+   "sha256": "4af229f133f3a26fe547b50c2d9b071d2818488c01af079aff5a0d9d64d8869e",
+   "size": 1162784
+  },
+  {
+   "path": "meshes/left/P-AP.stl",
+   "source": "v2/assets/urdf/left/P-AP.stl",
+   "sha256": "71f29043b0d170c414432cd07b61c666092a4b51ea340937d5bb09093cf43183",
+   "size": 1244184
+  },
+  {
+   "path": "meshes/left/P-FingerTipAssembly.stl",
+   "source": "v2/assets/urdf/left/P-FingerTipAssembly.stl",
+   "sha256": "8bbe47d02cea7a595ae02a7ba74c0ad544bbd7c96665699baceea069cc86bfab",
+   "size": 1972984
+  },
+  {
+   "path": "meshes/left/P-PP.stl",
+   "source": "v2/assets/urdf/left/P-PP.stl",
+   "sha256": "614978cc6000c0f06536e1810854ea650874b4f561580b3b195fc4b1c4adf708",
+   "size": 1352884
+  },
+  {
+   "path": "meshes/left/T-DP.stl",
+   "source": "v2/assets/urdf/left/T-DP.stl",
+   "sha256": "0c10ee44aa01a72bd4f64d3aef892dc76ded7adc4ad1080ae9bf7f7e1f1fa596",
+   "size": 1585984
+  },
+  {
+   "path": "meshes/left/T-PP.stl",
+   "source": "v2/assets/urdf/left/T-PP.stl",
+   "sha256": "77f6c142e0c4bb322d352b879ac0b3d5765ffac7f8993b27ff5df4beacbbb691",
+   "size": 1295984
+  },
+  {
+   "path": "meshes/left/T-TP-L.stl",
+   "source": "v2/assets/urdf/left/T-TP-L.stl",
+   "sha256": "9350bf0d7548762b7d882213807a5029ce4c218d6902739a2bd22c0e555568a6",
+   "size": 698584
+  },
+  {
+   "path": "meshes/left/TopTower-Model.stl",
+   "source": "v2/assets/urdf/left/TopTower-Model.stl",
+   "sha256": "5126fea52e59d478afcde4a3dafbe204e8c0dc151b3956153e6fac34f76ba2a7",
+   "size": 827384
+  },
+  {
+   "path": "meshes/right/ForeArmStructure-Model.stl",
+   "source": "v2/assets/urdf/right/ForeArmStructure-Model.stl",
+   "sha256": "5955f1dba99df5e6ff346662a674f25ceaefd969621a1e0bdd84bcf318b1cc5d",
+   "size": 90684
+  },
+  {
+   "path": "meshes/right/I-AP-R.stl",
+   "source": "v2/assets/urdf/right/I-AP-R.stl",
+   "sha256": "9ddb51761e562f6608879707795fc7939cb628cd304096b1456472158127a993",
+   "size": 1214884
+  },
+  {
+   "path": "meshes/right/I-FingerTipAssembly.stl",
+   "source": "v2/assets/urdf/right/I-FingerTipAssembly.stl",
+   "sha256": "5f7285322daf80748b4d8d93bb699afad205346353aff0f6b1eb731e8b9618ca",
+   "size": 1696784
+  },
+  {
+   "path": "meshes/right/I-PP.stl",
+   "source": "v2/assets/urdf/right/I-PP.stl",
+   "sha256": "b44928d2d09844402d51c7bef22b84407fb0b4fc2364ab2ffb9fc4aef1d36848",
+   "size": 1240784
+  },
+  {
+   "path": "meshes/right/M-AP.stl",
+   "source": "v2/assets/urdf/right/M-AP.stl",
+   "sha256": "7495a5ef101f6bd08f533a30452fbb43443dfed87081744577333bedc961a41a",
+   "size": 1186984
+  },
+  {
+   "path": "meshes/right/M-FingerTipAssembly.stl",
+   "source": "v2/assets/urdf/right/M-FingerTipAssembly.stl",
+   "sha256": "44208e718e7edbf0407b4333bb645af426cc69929b8619e77e4ca0996849f795",
+   "size": 1704584
+  },
+  {
+   "path": "meshes/right/M-PP.stl",
+   "source": "v2/assets/urdf/right/M-PP.stl",
+   "sha256": "4af229f133f3a26fe547b50c2d9b071d2818488c01af079aff5a0d9d64d8869e",
+   "size": 1162784
+  },
+  {
+   "path": "meshes/right/P-AP.stl",
+   "source": "v2/assets/urdf/right/P-AP.stl",
+   "sha256": "71f29043b0d170c414432cd07b61c666092a4b51ea340937d5bb09093cf43183",
+   "size": 1244184
+  },
+  {
+   "path": "meshes/right/P-FingerTipAssembly.stl",
+   "source": "v2/assets/urdf/right/P-FingerTipAssembly.stl",
+   "sha256": "8bbe47d02cea7a595ae02a7ba74c0ad544bbd7c96665699baceea069cc86bfab",
+   "size": 1972984
+  },
+  {
+   "path": "meshes/right/P-PP.stl",
+   "source": "v2/assets/urdf/right/P-PP.stl",
+   "sha256": "614978cc6000c0f06536e1810854ea650874b4f561580b3b195fc4b1c4adf708",
+   "size": 1352884
+  },
+  {
+   "path": "meshes/right/R-Carpals.stl",
+   "source": "v2/assets/urdf/right/R-Carpals.stl",
+   "sha256": "fd8d6d6e76370516825c2edb6f61d10cb06c5370e6501583b082e0ec4af80737",
+   "size": 4999984
+  },
+  {
+   "path": "meshes/right/R-T-AP.stl",
+   "source": "v2/assets/urdf/right/R-T-AP.stl",
+   "sha256": "c6b01ca3f7d15794da0c9aab74c5b93be8763e258eedebb42886909e2d065b40",
+   "size": 1160584
+  },
+  {
+   "path": "meshes/right/T-DP.stl",
+   "source": "v2/assets/urdf/right/T-DP.stl",
+   "sha256": "78d9c987fd60cd8319f073896eb30f5e0174455074ebba3b8d38b2faa88de40f",
+   "size": 1585984
+  },
+  {
+   "path": "meshes/right/T-PP.stl",
+   "source": "v2/assets/urdf/right/T-PP.stl",
+   "sha256": "d8814e70c44aa91c36ea961175efd5d488a3d51b59a65712440167aefc3a79c3",
+   "size": 1295984
+  },
+  {
+   "path": "meshes/right/T-TP-R.stl",
+   "source": "v2/assets/urdf/right/T-TP-R.stl",
+   "sha256": "c41bfc4c42177f4238deca1d1fdd77fada6e4addef1a3e24026f1ea09c441a28",
+   "size": 710584
+  },
+  {
+   "path": "meshes/right/TopTower-Model.stl",
+   "source": "v2/assets/urdf/right/TopTower-Model.stl",
+   "sha256": "5126fea52e59d478afcde4a3dafbe204e8c0dc151b3956153e6fac34f76ba2a7",
+   "size": 827384
+  }
+ ]
+}

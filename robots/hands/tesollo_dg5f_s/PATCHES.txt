@@ -1,0 +1,2 @@
+Copied from https://github.com/tesollodelto/tesollo_model @ 2ce9aca: URDF files renamed to <hand_id>_<side>.urdf, mesh paths rewritten to relative meshes/... (path segments with spaces or ending in .urdf renamed), and only the meshes referenced by the URDFs kept.
+tesollo_dg5f_s_{left,right}.urdf is the upstream 20-DoF model, the standard DG-5F-S configuration; the 15-DoF variant is *_15dof.urdf.

@@ -1,0 +1,138 @@
+{
+ "repo": "unitreerobotics/unitree_ros",
+ "commit": "157ff950351e5f535e03c5d85a16b7d594b3dbcc",
+ "files": [
+  {
+   "path": "meshes/left_0_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/left_0_link.STL",
+   "sha256": "96e9cb7581f54cc5e2684b03a2c6fde6e843d5199431e40d0c14986cc71a4165",
+   "size": 2727684
+  },
+  {
+   "path": "meshes/left_11_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/left_11_link.STL",
+   "sha256": "9942dc6d87a9f28e367274ba5ed0df124435c89599b6a58107dd38b84f05e74a",
+   "size": 2310684
+  },
+  {
+   "path": "meshes/left_12_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/left_12_link.STL",
+   "sha256": "ca20e901470b93b0c00233cce089f1bccbcde2bf23cdba2cf8d0dec2d1e1aca8",
+   "size": 5080484
+  },
+  {
+   "path": "meshes/left_21_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/left_21_link.STL",
+   "sha256": "79a3088bc8803595ca7cb8c38c822f42deecc9fb0c064908c558105c3a9cf678",
+   "size": 2310684
+  },
+  {
+   "path": "meshes/left_22_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/left_22_link.STL",
+   "sha256": "ccde6fce2222368672f782dfaa562c7eea640f0e71a03fbb4f66a0bbc52fe7af",
+   "size": 5080484
+  },
+  {
+   "path": "meshes/left_31_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/left_31_link.STL",
+   "sha256": "79a3088bc8803595ca7cb8c38c822f42deecc9fb0c064908c558105c3a9cf678",
+   "size": 2310684
+  },
+  {
+   "path": "meshes/left_32_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/left_32_link.STL",
+   "sha256": "ccde6fce2222368672f782dfaa562c7eea640f0e71a03fbb4f66a0bbc52fe7af",
+   "size": 5080484
+  },
+  {
+   "path": "meshes/left_41_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/left_41_link.STL",
+   "sha256": "79a3088bc8803595ca7cb8c38c822f42deecc9fb0c064908c558105c3a9cf678",
+   "size": 2310684
+  },
+  {
+   "path": "meshes/left_42_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/left_42_link.STL",
+   "sha256": "ccde6fce2222368672f782dfaa562c7eea640f0e71a03fbb4f66a0bbc52fe7af",
+   "size": 5080484
+  },
+  {
+   "path": "meshes/left_51_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/left_51_link.STL",
+   "sha256": "79a3088bc8803595ca7cb8c38c822f42deecc9fb0c064908c558105c3a9cf678",
+   "size": 2310684
+  },
+  {
+   "path": "meshes/left_52_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/left_52_link.STL",
+   "sha256": "ccde6fce2222368672f782dfaa562c7eea640f0e71a03fbb4f66a0bbc52fe7af",
+   "size": 5080484
+  },
+  {
+   "path": "meshes/right_0_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/right_0_link.STL",
+   "sha256": "e5f190d224a0777f156859fb63a409161b78fda4d7feccc567a60a113730c850",
+   "size": 2719984
+  },
+  {
+   "path": "meshes/right_11_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/right_11_link.STL",
+   "sha256": "8c7d9bfa448d82d413193ae183c92200bdc50acdbb74a58ac8b49ba5d090a665",
+   "size": 2311284
+  },
+  {
+   "path": "meshes/right_12_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/right_12_link.STL",
+   "sha256": "2a8afbcb7f5ffa2a43f42b081b5dc0a82b6323bdc81fec2ee927db5b8168eeaf",
+   "size": 5067884
+  },
+  {
+   "path": "meshes/right_21_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/right_21_link.STL",
+   "sha256": "a73f680da9b546378158514f0fb4126d55be01ccd7965eef0f3cc2ed29b9dadc",
+   "size": 2311284
+  },
+  {
+   "path": "meshes/right_22_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/right_22_link.STL",
+   "sha256": "2d8875078ae5d03c598ab2413bad93e861fb0d9c90ede7b28cd7d6dfbcfa2e61",
+   "size": 5067884
+  },
+  {
+   "path": "meshes/right_31_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/right_31_link.STL",
+   "sha256": "a73f680da9b546378158514f0fb4126d55be01ccd7965eef0f3cc2ed29b9dadc",
+   "size": 2311284
+  },
+  {
+   "path": "meshes/right_32_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/right_32_link.STL",
+   "sha256": "2d8875078ae5d03c598ab2413bad93e861fb0d9c90ede7b28cd7d6dfbcfa2e61",
+   "size": 5067884
+  },
+  {
+   "path": "meshes/right_41_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/right_41_link.STL",
+   "sha256": "a73f680da9b546378158514f0fb4126d55be01ccd7965eef0f3cc2ed29b9dadc",
+   "size": 2311284
+  },
+  {
+   "path": "meshes/right_42_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/right_42_link.STL",
+   "sha256": "2d8875078ae5d03c598ab2413bad93e861fb0d9c90ede7b28cd7d6dfbcfa2e61",
+   "size": 5067884
+  },
+  {
+   "path": "meshes/right_51_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/right_51_link.STL",
+   "sha256": "a73f680da9b546378158514f0fb4126d55be01ccd7965eef0f3cc2ed29b9dadc",
+   "size": 2311284
+  },
+  {
+   "path": "meshes/right_52_link.STL",
+   "source": "robots/dexterous_hand_description/dex2_5/meshes/right_52_link.STL",
+   "sha256": "2d8875078ae5d03c598ab2413bad93e861fb0d9c90ede7b28cd7d6dfbcfa2e61",
+   "size": 5067884
+  }
+ ]
+}

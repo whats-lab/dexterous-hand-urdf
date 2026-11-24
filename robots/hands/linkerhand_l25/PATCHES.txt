@@ -1,0 +1,1 @@
+Copied from https://github.com/linker-bot/linkerhand-urdf @ 49f2602: URDF files renamed to <hand_id>_<side>.urdf, mesh paths rewritten to relative meshes/... (path segments with spaces or ending in .urdf renamed), and only the meshes referenced by the URDFs kept.

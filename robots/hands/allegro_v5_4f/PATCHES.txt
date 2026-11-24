@@ -1,0 +1,2 @@
+Copied from https://github.com/Wonikrobotics-git/allegro_hand_ros2_v5 @ 80bd4a8: URDF files renamed to <hand_id>_<side>.urdf, mesh paths rewritten to relative meshes/... (path segments with spaces or ending in .urdf renamed), and only the meshes referenced by the URDFs kept.
+Wonik publishes A and B variants without explaining them; both are kept (*_a.urdf, *_b.urdf).

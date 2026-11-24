@@ -1,0 +1,78 @@
+{
+ "repo": "Wonikrobotics-git/allegro_hand_ros2_V5_Sense",
+ "commit": "92bfca960af4b0c3d990f49dd6cc0be77db428ab",
+ "files": [
+  {
+   "path": "meshes/G1.stl",
+   "source": "src/allegro_hand_controllers/meshes/G1.stl",
+   "sha256": "376054e922fb9c9c06e6fbadcdf0d8983140f6bc949e625217e1cfe8e07c30bc",
+   "size": 2512884
+  },
+  {
+   "path": "meshes/G1_left.stl",
+   "source": "src/allegro_hand_controllers/meshes/G1_left.stl",
+   "sha256": "c98d3f5d47ee52397e1faf781dfae97359e85f3df66d7cce9ea6fc9ded72f65d",
+   "size": 1552484
+  },
+  {
+   "path": "meshes/L1.stl",
+   "source": "src/allegro_hand_controllers/meshes/L1.stl",
+   "sha256": "9ae5aa622b536b9c2d7f358a332691b823f86130c475abcfbf80d0f850aa0125",
+   "size": 792284
+  },
+  {
+   "path": "meshes/L2.stl",
+   "source": "src/allegro_hand_controllers/meshes/L2.stl",
+   "sha256": "83add1d9181b201ece099ee8e18599dee9dfd7381cb6a064a37c203b254b862b",
+   "size": 5788784
+  },
+  {
+   "path": "meshes/L3.stl",
+   "source": "src/allegro_hand_controllers/meshes/L3.stl",
+   "sha256": "72186859e12b675a6d1509e8c7b8ff08745ebe9ec15e4415f82ce82506e79446",
+   "size": 2672084
+  },
+  {
+   "path": "meshes/L4.stl",
+   "source": "src/allegro_hand_controllers/meshes/L4.stl",
+   "sha256": "b7cae186a60818e6d74efd22e858311d6273ccc275cd42d7a31790657c54dc75",
+   "size": 971584
+  },
+  {
+   "path": "meshes/L5.stl",
+   "source": "src/allegro_hand_controllers/meshes/L5.stl",
+   "sha256": "4c73522edb21b59a3c055b66ae7c9c053b0afe5a132a8dfaec96055661424a6e",
+   "size": 1186284
+  },
+  {
+   "path": "meshes/T1.stl",
+   "source": "src/allegro_hand_controllers/meshes/T1.stl",
+   "sha256": "1adaba30f892e994270af76827cf9e8ed7959278b17e012e79d8a9cc843e00de",
+   "size": 2413384
+  },
+  {
+   "path": "meshes/T2.stl",
+   "source": "src/allegro_hand_controllers/meshes/T2.stl",
+   "sha256": "56c8d209cbfc259aedb07835fc99851a9ecc1333e0240c9e482aae9a22fdf4f9",
+   "size": 1318884
+  },
+  {
+   "path": "meshes/T2_left.stl",
+   "source": "src/allegro_hand_controllers/meshes/T2_left.stl",
+   "sha256": "573f79175bae4848f3f1a4a25ff697fc166e0f31048e2c67386698532265fc8d",
+   "size": 284984
+  },
+  {
+   "path": "meshes/T3.stl",
+   "source": "src/allegro_hand_controllers/meshes/T3.stl",
+   "sha256": "71d1ac07c57c4f85dd002bb4dc127d07fccfcfc766e14e98dd3ab8d909ced1a6",
+   "size": 2717184
+  },
+  {
+   "path": "meshes/T4.stl",
+   "source": "src/allegro_hand_controllers/meshes/T4.stl",
+   "sha256": "5f5f8a6e82a03c901dacb9a180681a7c0df9f08af2da592f2bef5e67150c67bf",
+   "size": 2426984
+  }
+ ]
+}

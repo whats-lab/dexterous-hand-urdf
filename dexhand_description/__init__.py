@@ -1,11 +1,24 @@
-"""dexhand_description — WHATs LAB dexterous hand + arm robot description.
-
-URDF/메쉬/rviz 자산 패키지. 설치 위치(pip site-packages 또는 ROS share)에서
-자산 루트를 해석한다. URDF 의 package://dexhand_description/... URI 가 이 루트로 매핑.
-"""
 import os
+import sys
+import sysconfig
+
+_NAME = "dexhand_description"
+_PKG = os.path.dirname(os.path.abspath(__file__))
 
 
 def get_share() -> str:
-    """자산 루트(디렉토리) 절대경로. pip: 이 패키지 디렉토리. ROS: share/dexhand_description."""
-    return os.path.dirname(os.path.abspath(__file__))
+    candidates = [
+        os.path.join(os.path.dirname(os.path.realpath(_PKG)), "robots", "hands"),
+        os.path.join(_PKG, os.pardir, os.pardir, os.pardir, os.pardir, "share", _NAME),
+        os.path.join(sysconfig.get_path("data"), "share", _NAME),
+        os.path.join(sys.prefix, "share", _NAME),
+    ]
+    for path in candidates:
+        if os.path.isdir(path):
+            return os.path.normpath(path)
+    raise FileNotFoundError(f"{_NAME} share directory not found; tried: {candidates}")
+
+
+from dexhand_description.mesh_cache import FetchResult, fetch, hand_dir, list_hands  # noqa: E402
+
+__all__ = ["FetchResult", "fetch", "get_share", "hand_dir", "list_hands"]

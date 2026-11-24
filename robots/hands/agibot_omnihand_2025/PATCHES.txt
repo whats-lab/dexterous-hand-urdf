@@ -1,0 +1,2 @@
+Copied from https://github.com/AgibotTech/agilink_omnihand_description @ ddd053c: URDF files renamed to <hand_id>_<side>.urdf, mesh paths rewritten to relative meshes/... (path segments with spaces or ending in .urdf renamed), and only the meshes referenced by the URDFs kept.
+The upstream package.xml with the license declaration is kept as upstream_package.xml.

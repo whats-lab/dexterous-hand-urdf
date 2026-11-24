@@ -1,0 +1,1 @@
+bimanual.urdf removed: references meshes not present upstream

@@ -1,0 +1,750 @@
+{
+ "repo": "orcahand/orcahand_description",
+ "commit": "64ff756ddb7e85999bd09b0d6539f4403e512423",
+ "files": [
+  {
+   "path": "meshes/left/collision/left_collision_index_ip_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_index_ip_mesh.stl",
+   "sha256": "6a4cd58a3f08b2d4af95d02ef402e03bf19c77eb584e54a76b9a6b8ed2313fc2",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_index_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_index_ip_skin_mesh.stl",
+   "sha256": "2732d52d5ea65591b7d3ef12ef26e39fdd834e159ecbbc7b0b0d383cc4d53fef",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/collision/left_collision_index_mp_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_index_mp_mesh.stl",
+   "sha256": "8dfa8993bfa782edae7301586bdc398b4bbf27edc178080d695b7a9d1ae36b4e",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_index_pp_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_index_pp_mesh.stl",
+   "sha256": "112da147ba292ff5e90c9e9567be461c0fca611a47e04e29e0dbcb0d968d19d5",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_index_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_index_pp_skin_mesh.stl",
+   "sha256": "2f3e8ebe0d6e55ee5e88a2628f4e62f843f5ed6bc77e25b4251ff01e34452931",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/collision/left_collision_middle_ip_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_middle_ip_mesh.stl",
+   "sha256": "80413f0c13a2b0bd1cbf8493618d1b3f3e5c512e35da1482da7a175b6791ca95",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_middle_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_middle_ip_skin_mesh.stl",
+   "sha256": "3d1becd8fa7b69b79e8d8e4ba3d087c1935726ec5fcd8ea738013feefea6bbfa",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/collision/left_collision_middle_mp_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_middle_mp_mesh.stl",
+   "sha256": "95af09e43a986b01688f1cedc55ab244df1e9c7a37368605e9b7a07e8bee4fe4",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_middle_pp_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_middle_pp_mesh.stl",
+   "sha256": "a8015d76d7dcc9b774eb2ee9057981607be3ea2ba1b852464c7d273e7412b21d",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_middle_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_middle_pp_skin_mesh.stl",
+   "sha256": "60d6c84d5366678aa52889e83553f89ab8662a9f3f98f28969cb82486e74f2bd",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/collision/left_collision_palm_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_palm_mesh.stl",
+   "sha256": "b78020fedbb148033643a72224e39062a6eeba631808069ddb81239cfe4145fa",
+   "size": 50084
+  },
+  {
+   "path": "meshes/left/collision/left_collision_palm_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_palm_skin_mesh.stl",
+   "sha256": "ffc35c01c9eefcbc7a8a793815316e3e0ebfcf02ff666d1d4b0d3722c3777850",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/collision/left_collision_pinky_ip_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_pinky_ip_mesh.stl",
+   "sha256": "37be8a309331884bb4448465bd4d38adce7bfa302b88767cc7da428d934e64ad",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_pinky_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_pinky_ip_skin_mesh.stl",
+   "sha256": "c8220a96f9e80712e072b304de06f86fbda560269346b4a4bfc3aa74d2ecc4c2",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/collision/left_collision_pinky_mp_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_pinky_mp_mesh.stl",
+   "sha256": "9a124b9f7027627dad4bf724802a123950379f3f9dad5a702770cb11dfc1ae08",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_pinky_pp_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_pinky_pp_mesh.stl",
+   "sha256": "c84fc2d8b141b1b06f59961fa266eab3be44bf35e67f5ddebe36a35094b35bbd",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_pinky_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_pinky_pp_skin_mesh.stl",
+   "sha256": "70c45e230ee82aa548f532fcbab9c7a9e45dd1ddd8e06c92dddd598caf420d30",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/collision/left_collision_ring_ip_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_ring_ip_mesh.stl",
+   "sha256": "4afc0c5c2db3e2f2c05715687b04fcf080ec1000c3712323d0d4af37c895183e",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_ring_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_ring_ip_skin_mesh.stl",
+   "sha256": "ed08962d448b304d6973fc68c39630b7e3615332c356c122e97867ca44c95ca3",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/collision/left_collision_ring_mp_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_ring_mp_mesh.stl",
+   "sha256": "ca12260b4c8835f582f943bff777c488f9f8a3c7e796e61637398b7785a61498",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_ring_pp_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_ring_pp_mesh.stl",
+   "sha256": "3c778efa8eaffbe482d87403bc176a66c2f44d19746cdf3d071aac9df8be0ba8",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_ring_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_ring_pp_skin_mesh.stl",
+   "sha256": "4cc3b9b57844c6ec9bdfa478cb50c83b8f06d0db695e643352af337789791d2c",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/collision/left_collision_thumb_dp_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_thumb_dp_mesh.stl",
+   "sha256": "919677df254738fca73ba0f9435f1cba348db7f99d82ee092cdd73c903f61f78",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_thumb_dp_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_thumb_dp_skin_mesh.stl",
+   "sha256": "8b7635e2ea78e86df35198ad4e14a4316939370fd63453a893c0084dce18a1a5",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/collision/left_collision_thumb_ip_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_thumb_ip_mesh.stl",
+   "sha256": "bf2592f802549401f62ad7ff9ee9e235723b9cb5f9e000816de3c29b1dd01484",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_thumb_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_thumb_ip_skin_mesh.stl",
+   "sha256": "6e20313ad70be5761041b248972037332456396507f7909851462e39378ca935",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/collision/left_collision_thumb_mp_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_thumb_mp_mesh.stl",
+   "sha256": "6d0bcf38d23f5ab695faf37e3ed78ffc7050240801b640ab64fa428ad14db44e",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_thumb_pp_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_thumb_pp_mesh.stl",
+   "sha256": "e18a947e316d2ae5521edc2864b11ffce5a9aee825dd8fa93fd41d7328f7401b",
+   "size": 12584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_tower_hull_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_tower_hull_mesh.stl",
+   "sha256": "b2fbe68b7f6df92a68eba65b73cbf813a210e701e39b9bc1dc731cc9911c2ed1",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/collision/left_collision_tower_main_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_tower_main_mesh.stl",
+   "sha256": "6f4f6f00c4484d933fd2a7236daedb65575b9ee4387a6e8ef729c8c7f046a41f",
+   "size": 346584
+  },
+  {
+   "path": "meshes/left/collision/left_collision_tower_text_mesh.stl",
+   "source": "v1/assets/urdf/left/collision/left_collision_tower_text_mesh.stl",
+   "sha256": "4716ae848a19fa7a5402182c5fcba1a9267d6a5709a7fbe358c3bf9920aacf2f",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_index_ip_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_index_ip_mesh.stl",
+   "sha256": "c8cc5cbeba77415e68966e2ede5931ce88ef29cd9d1754459653ea08b45397be",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_index_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_index_ip_skin_mesh.stl",
+   "sha256": "e7865378dbf19923d3a653d8c3c97b05d0d7cda4e9d4e95ebc942cd480643dc3",
+   "size": 250084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_index_mp_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_index_mp_mesh.stl",
+   "sha256": "c7ae8acfa5ed152991236d8933c08435d0bada6d90634d887e33e79b38f1bc0f",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_index_pp_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_index_pp_mesh.stl",
+   "sha256": "9f641cd84b46eed60a31cbb2692ac7e7f7426fcad82f98b6c67717767b46ba1f",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_index_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_index_pp_skin_mesh.stl",
+   "sha256": "e2e7c95faed79e850bb59b12d68a4aadeb9b84e16c87fbef5e9719ce0593c382",
+   "size": 250084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_middle_ip_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_middle_ip_mesh.stl",
+   "sha256": "d123f9393cfd437fc0198bc4250f7ed7ee582ea08349493f79b4c3c9cd83f2bc",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_middle_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_middle_ip_skin_mesh.stl",
+   "sha256": "564c6c46e4458ca076f60c9b5df3eff0c84773d0f8f97356dc8c086b532052b8",
+   "size": 250084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_middle_mp_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_middle_mp_mesh.stl",
+   "sha256": "a0e05a670859d7ffae8c2b816091224b0844b37b0dadd0679e97c2623b5a674e",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_middle_pp_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_middle_pp_mesh.stl",
+   "sha256": "b4037b88d5342d19fab0f27686e0cb757f42241c2fcfe4ba2c6d282385d73829",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_middle_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_middle_pp_skin_mesh.stl",
+   "sha256": "b6b7c24f63b76ede33deeddf90d48a065b8e98fb025ff33052a1548b385b62c9",
+   "size": 250084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_palm_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_palm_mesh.stl",
+   "sha256": "6538f9a8afeb169f262d1416ee689bf17089759d29ce5e84fc23a90183a6c525",
+   "size": 100084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_palm_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_palm_skin_mesh.stl",
+   "sha256": "a69a7f7ea15ba8abf4b16ea55b8e81db486e4e68fb31f810f50a692f0e488e4b",
+   "size": 250084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_pinky_ip_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_pinky_ip_mesh.stl",
+   "sha256": "87a9f7617afbf5f9fbe0c900ff840ed5a5379f6cca6a4331a07f9ff69d3b95d3",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_pinky_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_pinky_ip_skin_mesh.stl",
+   "sha256": "10d581898a9f9806a52264df1e3b14dc6b769bcdb23b5c84afbd930bde66332a",
+   "size": 250084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_pinky_mp_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_pinky_mp_mesh.stl",
+   "sha256": "107d9aa3af1255e2701cfc4ec49c08ab8a3f14e4010a7d14c01e17863b2f6dc0",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_pinky_pp_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_pinky_pp_mesh.stl",
+   "sha256": "09ed3d3f93ede0b0e3dcce3a25f09a5b6f7319709745d03d54b06b9f9704da13",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_pinky_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_pinky_pp_skin_mesh.stl",
+   "sha256": "7274406089473538ddc7fa7a74880bc9a8eff1f05aa0d092280e7d90a13a77c7",
+   "size": 250084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_ring_ip_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_ring_ip_mesh.stl",
+   "sha256": "3b56a5388e060043542bacc8922387cfaa47f479fca278e9b53cb7f110372fad",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_ring_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_ring_ip_skin_mesh.stl",
+   "sha256": "577ad4cd39889092870502657ed7089a75f1dceb4c97c582ed791ab0eb0436bd",
+   "size": 250084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_ring_mp_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_ring_mp_mesh.stl",
+   "sha256": "5a9086d2a747869601ecde0eeb8b21d2ecfbd72182c612701589228def4419c7",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_ring_pp_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_ring_pp_mesh.stl",
+   "sha256": "aa7e96fc70abf1a59fca9e7906290fac8ad24c31f2ed3f61951dc889066dc329",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_ring_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_ring_pp_skin_mesh.stl",
+   "sha256": "e102c7e596e01d1b667da9b9108b8c6b6ffb758f1ca3db312e43c59215b910cf",
+   "size": 250084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_thumb_dp_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_thumb_dp_mesh.stl",
+   "sha256": "66b1c6f31131eea82ef389871b855d114874973f3213f56b5d5fa25317df5e44",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_thumb_dp_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_thumb_dp_skin_mesh.stl",
+   "sha256": "731ab8835c0a4745a4f2711be833f9e42c89cb69bc23181f9c31f3f396686301",
+   "size": 250084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_thumb_ip_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_thumb_ip_mesh.stl",
+   "sha256": "d2ca1ccc35abd7d10f4f70e30be8d375f0af1332058245cc489acfdbd1444c4c",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_thumb_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_thumb_ip_skin_mesh.stl",
+   "sha256": "d593f12f0cf523e84d151dde0291533535e402f5ea4fb79c62e90d1e22354173",
+   "size": 250084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_thumb_mp_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_thumb_mp_mesh.stl",
+   "sha256": "1a5c5ac60975fcf1976a6af034fd0a3b2d1ef6c1d3ea220f9b192ce86b01a07a",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_thumb_pp_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_thumb_pp_mesh.stl",
+   "sha256": "8bc32a30ed927aa2806bba03bcd4baf0a709f36ecfa117fc6a907379c6ca4b6f",
+   "size": 25084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_tower_hull_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_tower_hull_mesh.stl",
+   "sha256": "827776039c09f9677d80dd738cf3f10c39cdb05cae763f53ae52900fe90f6250",
+   "size": 50084
+  },
+  {
+   "path": "meshes/left/visual/left_visual_tower_main_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_tower_main_mesh.stl",
+   "sha256": "47cb588dc7b288d8191fae8053e308257afc505f0c1e7a6c9ef1da6b904f81a4",
+   "size": 749984
+  },
+  {
+   "path": "meshes/left/visual/left_visual_tower_text_mesh.stl",
+   "source": "v1/assets/urdf/left/visual/left_visual_tower_text_mesh.stl",
+   "sha256": "5c94f656f0e72a10b2eadeddf48b6b656ee15255386d08f81762a2e52b3d5939",
+   "size": 50084
+  },
+  {
+   "path": "meshes/right/collision/right_collision_index_ip_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_index_ip_mesh.stl",
+   "sha256": "e0d50f6d64577fcd5dd83545c9fb700ec92ff44af0970519fc5250c1883090fd",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_index_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_index_ip_skin_mesh.stl",
+   "sha256": "9057f053358e4b38c6f3e495a19ac7949023f21771a356c12f56eb7390e46cbe",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/collision/right_collision_index_mp_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_index_mp_mesh.stl",
+   "sha256": "c32f0d0517cef39ed8583131cbb263f868f002a8c0f4bfb4f703314f170b52d9",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_index_pp_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_index_pp_mesh.stl",
+   "sha256": "485b35a6977c7f56ad01c5f2ba3ea73ee4fb767ce6ec063c79afe85d1eebcd0a",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_index_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_index_pp_skin_mesh.stl",
+   "sha256": "427f68ad1f74186f3d73de0cf559fcc89fe16301f8c1336822497a7850bc5bff",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/collision/right_collision_middle_ip_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_middle_ip_mesh.stl",
+   "sha256": "e1b14b247083bfbcd81006757ee81830b2268160cfbd496d079ea22a8e950b2f",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_middle_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_middle_ip_skin_mesh.stl",
+   "sha256": "b79fdeec81754f2b956b9f9aab3b1099904cb3665fd5a8f107f5edc1ad07c7e2",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/collision/right_collision_middle_mp_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_middle_mp_mesh.stl",
+   "sha256": "b93f74581edff45105ffc979a4f43aede2079fd3b60ef5dde7b53e7fd200f0c3",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_middle_pp_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_middle_pp_mesh.stl",
+   "sha256": "dcf9ddb58e6fce2f91cf3160c0addc2643f15695e0975c5d62f2eb4e50b7c203",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_middle_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_middle_pp_skin_mesh.stl",
+   "sha256": "0d52d5a4c09b0838f8cee63c86809c4b3c6ec9e274ea2cbe1dbc4ba489eeeac4",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/collision/right_collision_palm_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_palm_mesh.stl",
+   "sha256": "f900c43457814d75cec639d7b0e08721ae2534de6de72b458d7b424a5c8c98e9",
+   "size": 50084
+  },
+  {
+   "path": "meshes/right/collision/right_collision_palm_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_palm_skin_mesh.stl",
+   "sha256": "d1d6778c4c1cfe8df79ce4aa46e8e11d0c98867ab4eabb8d19f3bd00cf9e7113",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/collision/right_collision_pinky_ip_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_pinky_ip_mesh.stl",
+   "sha256": "3aac7fc08520a796dee79afba30c79bf3c65247c1fe2a5b486b95c7319fe5fb6",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_pinky_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_pinky_ip_skin_mesh.stl",
+   "sha256": "3470ad21114b3b4dabb599d7c5b47622775d5079d4843a9c2ea86f4826805ff0",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/collision/right_collision_pinky_mp_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_pinky_mp_mesh.stl",
+   "sha256": "b2a01be194f69f2fdcef9c3302a8ec796a4062b7411ddd2d9e22ab22cc84c0a0",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_pinky_pp_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_pinky_pp_mesh.stl",
+   "sha256": "11f8d2c6dcfc4016aa5b977ff9b3658497608eeaaba3b9dc11b60f68da3485dd",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_pinky_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_pinky_pp_skin_mesh.stl",
+   "sha256": "747638279b1ae3aaf1ce2273e311b3c778516e48e2bff0d1ff3b6e743d6d4a72",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/collision/right_collision_ring_ip_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_ring_ip_mesh.stl",
+   "sha256": "122b9d1a824e5f90d4bccd7a8e0a1a9adf6d43d75232cf56bdce61d05c448181",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_ring_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_ring_ip_skin_mesh.stl",
+   "sha256": "73795561874b19a61fdd782a9b21dd8fc68c58b113908551f6f635f9fb28abc2",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/collision/right_collision_ring_mp_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_ring_mp_mesh.stl",
+   "sha256": "b6736e7fd49dee5ea34a9fe79f20569a01f1d54692d6a483df4aae29109fa115",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_ring_pp_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_ring_pp_mesh.stl",
+   "sha256": "7af854da21f8efd24fa570b89eddec0ddd52a1b5fe5e2904003a2fc5dfd12105",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_ring_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_ring_pp_skin_mesh.stl",
+   "sha256": "0530572e589bb09f14bab0aa957b8559d0528e5f37cd60820b9ba2b0c93789f4",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/collision/right_collision_thumb_dp_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_thumb_dp_mesh.stl",
+   "sha256": "e48fddb45c0aefb2b51965b2073982f0266ebdcef78977511aea43e24e81013a",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_thumb_dp_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_thumb_dp_skin_mesh.stl",
+   "sha256": "957b3127099d0ceda9be7a3fac9f1ee0e7e6574d73b92b0f013d1f86a944b5ae",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/collision/right_collision_thumb_ip_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_thumb_ip_mesh.stl",
+   "sha256": "d61b4041074bbffaffc3e226fd87ed8b0cab39d967f66d91dd852c877ba66068",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_thumb_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_thumb_ip_skin_mesh.stl",
+   "sha256": "fd80090e191c869954f842a89f79c6737cc193a1b79949f509b939847347bbdc",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/collision/right_collision_thumb_mp_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_thumb_mp_mesh.stl",
+   "sha256": "47c3ae3ac3bf6b8ac01af5f789c029cef59f830447becc0b70ba4e5e432aa7c2",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_thumb_pp_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_thumb_pp_mesh.stl",
+   "sha256": "74d1ff69367a231a77eb76f0dc2953c388b40975e2c04fa3a4bce31299654638",
+   "size": 12584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_tower_hull_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_tower_hull_mesh.stl",
+   "sha256": "808c9ed2a65159fc619724a58c3975499a5ea690b02229b3273204c3f7a1c514",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/collision/right_collision_tower_main_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_tower_main_mesh.stl",
+   "sha256": "a411235a6964a96ff91f830e29b5871a0325c5e9ee9d451cf88f9571b3f16765",
+   "size": 346584
+  },
+  {
+   "path": "meshes/right/collision/right_collision_tower_text_mesh.stl",
+   "source": "v1/assets/urdf/right/collision/right_collision_tower_text_mesh.stl",
+   "sha256": "0844f1bd911cba2c8a970224abb031acc97f475868a2e9811cdbe0933b3f193a",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_index_ip_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_index_ip_mesh.stl",
+   "sha256": "248364a92f98fd7412849ea7adf4964cbb5e064cbca480d08c7ed5f808abfd78",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_index_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_index_ip_skin_mesh.stl",
+   "sha256": "9b93ecd03de9debb6996c8109db68c9ea84f36af76844ad3c206089b9cad1c46",
+   "size": 250084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_index_mp_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_index_mp_mesh.stl",
+   "sha256": "369056591c7a493a5153cd81b1d4fb98ae710a2a64d64d52eca5187714da4860",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_index_pp_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_index_pp_mesh.stl",
+   "sha256": "e798c951c9aaf3985a7907114860e264cbad0a17aff562ffb50f15260a650718",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_index_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_index_pp_skin_mesh.stl",
+   "sha256": "91e8da51efeb3d22591c62830a0b5d8b8e5adabebfd5e5d70249a1e0d4e40ff8",
+   "size": 250084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_middle_ip_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_middle_ip_mesh.stl",
+   "sha256": "650518b56095d6ab0a5ec431d779b308356c5e8aee93d238d0a6ce830f3933c0",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_middle_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_middle_ip_skin_mesh.stl",
+   "sha256": "2cddbf78e427986109d5b12636268dba87ea028885ee0e2b1ca9230e999082fe",
+   "size": 250084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_middle_mp_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_middle_mp_mesh.stl",
+   "sha256": "15048298d47fcb61b4d4f7b69bfc7327f5bd1358bf345825b3d969da320628fa",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_middle_pp_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_middle_pp_mesh.stl",
+   "sha256": "8b37c31c219f743528cb6d7c04c6b7566bfcad19a8e19f3c7de00d8698716479",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_middle_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_middle_pp_skin_mesh.stl",
+   "sha256": "986cafc443433900c1f0d2b6bc31463a611526f647af6cae0cc607a4b8f207f2",
+   "size": 250084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_palm_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_palm_mesh.stl",
+   "sha256": "4bcadf705a92ce02431721674832d8709fc0ab8f625339ec1c4cad1ab1c0e1f7",
+   "size": 100084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_palm_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_palm_skin_mesh.stl",
+   "sha256": "bbb577d6283ee4c67eddedba4a4f9c6e4d6b67c642a0fa1d0cd94a753562cf22",
+   "size": 250084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_pinky_ip_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_pinky_ip_mesh.stl",
+   "sha256": "671d5ffcc1f4121cfce0f55ef325e46e16c6ec7d4c3a2278f1a89c375ef4950b",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_pinky_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_pinky_ip_skin_mesh.stl",
+   "sha256": "64ca55e78a2f43586a20f066459ab84454934aee698a1e381d2394f81139e985",
+   "size": 250084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_pinky_mp_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_pinky_mp_mesh.stl",
+   "sha256": "ddbcc71fd968f3c478edc5bddcfd9f91f525ad543b4970952e39b21aa266e084",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_pinky_pp_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_pinky_pp_mesh.stl",
+   "sha256": "3af49f453fef2d09b80d7cecd37d959ac99b54a64432a419d5d1cff656f67185",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_pinky_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_pinky_pp_skin_mesh.stl",
+   "sha256": "fc61d53f760fb37ba8bcb84f36fa671cda5eedcab2599b9bce935dfad113f9dc",
+   "size": 250084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_ring_ip_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_ring_ip_mesh.stl",
+   "sha256": "3cdedbc7ec3a714f761e76b709da4402507b130dde6eec01180dac2ed279399b",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_ring_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_ring_ip_skin_mesh.stl",
+   "sha256": "6e6bc606df8da278f64007dcca7a8340632825b8249e8a89131dc92b1409a0a8",
+   "size": 250084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_ring_mp_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_ring_mp_mesh.stl",
+   "sha256": "cd9a53d3026c8831f584afab51384925a5a28ae7880545fd450b5d77c8050803",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_ring_pp_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_ring_pp_mesh.stl",
+   "sha256": "5958972291a77b89af433bf7faf73c12f359e822ced05cea3bf4558fdcb5c09d",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_ring_pp_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_ring_pp_skin_mesh.stl",
+   "sha256": "8cc48cd653ccfa679dda72d28fc6a2ec852e4fee118aebf3e8f3092d35d13d62",
+   "size": 250084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_thumb_dp_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_thumb_dp_mesh.stl",
+   "sha256": "591a8909a46e8ce5cd38f41fac2b1f4606da2c903432492360fe66b177349805",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_thumb_dp_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_thumb_dp_skin_mesh.stl",
+   "sha256": "1dc38d45ffaa551fece96ce029e6746cd545808a5200348b387195cffb6a810b",
+   "size": 250084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_thumb_ip_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_thumb_ip_mesh.stl",
+   "sha256": "57675e02d25360ffc2bd9d160199d3066795804789a72d89cb623724cbb74b5c",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_thumb_ip_skin_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_thumb_ip_skin_mesh.stl",
+   "sha256": "b05e1be011dd5c5bfa92d42fc6fc05bc2e6b58a2ed9bf76cc25826ff5597c155",
+   "size": 250084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_thumb_mp_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_thumb_mp_mesh.stl",
+   "sha256": "da24c6c48c04c31b724185aa815e5427c70df6bcc15e8160539986f79bd85bc9",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_thumb_pp_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_thumb_pp_mesh.stl",
+   "sha256": "f8b1d8ef66e3d49d5299788dafc4c891210930c4de1d55bbe138e427a38de08e",
+   "size": 25084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_tower_hull_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_tower_hull_mesh.stl",
+   "sha256": "713df0aa4f9ac3e9ffb3f1e33c6e42e0c806a97e6205d438c3329386d6f444b6",
+   "size": 50084
+  },
+  {
+   "path": "meshes/right/visual/right_visual_tower_main_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_tower_main_mesh.stl",
+   "sha256": "a046340df8bfba533ddef896346f2a3edbcc50984164419db841e7874cb5c759",
+   "size": 749984
+  },
+  {
+   "path": "meshes/right/visual/right_visual_tower_text_mesh.stl",
+   "source": "v1/assets/urdf/right/visual/right_visual_tower_text_mesh.stl",
+   "sha256": "82a0b4ee672db29ac0b9bb0628cae66748007eee5a24201220f1dd49d73d6a06",
+   "size": 50084
+  }
+ ]
+}

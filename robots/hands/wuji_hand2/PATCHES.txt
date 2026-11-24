@@ -1,0 +1,2 @@
+Copied from https://github.com/wuji-technology/wuji-description @ ffeb47f (hand2/hand2_1/body/urdf/<side>.urdf, Wuji Hand 2.1, not the _with_cover / _with_glove variants): URDF files renamed to <hand_id>_<side>.urdf and mesh paths rewritten from ../meshes/<side>/ to meshes/<side>/. Meshes are not stored here, meshes.json points to the upstream files.
+The root link is the arm-flange mount ({l,r}_mount), as upstream.

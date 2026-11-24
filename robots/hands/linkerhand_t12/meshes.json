@@ -1,0 +1,126 @@
+{
+ "repo": "linker-bot/linkerhand-urdf",
+ "commit": "49f26021b0a91ff5c33150df22970c07bb548672",
+ "files": [
+  {
+   "path": "meshes/hand_base_link.STL",
+   "source": "T12/right/meshes/hand_base_link.STL",
+   "sha256": "a8383a08e2accb87fc7224fe575bfc0ac0b772f4cdea7bf3fb43b9befaf60a1c",
+   "size": 2399384
+  },
+  {
+   "path": "meshes/index_distal.STL",
+   "source": "T12/right/meshes/index_distal.STL",
+   "sha256": "4124ba049c3d62a4c82a54ed9963793452774db207d1bf6a3538dbb4d0160c98",
+   "size": 552584
+  },
+  {
+   "path": "meshes/index_metacarpals.STL",
+   "source": "T12/right/meshes/index_metacarpals.STL",
+   "sha256": "e034e4f7c9129dd2c4e411ee3a14ae76075512bb48fb3602c3adcce4827bf55d",
+   "size": 73784
+  },
+  {
+   "path": "meshes/index_middle.STL",
+   "source": "T12/right/meshes/index_middle.STL",
+   "sha256": "d1b7a7da76364b4251173a2711d0b4aa939e4de0b003c7491579d73b4dd17363",
+   "size": 420584
+  },
+  {
+   "path": "meshes/index_proximal.STL",
+   "source": "T12/right/meshes/index_proximal.STL",
+   "sha256": "496fec593ff07bb016576ac846c45609bbd8857fbccecbbfd31861df439a5be4",
+   "size": 983184
+  },
+  {
+   "path": "meshes/middle_distal.STL",
+   "source": "T12/right/meshes/middle_distal.STL",
+   "sha256": "7150b8009a14fda21fa865b3b781c45a81aea293244694733dadc0f6422face1",
+   "size": 552384
+  },
+  {
+   "path": "meshes/middle_metacarpals.STL",
+   "source": "T12/right/meshes/middle_metacarpals.STL",
+   "sha256": "363981db56fbe639eb4b8453644745e01f4ffc0dac6124d7c7a5a8ab165cb010",
+   "size": 75684
+  },
+  {
+   "path": "meshes/middle_middle.STL",
+   "source": "T12/right/meshes/middle_middle.STL",
+   "sha256": "baa9d71ae4de9219d43182726878c8473e379028dedd5a9ef27f8e2cc610c6e0",
+   "size": 411034
+  },
+  {
+   "path": "meshes/middle_proximal.STL",
+   "source": "T12/right/meshes/middle_proximal.STL",
+   "sha256": "59639246f4e77b5b7f6b4ff388eeaf8ccdb00ec8dc8ed798ae5838da5cb8e30c",
+   "size": 982184
+  },
+  {
+   "path": "meshes/pinky_distal.STL",
+   "source": "T12/right/meshes/pinky_distal.STL",
+   "sha256": "2285dbe6de6bcc3c5b4bebc8e59fb7149a698a8766a3d89ec038b5e06671ff72",
+   "size": 553184
+  },
+  {
+   "path": "meshes/pinky_middle.STL",
+   "source": "T12/right/meshes/pinky_middle.STL",
+   "sha256": "028e7aa1ace30ee112eb0417cb86567ca09db489aae25164cd6defbf4b52f070",
+   "size": 403484
+  },
+  {
+   "path": "meshes/pinky_proximal.STL",
+   "source": "T12/right/meshes/pinky_proximal.STL",
+   "sha256": "6daba332b7c7502cf3cff2dfefcbe80d9fcad8cc257d5a53ca8855f803e0112f",
+   "size": 627234
+  },
+  {
+   "path": "meshes/ring_distal.STL",
+   "source": "T12/right/meshes/ring_distal.STL",
+   "sha256": "bc85b72a806127bd2d60775140a6ee9424af7397efa59164c34d66fa46810fe8",
+   "size": 553184
+  },
+  {
+   "path": "meshes/ring_middle.STL",
+   "source": "T12/right/meshes/ring_middle.STL",
+   "sha256": "e923d66cfd0dd05e03d6e04ed22bdaa0dcfa81b732e93eac2101f59381a6c51b",
+   "size": 402484
+  },
+  {
+   "path": "meshes/ring_proximal.STL",
+   "source": "T12/right/meshes/ring_proximal.STL",
+   "sha256": "c124b8f05233ecbd7a5987e9aab9e6516d80ecc5596b99307938b8e22bcb25f1",
+   "size": 628034
+  },
+  {
+   "path": "meshes/thumb_distal.STL",
+   "source": "T12/right/meshes/thumb_distal.STL",
+   "sha256": "6a7933eba92c452315e1a0fbcbbfd6315b0fd6ccd41bf7d483806565856db828",
+   "size": 925684
+  },
+  {
+   "path": "meshes/thumb_metacarpals.STL",
+   "source": "T12/right/meshes/thumb_metacarpals.STL",
+   "sha256": "35eb2b5f08de6bda50fa4cbccb567c34edcaea65acd058d64bd58c38df8b2d9c",
+   "size": 868384
+  },
+  {
+   "path": "meshes/thumb_metacarpals_base1.STL",
+   "source": "T12/right/meshes/thumb_metacarpals_base1.STL",
+   "sha256": "b7290a86b20fb7a7f50350cc87f331d4edd2cbbb08cf705da825b538aa58a462",
+   "size": 243184
+  },
+  {
+   "path": "meshes/thumb_metacarpals_base2.STL",
+   "source": "T12/right/meshes/thumb_metacarpals_base2.STL",
+   "sha256": "eb8f95a98ae4471e9557253e49df587dbc588e11601d6472dd5e4f351cb1516a",
+   "size": 327084
+  },
+  {
+   "path": "meshes/thumb_proximal.STL",
+   "source": "T12/right/meshes/thumb_proximal.STL",
+   "sha256": "92dbf64b6c0d7c520c8bb37a247dd19bd33b19a7e8b6fe7666853b7edb6153ab",
+   "size": 988184
+  }
+ ]
+}

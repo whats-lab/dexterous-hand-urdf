@@ -1,0 +1,270 @@
+{
+ "repo": "unitreerobotics/unitree_ros",
+ "commit": "157ff950351e5f535e03c5d85a16b7d594b3dbcc",
+ "files": [
+  {
+   "path": "meshes/right_index-finger-silicone_roll1_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_index-finger-silicone_roll1_link.STL",
+   "sha256": "621b1503efba9488c85ec864e13dce558e577e8a5b320b7a5c6349594b270887",
+   "size": 349784
+  },
+  {
+   "path": "meshes/right_index-finger-silicone_roll2_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_index-finger-silicone_roll2_link.STL",
+   "sha256": "fa5bbd4cc64e42479a679787835adf3b245e3c0459f633b4983ff1acf54d51c3",
+   "size": 381884
+  },
+  {
+   "path": "meshes/right_index-finger-silicone_roll3_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_index-finger-silicone_roll3_link.STL",
+   "sha256": "91326f21650aab4cc696a96bb5d5ceee8e62232fff4570670ef8e80c9a4cbb5b",
+   "size": 945884
+  },
+  {
+   "path": "meshes/right_index-finger-silicone_yaw_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_index-finger-silicone_yaw_link.STL",
+   "sha256": "3e987158e4e92ee35fd05f098b1f6b843ba485f5cd88c8df172d4babad54c600",
+   "size": 481684
+  },
+  {
+   "path": "meshes/right_index-finger_roll1_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_index-finger_roll1_link.STL",
+   "sha256": "10865807f582354b5a604f0aec553cfb79f124d7be6fbe4cb685c48dea1d91c2",
+   "size": 539884
+  },
+  {
+   "path": "meshes/right_index-finger_roll2_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_index-finger_roll2_link.STL",
+   "sha256": "215627ae82c5f3e6307ea4f6ea0d3c0896c9b866982b22a97b27b60881ca0c28",
+   "size": 384884
+  },
+  {
+   "path": "meshes/right_index-finger_roll3_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_index-finger_roll3_link.STL",
+   "sha256": "f814ec475b704db180fe135320ab697892286b93157f3da18c51976620b30af8",
+   "size": 203684
+  },
+  {
+   "path": "meshes/right_index-finger_yaw_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_index-finger_yaw_link.STL",
+   "sha256": "cf8004e7b319e9753c69e8e07fee0934bb0c8688cb3c70bcd96a7adcf3049842",
+   "size": 414384
+  },
+  {
+   "path": "meshes/right_little-finger-silicone_pitch_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_little-finger-silicone_pitch_link.STL",
+   "sha256": "fb0f1b03dab12a5e1b273e75e34f877fc74628fe04cf4b7bead278c391fdc8df",
+   "size": 108084
+  },
+  {
+   "path": "meshes/right_little-finger-silicone_roll1_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_little-finger-silicone_roll1_link.STL",
+   "sha256": "4ed1be4fb125017f2b43033af429f989bd6db2f6ff8dd7edccd80a07044008de",
+   "size": 349784
+  },
+  {
+   "path": "meshes/right_little-finger-silicone_roll2_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_little-finger-silicone_roll2_link.STL",
+   "sha256": "752810cd43c92b19db74d28c10a6ccf48dd45d1197ee0e893e3cd4a9438b7e9e",
+   "size": 381884
+  },
+  {
+   "path": "meshes/right_little-finger-silicone_roll3_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_little-finger-silicone_roll3_link.STL",
+   "sha256": "f396006c9976a9aa0a0ef2965845d472e6e4c836f930c095f94e3748dcfc8d10",
+   "size": 945884
+  },
+  {
+   "path": "meshes/right_little-finger-silicone_yaw_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_little-finger-silicone_yaw_link.STL",
+   "sha256": "964ac178e3d78dff745f2bcd3fc385d71c8dfd46622a56c28587060adf49322c",
+   "size": 481684
+  },
+  {
+   "path": "meshes/right_little-finger_pitch_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_little-finger_pitch_link.STL",
+   "sha256": "ee1528e16cf3897a994bff8c0294b5c54a7e5fa89b05e8367de8418b60933ca7",
+   "size": 267084
+  },
+  {
+   "path": "meshes/right_little-finger_roll1_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_little-finger_roll1_link.STL",
+   "sha256": "b92a38b882e537e87f8ddaa1bdf889c5d02876d1b3a085e5b9174abd805e36c8",
+   "size": 539884
+  },
+  {
+   "path": "meshes/right_little-finger_roll2_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_little-finger_roll2_link.STL",
+   "sha256": "00fb110533852dcbc01b380858b075abd167c5ed49c99de8a3bd17c18609ce20",
+   "size": 384884
+  },
+  {
+   "path": "meshes/right_little-finger_roll3_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_little-finger_roll3_link.STL",
+   "sha256": "6558b1298690f966a873b65db2979f6b610c6b640e8a3cea8a2433fc16050a60",
+   "size": 203684
+  },
+  {
+   "path": "meshes/right_little-finger_yaw_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_little-finger_yaw_link.STL",
+   "sha256": "57add8b608d336fbb1f1afa732d0ca52aae20a153776f84226d630281d766dd7",
+   "size": 414384
+  },
+  {
+   "path": "meshes/right_middle-finger-silicone_roll1_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_middle-finger-silicone_roll1_link.STL",
+   "sha256": "2fd53901da4839763533e36afc31838a7be66e8ffe809b21fe937ded542b091b",
+   "size": 349784
+  },
+  {
+   "path": "meshes/right_middle-finger-silicone_roll2_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_middle-finger-silicone_roll2_link.STL",
+   "sha256": "e664bddf21e9ffb7615a7eaee1ca0f6c0ad4d50e5a6f578c044d6d2f03e7bef5",
+   "size": 381884
+  },
+  {
+   "path": "meshes/right_middle-finger-silicone_roll3_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_middle-finger-silicone_roll3_link.STL",
+   "sha256": "7b2fe09c024d03d0fd3de32b5287d157ef11c833029dcb3b09564ab0c09cb7ef",
+   "size": 945884
+  },
+  {
+   "path": "meshes/right_middle-finger-silicone_yaw_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_middle-finger-silicone_yaw_link.STL",
+   "sha256": "5b96fb349a3b3f0f1e47b0c99e342e39c9d4692a38e583fb7856eebd973194c2",
+   "size": 481684
+  },
+  {
+   "path": "meshes/right_middle-finger_roll1_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_middle-finger_roll1_link.STL",
+   "sha256": "be52265ca7b527353acc9748cdd8294f8f1b2d3df047edd4ff167cfb9fbbfa45",
+   "size": 539884
+  },
+  {
+   "path": "meshes/right_middle-finger_roll2_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_middle-finger_roll2_link.STL",
+   "sha256": "7d057be535bf7c78798e216b0efe260b0ab1923213de8261bf919e2ad60a571a",
+   "size": 384884
+  },
+  {
+   "path": "meshes/right_middle-finger_roll3_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_middle-finger_roll3_link.STL",
+   "sha256": "ae0f877c40204bc57881d2324a3e5ec9c62d298254bb5ae249f70a1787b35140",
+   "size": 203684
+  },
+  {
+   "path": "meshes/right_middle-finger_yaw_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_middle-finger_yaw_link.STL",
+   "sha256": "c62c3e7670fc466196230edbc7aaa59bf0a0e9b91f0646d8c4cfdf76c4b9efe6",
+   "size": 414384
+  },
+  {
+   "path": "meshes/right_palm-silicone_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_palm-silicone_link.STL",
+   "sha256": "26ff4edd77c6f2903ddf6918cb7c41e9663c515ad794c915bbc15463b85770f3",
+   "size": 237284
+  },
+  {
+   "path": "meshes/right_palm_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_palm_link.STL",
+   "sha256": "f8422672c6bd0aa2cde0aa74285f83ff646a6414a42abe6d9363f8a521e31fb5",
+   "size": 761584
+  },
+  {
+   "path": "meshes/right_ring-finger-silicone_roll1_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_ring-finger-silicone_roll1_link.STL",
+   "sha256": "825f1eb054bdf4b275eddc8d418c17f33421da395efd82960794e4abfbf15bea",
+   "size": 349784
+  },
+  {
+   "path": "meshes/right_ring-finger-silicone_roll2_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_ring-finger-silicone_roll2_link.STL",
+   "sha256": "1751f7533ba857ba9eb88599a66e9473a883637689375563d56f53ea82b54e93",
+   "size": 381884
+  },
+  {
+   "path": "meshes/right_ring-finger-silicone_roll3_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_ring-finger-silicone_roll3_link.STL",
+   "sha256": "6fcfa9a91080100df380b76f7956be31e82f7e840a8ff674d44386cb47e1af1d",
+   "size": 945884
+  },
+  {
+   "path": "meshes/right_ring-finger-silicone_yaw_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_ring-finger-silicone_yaw_link.STL",
+   "sha256": "77b720ba6c07f2fd2cef0188a05992d6efba60507a52c96e43b319e50c05d309",
+   "size": 481684
+  },
+  {
+   "path": "meshes/right_ring-finger_roll1_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_ring-finger_roll1_link.STL",
+   "sha256": "9e22c2df31aef5293f17ebe6fa512e8d67acfffbccfe740fb96a013b80972b18",
+   "size": 539884
+  },
+  {
+   "path": "meshes/right_ring-finger_roll2_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_ring-finger_roll2_link.STL",
+   "sha256": "7f181a8b23ea84685beb5281256e231421d7fc85f78ca71eb7b46f6c1d89999f",
+   "size": 384884
+  },
+  {
+   "path": "meshes/right_ring-finger_roll3_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_ring-finger_roll3_link.STL",
+   "sha256": "2b620473da2745e373c008605b9ea44496b0cd2523e048424fd903e10a79ee82",
+   "size": 203684
+  },
+  {
+   "path": "meshes/right_ring-finger_yaw_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_ring-finger_yaw_link.STL",
+   "sha256": "53562e58e90ce66f18764b3657e547e386e6f30d56faf611b7a7e6940f02fc4c",
+   "size": 414384
+  },
+  {
+   "path": "meshes/right_thumb-silicone_yaw1_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_thumb-silicone_yaw1_link.STL",
+   "sha256": "a5fdbcb10f754730381dcde10204194cec2746d7a19dc17865bfeaf52a28f89a",
+   "size": 389084
+  },
+  {
+   "path": "meshes/right_thumb-silicone_yaw2_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_thumb-silicone_yaw2_link.STL",
+   "sha256": "cb7ddeecb7432737fe3d465dde2d94601f7444724182d61703cce4283167e637",
+   "size": 381884
+  },
+  {
+   "path": "meshes/right_thumb-silicone_yaw3_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_thumb-silicone_yaw3_link.STL",
+   "sha256": "a2461fcb8a10f84fa80f6fb6dddd82a3d60d0630ca59ee0711754d6754547601",
+   "size": 945884
+  },
+  {
+   "path": "meshes/right_thumb_pitch_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_thumb_pitch_link.STL",
+   "sha256": "290ea34d768decd9f7547d12b650a037f7a20c3275165903d20e0bdbff0ec88d",
+   "size": 44384
+  },
+  {
+   "path": "meshes/right_thumb_roll_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_thumb_roll_link.STL",
+   "sha256": "4ba3c4d0b991370ab077bd35b59989821b1e005d7c7350dad5d65940464f7e04",
+   "size": 228384
+  },
+  {
+   "path": "meshes/right_thumb_yaw1_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_thumb_yaw1_link.STL",
+   "sha256": "4254855041bbf11342073f152f20dd67bd6736399a09911c2fedcb60597abadb",
+   "size": 365184
+  },
+  {
+   "path": "meshes/right_thumb_yaw2_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_thumb_yaw2_link.STL",
+   "sha256": "36470e2e1d5dd3d4448be45fc42e8f2f9eb4c516ac06d25cadc648793e2f9ccd",
+   "size": 384884
+  },
+  {
+   "path": "meshes/right_thumb_yaw3_link.STL",
+   "source": "robots/dexterous_hand_description/dex5_s/meshes/right_thumb_yaw3_link.STL",
+   "sha256": "0f1e9d50d13ad316a6938dbf69c597dc98c15fb1b2eb7f8a1a9df54b22fab312",
+   "size": 203684
+  }
+ ]
+}

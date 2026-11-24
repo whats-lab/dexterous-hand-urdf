@@ -2,10 +2,18 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>dexhand_description</name>
-  <version>0.1.0</version>
-  <description>WHATs LAB dexterous hand + arm robot description (URDF / meshes / rviz).</description>
+  <version>1.0.0</version>
+  <description>Dexterous robot hand URDF models (dex-urdf hands plus hands added by WHATs LAB; see README).</description>
   <maintainer email="minjun.park@whatslab.co.kr">WHATs LAB</maintainer>
-  <license>per-model LICENSE files (BSD / MIT / Apache-2.0); base_hand proprietary (WHATs LAB)</license>
+  <license>BSD-2-Clause</license>
+  <license>BSD-3-Clause</license>
+  <license>MIT</license>
+  <license>Apache-2.0</license>
+  <license>GPL-3.0</license>
+  <license>CC-BY-NC-SA-4.0</license>
+  <license>LicenseRef-see-LICENSE_STATUS</license>
+
+  <url type="repository">https://github.com/whats-lab/dexterous-hand-urdf</url>
 
   <buildtool_depend>ament_python</buildtool_depend>
 

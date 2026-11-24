@@ -1,0 +1,326 @@
+<?xml version="1.0"?>
+<robot name="igris_c_hand_right">
+  <link name="r_palm">
+    <inertial>
+      <mass value="0.200" />
+      <origin xyz="0.0091 0.00371 -0.07839" />
+      <inertia ixx="0.00081" ixy="-4e-05" ixz="-0.00012" iyy="0.00117" iyz="-5e-05" izz="0.00042" />
+    </inertial>
+    <visual>
+      <geometry>
+        <mesh filename="meshes/r_palm.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+      <material name="random">
+        <color rgba="0.0706 0.0706 0.0706 0.7" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/r_palm.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="right_hand_camera_link" />
+  <joint name="right_hand_camera_joint" type="fixed">
+    <parent link="r_palm" />
+    <child link="right_hand_camera_link" />
+    <origin rpy="2.177863132 0.297341539 2.730347616" xyz="-0.024420 0.010317 -0.034793" />
+  </joint>
+  <link name="r_thumb_proximal">
+    <inertial>
+      <mass value="0.01" />
+      <origin xyz="0 0 0" />
+      <inertia ixx="1e-05" ixy="0" ixz="0" iyy="1e-05" iyz="0" izz="1e-05" />
+    </inertial>
+    <visual>
+      <geometry>
+        <mesh filename="meshes/r_thumb_proximal.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+      <material name="random">
+        <color rgba="0.0706 0.0706 0.0706 0.7" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/r_thumb_proximal.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="r_thumb_middle">
+    <inertial>
+      <mass value="0.008" />
+      <origin xyz="0 0 0" />
+      <inertia ixx="8e-06" ixy="0" ixz="0" iyy="8e-06" iyz="0" izz="8e-06" />
+    </inertial>
+    <visual>
+      <geometry>
+        <mesh filename="meshes/r_thumb_middle.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+      <material name="random">
+        <color rgba="0.0706 0.0706 0.0706 0.7" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/r_thumb_middle.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="r_thumb_distal">
+    <inertial>
+      <mass value="0.006" />
+      <origin xyz="0 0 0" />
+      <inertia ixx="6e-06" ixy="0" ixz="0" iyy="6e-06" iyz="0" izz="6e-06" />
+    </inertial>
+    <visual>
+      <geometry>
+        <mesh filename="meshes/r_thumb_distal.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+      <material name="random">
+        <color rgba="0.0706 0.0706 0.0706 0.7" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/r_thumb_distal.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="r_index_middle">
+    <inertial>
+      <mass value="0.008" />
+      <origin xyz="0 0 0" />
+      <inertia ixx="8e-06" ixy="0" ixz="0" iyy="8e-06" iyz="0" izz="8e-06" />
+    </inertial>
+    <visual>
+      <geometry>
+        <mesh filename="meshes/finger_middle.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+      <material name="random">
+        <color rgba="0.0706 0.0706 0.0706 0.7" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/finger_middle.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="r_index_distal">
+    <inertial>
+      <mass value="0.006" />
+      <origin xyz="0 0 0" />
+      <inertia ixx="6e-06" ixy="0" ixz="0" iyy="6e-06" iyz="0" izz="6e-06" />
+    </inertial>
+    <visual>
+      <geometry>
+        <mesh filename="meshes/finger_distal.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+      <material name="random">
+        <color rgba="0.0706 0.0706 0.0706 0.7" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/finger_distal.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="r_middle_middle">
+    <inertial>
+      <mass value="0.008" />
+      <origin xyz="0 0 0" />
+      <inertia ixx="8e-06" ixy="0" ixz="0" iyy="8e-06" iyz="0" izz="8e-06" />
+    </inertial>
+    <visual>
+      <geometry>
+        <mesh filename="meshes/finger_middle.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+      <material name="random">
+        <color rgba="0.0706 0.0706 0.0706 0.7" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/finger_middle.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="r_middle_distal">
+    <inertial>
+      <mass value="0.006" />
+      <origin xyz="0 0 0" />
+      <inertia ixx="6e-06" ixy="0" ixz="0" iyy="6e-06" iyz="0" izz="6e-06" />
+    </inertial>
+    <visual>
+      <geometry>
+        <mesh filename="meshes/finger_distal.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+      <material name="random">
+        <color rgba="0.0706 0.0706 0.0706 0.7" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/finger_distal.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="r_ring_middle">
+    <inertial>
+      <mass value="0.008" />
+      <origin xyz="0 0 0" />
+      <inertia ixx="8e-06" ixy="0" ixz="0" iyy="8e-06" iyz="0" izz="8e-06" />
+    </inertial>
+    <visual>
+      <geometry>
+        <mesh filename="meshes/finger_middle.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+      <material name="random">
+        <color rgba="0.0706 0.0706 0.0706 0.7" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/finger_middle.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="r_ring_distal">
+    <inertial>
+      <mass value="0.006" />
+      <origin xyz="0 0 0" />
+      <inertia ixx="6e-06" ixy="0" ixz="0" iyy="6e-06" iyz="0" izz="6e-06" />
+    </inertial>
+    <visual>
+      <geometry>
+        <mesh filename="meshes/finger_distal.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+      <material name="random">
+        <color rgba="0.0706 0.0706 0.0706 0.7" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/finger_distal.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="r_little_middle">
+    <inertial>
+      <mass value="0.008" />
+      <origin xyz="0 0 0" />
+      <inertia ixx="8e-06" ixy="0" ixz="0" iyy="8e-06" iyz="0" izz="8e-06" />
+    </inertial>
+    <visual>
+      <geometry>
+        <mesh filename="meshes/finger_middle.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+      <material name="random">
+        <color rgba="0.0706 0.0706 0.0706 0.7" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/finger_middle.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="r_little_distal">
+    <inertial>
+      <mass value="0.006" />
+      <origin xyz="0 0 0" />
+      <inertia ixx="6e-06" ixy="0" ixz="0" iyy="6e-06" iyz="0" izz="6e-06" />
+    </inertial>
+    <visual>
+      <geometry>
+        <mesh filename="meshes/finger_distal.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+      <material name="random">
+        <color rgba="0.0706 0.0706 0.0706 0.7" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/finger_distal.stl" scale="0.01 0.01 0.01" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="r_0_joint_thumb_proximal" type="revolute">
+    <parent link="r_palm" />
+    <child link="r_thumb_proximal" />
+    <origin rpy="-3.054326988 0 0" xyz="0.026 0.0132 -0.0299" />
+    <axis xyz="0 0 1" />
+    <limit effort="1000" lower="-1.727875959" upper="0" velocity="100.0" />
+  </joint>
+  <joint name="r_1_joint_thumb_middle" type="revolute">
+    <parent link="r_thumb_proximal" />
+    <child link="r_thumb_middle" />
+    <origin rpy="-1.221731311 0 -1.570796752" xyz="0.0230 -0.0036 0.015" />
+    <axis xyz="1 0 0" />
+    <limit effort="1000" lower="0" upper="1.221730476" velocity="100.0" />
+  </joint>
+  <joint name="r_2_joint_thumb_distal" type="revolute">
+    <parent link="r_thumb_middle" />
+    <child link="r_thumb_distal" />
+    <origin rpy="0 0 0" xyz="0 -0.001 0.04" />
+    <axis xyz="1 0 0" />
+    <limit effort="1000" lower="0" upper="1.570796327" velocity="100.0" />
+  </joint>
+  <joint name="r_3_joint_index_middle" type="revolute">
+    <parent link="r_palm" />
+    <child link="r_index_middle" />
+    <origin rpy="3.141592654 0 0" xyz="0.0305 -0.002 -0.101" />
+    <axis xyz="1 0 0" />
+    <limit effort="1000" lower="0" upper="1.570796327" velocity="100.0" />
+  </joint>
+  <joint name="r_4_joint_index_distal" type="revolute">
+    <parent link="r_index_middle" />
+    <child link="r_index_distal" />
+    <origin rpy="0 0 0" xyz="0 -0.001 0.04" />
+    <axis xyz="1 0 0" />
+    <limit effort="1000" lower="0" upper="1.570796327" velocity="100.0" />
+  </joint>
+  <joint name="r_5_joint_middle_middle" type="revolute">
+    <parent link="r_palm" />
+    <child link="r_middle_middle" />
+    <origin rpy="3.141592654 0 0" xyz="0.0085 -0.002 -0.101" />
+    <axis xyz="1 0 0" />
+    <limit effort="1000" lower="0" upper="1.570796327" velocity="100.0" />
+  </joint>
+  <joint name="r_6_joint_middle_distal" type="revolute">
+    <parent link="r_middle_middle" />
+    <child link="r_middle_distal" />
+    <origin rpy="0 0 0" xyz="0 -0.001 0.04" />
+    <axis xyz="1 0 0" />
+    <limit effort="1000" lower="0" upper="1.570796327" velocity="100.0" />
+  </joint>
+  <joint name="r_7_joint_ring_middle" type="revolute">
+    <parent link="r_palm" />
+    <child link="r_ring_middle" />
+    <origin rpy="3.14037309 0.0348858149 -0.0349283776" xyz="-0.0139 -0.001 -0.099" />
+    <axis xyz="1 0 0" />
+    <limit effort="1000" lower="0" upper="1.570796327" velocity="100.0" />
+  </joint>
+  <joint name="r_8_joint_ring_distal" type="revolute">
+    <parent link="r_ring_middle" />
+    <child link="r_ring_distal" />
+    <origin rpy="0 0 0" xyz="0 -0.001 0.04" />
+    <axis xyz="1 0 0" />
+    <limit effort="1000" lower="0" upper="1.570796327" velocity="100.0" />
+  </joint>
+  <joint name="r_9_joint_little_middle" type="revolute">
+    <parent link="r_palm" />
+    <child link="r_little_middle" />
+    <origin rpy="3.13884432 0.0872096601 -0.0525117398" xyz="-0.0362 0.0012 -0.0942" />
+    <axis xyz="1 0 0" />
+    <limit effort="1000" lower="0" upper="1.570796327" velocity="100.0" />
+  </joint>
+  <joint name="r_10_joint_little_distal" type="revolute">
+    <parent link="r_little_middle" />
+    <child link="r_little_distal" />
+    <origin rpy="0 0 0" xyz="0 -0.001 0.04" />
+    <axis xyz="1 0 0" />
+    <limit effort="1000" lower="0" upper="1.570796327" velocity="100.0" />
+  </joint>
+</robot>

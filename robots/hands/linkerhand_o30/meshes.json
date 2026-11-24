@@ -1,0 +1,258 @@
+{
+ "repo": "linker-bot/linkerhand-urdf",
+ "commit": "49f26021b0a91ff5c33150df22970c07bb548672",
+ "files": [
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/hand_base_link.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/hand_base_link.STL",
+   "sha256": "a3e510145222b290c8f5822e4acc542f1bfe1cadf284da7ddd67d28cd9bb6828",
+   "size": 1094184
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/index_distal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/index_distal.STL",
+   "sha256": "ea2a65c9fe21fe8bf02cc0c0c097e625c2c33036af4545846ef04764147b95c9",
+   "size": 583184
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/index_metacarpals.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/index_metacarpals.STL",
+   "sha256": "91a34cf5391c14c570eab72eee027df32eee72e37511931d7e739447fa257e42",
+   "size": 545484
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/index_middle.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/index_middle.STL",
+   "sha256": "531fa60b10b4348611bb74fa613ca0b52b51d9f4c8ce30a257f318c0b508030e",
+   "size": 1152284
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/index_proximal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/index_proximal.STL",
+   "sha256": "431d2fe1d5c4325bb41f013c11cf795a4412a46d6d0f1ea0a91a9c237d20f774",
+   "size": 1196284
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/middle_distal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/middle_distal.STL",
+   "sha256": "622c9ede83a5f7987de063cf9c07296d1bbfa23c66d2789f685aa83c129e2514",
+   "size": 583184
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/middle_metacarpals.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/middle_metacarpals.STL",
+   "sha256": "62658b6c3cd42c6c90c79f076a4c438de2d707664534b697cc88f7af0da82260",
+   "size": 545484
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/middle_middle.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/middle_middle.STL",
+   "sha256": "c414f9fac1d11f1637b3cf3073f46360c8f61ec8a4dc8449ae1ff20476ec45a5",
+   "size": 1152284
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/middle_proximal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/middle_proximal.STL",
+   "sha256": "263228548981ce824f0a4d4c10e67933a22b0a1b2347fd445af0561d4c2dd45f",
+   "size": 1196284
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/pinky_distal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/pinky_distal.STL",
+   "sha256": "f6e4f0ea0b86869083102dcb5e66eb322f1f3595297f98086c3fd3d85931f202",
+   "size": 583184
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/pinky_metacarpals.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/pinky_metacarpals.STL",
+   "sha256": "ab30923a3595e31d243f32d510738aedc2646c64a2ba59bc8bf6985e4b1c4b17",
+   "size": 545484
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/pinky_middle.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/pinky_middle.STL",
+   "sha256": "06fc5704b8ae457bc63115a267aec470a241c74d28c7ea5a7590a6b1d37f3dbb",
+   "size": 1152284
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/pinky_proximal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/pinky_proximal.STL",
+   "sha256": "c0e559dc955cbb41c6050462ef24bfa6daba0558433f40881917daeab6ba0fcf",
+   "size": 1196284
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/ring_distal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/ring_distal.STL",
+   "sha256": "d48533fb7d6c794a9cabb069cbe6519103134f384180708e3c9daf6e9f25c9e4",
+   "size": 583184
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/ring_metacarpals.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/ring_metacarpals.STL",
+   "sha256": "094f2df7a9b48e331bbe161cc7baa8b55b6037720464d3fba532fa57c8a4226a",
+   "size": 545484
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/ring_middle.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/ring_middle.STL",
+   "sha256": "21c4e14ba964d7387f447e3fa13033bfbf6816bb2a650650839bd0839054f127",
+   "size": 1152284
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/ring_proximal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/ring_proximal.STL",
+   "sha256": "96dc048e5dffaace683414d0bb14665d146f37297efffd95db3ae393c5092084",
+   "size": 1196284
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/thumb_distal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/thumb_distal.STL",
+   "sha256": "42135044b720f20d694f3e7093c7c105f848898c3c00ce74ba97795fbb69944e",
+   "size": 447084
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/thumb_metacarpals_base1.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/thumb_metacarpals_base1.STL",
+   "sha256": "1252bb6fe45e3a2bc1ea2c31b4c48137a85326b3989bb82a16a91b6ecd13a38b",
+   "size": 1202084
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/thumb_metacarpals_base2.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/thumb_metacarpals_base2.STL",
+   "sha256": "a0a15b70b46eaf1c9bc492ed67627f88b89ed0f09cc9b294bdf6b409ea7958ea",
+   "size": 321084
+  },
+  {
+   "path": "meshes/urdf_0803-left/src/linkerhand_O30i_left/meshes/thumb_proximal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/thumb_proximal.STL",
+   "sha256": "3dd8a1f9ed184b914d19784883932e238e487c2b60bccaae4bef850d779c3891",
+   "size": 916584
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/hand_base_link.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/hand_base_link.STL",
+   "sha256": "a3e510145222b290c8f5822e4acc542f1bfe1cadf284da7ddd67d28cd9bb6828",
+   "size": 1094184
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/index_distal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/index_distal.STL",
+   "sha256": "ea2a65c9fe21fe8bf02cc0c0c097e625c2c33036af4545846ef04764147b95c9",
+   "size": 583184
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/index_metacarpals.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/index_metacarpals.STL",
+   "sha256": "91a34cf5391c14c570eab72eee027df32eee72e37511931d7e739447fa257e42",
+   "size": 545484
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/index_middle.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/index_middle.STL",
+   "sha256": "531fa60b10b4348611bb74fa613ca0b52b51d9f4c8ce30a257f318c0b508030e",
+   "size": 1152284
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/index_proximal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/index_proximal.STL",
+   "sha256": "431d2fe1d5c4325bb41f013c11cf795a4412a46d6d0f1ea0a91a9c237d20f774",
+   "size": 1196284
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/middle_distal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/middle_distal.STL",
+   "sha256": "622c9ede83a5f7987de063cf9c07296d1bbfa23c66d2789f685aa83c129e2514",
+   "size": 583184
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/middle_metacarpals.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/middle_metacarpals.STL",
+   "sha256": "62658b6c3cd42c6c90c79f076a4c438de2d707664534b697cc88f7af0da82260",
+   "size": 545484
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/middle_middle.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/middle_middle.STL",
+   "sha256": "c414f9fac1d11f1637b3cf3073f46360c8f61ec8a4dc8449ae1ff20476ec45a5",
+   "size": 1152284
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/middle_proximal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/middle_proximal.STL",
+   "sha256": "263228548981ce824f0a4d4c10e67933a22b0a1b2347fd445af0561d4c2dd45f",
+   "size": 1196284
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/pinky_distal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/pinky_distal.STL",
+   "sha256": "f6e4f0ea0b86869083102dcb5e66eb322f1f3595297f98086c3fd3d85931f202",
+   "size": 583184
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/pinky_metacarpals.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/pinky_metacarpals.STL",
+   "sha256": "ab30923a3595e31d243f32d510738aedc2646c64a2ba59bc8bf6985e4b1c4b17",
+   "size": 545484
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/pinky_middle.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/pinky_middle.STL",
+   "sha256": "06fc5704b8ae457bc63115a267aec470a241c74d28c7ea5a7590a6b1d37f3dbb",
+   "size": 1152284
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/pinky_proximal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/pinky_proximal.STL",
+   "sha256": "c0e559dc955cbb41c6050462ef24bfa6daba0558433f40881917daeab6ba0fcf",
+   "size": 1196284
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/ring_distal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/ring_distal.STL",
+   "sha256": "d48533fb7d6c794a9cabb069cbe6519103134f384180708e3c9daf6e9f25c9e4",
+   "size": 583184
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/ring_metacarpals.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/ring_metacarpals.STL",
+   "sha256": "094f2df7a9b48e331bbe161cc7baa8b55b6037720464d3fba532fa57c8a4226a",
+   "size": 545484
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/ring_middle.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/ring_middle.STL",
+   "sha256": "21c4e14ba964d7387f447e3fa13033bfbf6816bb2a650650839bd0839054f127",
+   "size": 1152284
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/ring_proximal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/ring_proximal.STL",
+   "sha256": "96dc048e5dffaace683414d0bb14665d146f37297efffd95db3ae393c5092084",
+   "size": 1196284
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/thumb_distal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/thumb_distal.STL",
+   "sha256": "42135044b720f20d694f3e7093c7c105f848898c3c00ce74ba97795fbb69944e",
+   "size": 447084
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/thumb_metacarpals_base1.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/thumb_metacarpals_base1.STL",
+   "sha256": "1252bb6fe45e3a2bc1ea2c31b4c48137a85326b3989bb82a16a91b6ecd13a38b",
+   "size": 1202084
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/thumb_metacarpals_base2.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/thumb_metacarpals_base2.STL",
+   "sha256": "a0a15b70b46eaf1c9bc492ed67627f88b89ed0f09cc9b294bdf6b409ea7958ea",
+   "size": 321084
+  },
+  {
+   "path": "meshes/urdf_0803-right/src/linkerhand_O30i_right/meshes/thumb_proximal.STL",
+   "source": "O30/urdf_0803-left/src/linkerhand_O30i_left.urdf/meshes/thumb_proximal.STL",
+   "sha256": "3dd8a1f9ed184b914d19784883932e238e487c2b60bccaae4bef850d779c3891",
+   "size": 916584
+  }
+ ]
+}

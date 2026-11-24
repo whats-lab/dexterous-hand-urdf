@@ -1,0 +1,1 @@
+Copied from https://github.com/orcahand/orcahand_description @ 64ff756 (v1/models/urdf/orcahand_<side>.urdf, not the *_extended variants): URDF files renamed to <hand_id>_<side>.urdf, mesh paths rewritten to relative meshes/<side>/{visual,collision}/..., and only the meshes referenced by the URDFs kept. Links, joints and inertials are as upstream.

@@ -1,0 +1,2 @@
+Copied from https://github.com/wuji-technology/wuji-description @ ffeb47f (hand/body/urdf/<side>.urdf, not the -ros variants): URDF files renamed to <hand_id>_<side>.urdf and mesh paths rewritten from ../meshes/<side>/ to meshes/<side>/.
+Earlier taken from https://github.com/wuji-technology/wuji-hand-description @ bbc2f64, which is now archived; the joints and kinematics are the same and the meshes are byte-identical.

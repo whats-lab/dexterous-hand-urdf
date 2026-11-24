@@ -1,0 +1,132 @@
+{
+ "repo": "linker-bot/linkerhand-urdf",
+ "commit": "49f26021b0a91ff5c33150df22970c07bb548672",
+ "files": [
+  {
+   "path": "meshes/base_link.STL",
+   "source": "L30/right/meshes/base_link.STL",
+   "sha256": "2b7de2f0fe302ee238e5559391262d16abe15149a34efe4cf16145813316e494",
+   "size": 2528484
+  },
+  {
+   "path": "meshes/index_distal.STL",
+   "source": "L30/right/meshes/index_distal.STL",
+   "sha256": "be26866746f50de05fb5e3d725d6fa90b1e344ee4612572d098e0cd7e79aad44",
+   "size": 791384
+  },
+  {
+   "path": "meshes/index_metacarpals.STL",
+   "source": "L30/right/meshes/index_metacarpals.STL",
+   "sha256": "ef99ec790e343822719d501eac175e1742a9af6c302837f9e1f0216755468b95",
+   "size": 387284
+  },
+  {
+   "path": "meshes/index_middle.STL",
+   "source": "L30/right/meshes/index_middle.STL",
+   "sha256": "0dddb73ac605bf3fe08ee727de8def57f7b091ded7e7d85072dfa0cd486168fa",
+   "size": 450684
+  },
+  {
+   "path": "meshes/index_proximal.STL",
+   "source": "L30/right/meshes/index_proximal.STL",
+   "sha256": "94f6caec10e84d34547fe40a769579d80f973609bea5a40f664600f5a4240268",
+   "size": 503484
+  },
+  {
+   "path": "meshes/middle_distal.STL",
+   "source": "L30/right/meshes/middle_distal.STL",
+   "sha256": "8406c68576599ce32eacc908bec8699217d59d223847b06b50b7f21460e8115f",
+   "size": 791384
+  },
+  {
+   "path": "meshes/middle_metacarpals.STL",
+   "source": "L30/right/meshes/middle_metacarpals.STL",
+   "sha256": "656a7e73b91794f234a9667d3cb3e32254d05b9058793a73ba575e0d19ab0ee2",
+   "size": 387284
+  },
+  {
+   "path": "meshes/middle_middle.STL",
+   "source": "L30/right/meshes/middle_middle.STL",
+   "sha256": "a06f54bd5d54469a0df43a0d257b8fa06d5104d33da44bfeebb4a4b70effda87",
+   "size": 450684
+  },
+  {
+   "path": "meshes/middle_proximal.STL",
+   "source": "L30/right/meshes/middle_proximal.STL",
+   "sha256": "26366a1fc4c5c204c4bde7847ffb0f2a0d695ab9eb98d5c76a2fc070ac5b2ad6",
+   "size": 503484
+  },
+  {
+   "path": "meshes/pinky_distal.STL",
+   "source": "L30/right/meshes/pinky_distal.STL",
+   "sha256": "c57c6f4ff1c16c4a0ae9ce7c6abc72b5c015b330d0fc49d31f9d5a3a415ba180",
+   "size": 791384
+  },
+  {
+   "path": "meshes/pinky_metacarpals.STL",
+   "source": "L30/right/meshes/pinky_metacarpals.STL",
+   "sha256": "83197852e921ac5ccbad40e5f9ef0e62f67b8b78189f13f4827963c11e71bc85",
+   "size": 387284
+  },
+  {
+   "path": "meshes/pinky_middle.STL",
+   "source": "L30/right/meshes/pinky_middle.STL",
+   "sha256": "549494ed0990f0728eea883f948033b8e0bd20876f240bc304d7ba684320da78",
+   "size": 450684
+  },
+  {
+   "path": "meshes/pinky_proximal.STL",
+   "source": "L30/right/meshes/pinky_proximal.STL",
+   "sha256": "a4bf77117ab0d60ca7c8b8cfd844b8dacc6946be21bf87d7be0616e9a306d705",
+   "size": 503484
+  },
+  {
+   "path": "meshes/ring_distal.STL",
+   "source": "L30/right/meshes/ring_distal.STL",
+   "sha256": "708202f918d04043a10759c86454788cb3d74541277d7deb72546e92460a1b77",
+   "size": 791384
+  },
+  {
+   "path": "meshes/ring_metacarpals.STL",
+   "source": "L30/right/meshes/ring_metacarpals.STL",
+   "sha256": "e31156207e017543f7f462b027b9a6d60e63bc9a1cc2beabf54f842abc25941c",
+   "size": 387284
+  },
+  {
+   "path": "meshes/ring_middle.STL",
+   "source": "L30/right/meshes/ring_middle.STL",
+   "sha256": "a049890e8a90e12dbde4771f0f3cfcdc8eb3bf5704aaced93fe90690ee5634c0",
+   "size": 450684
+  },
+  {
+   "path": "meshes/ring_proximal.STL",
+   "source": "L30/right/meshes/ring_proximal.STL",
+   "sha256": "2770be1c045235b16c10fa17bfccbf90cdf95d70d712a3b7c59dcacaccedc488",
+   "size": 503484
+  },
+  {
+   "path": "meshes/thumb_distal.STL",
+   "source": "L30/right/meshes/thumb_distal.STL",
+   "sha256": "50f2f2323f4cb469c40389a653046138790cd89d00a62c5b8613a2efdcd2fd79",
+   "size": 778584
+  },
+  {
+   "path": "meshes/thumb_metacarpals.STL",
+   "source": "L30/right/meshes/thumb_metacarpals.STL",
+   "sha256": "43e983c9d04661b764fd44bb2e491335cadebe5abc8897ef076f4a026e797dfd",
+   "size": 427184
+  },
+  {
+   "path": "meshes/thumb_metacarpals_base2.STL",
+   "source": "L30/right/meshes/thumb_metacarpals_base2.STL",
+   "sha256": "c34cc0ec153d9fdca3b004d9274de54af701778963f694fd86ea28304a4d7cfd",
+   "size": 165984
+  },
+  {
+   "path": "meshes/thumb_proximal.STL",
+   "source": "L30/right/meshes/thumb_proximal.STL",
+   "sha256": "da9285cb77825c183b0bccdd3aa64bb7ebe578c74bdbd060f15b553301583051",
+   "size": 420884
+  }
+ ]
+}

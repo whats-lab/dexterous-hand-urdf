@@ -1,0 +1,2 @@
+Copied from https://github.com/unitreerobotics/unitree_ros @ 157ff95: URDF files renamed to <hand_id>_<side>.urdf, mesh paths rewritten to relative meshes/... (path segments with spaces or ending in .urdf renamed), and only the meshes referenced by the URDFs kept.
+Cut from g1_29dof_rev_1_0_with_inspire_hand_FTP.urdf at the hand base links.

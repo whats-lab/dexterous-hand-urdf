@@ -1,0 +1,1 @@
+Copied from https://github.com/dexsuite/dex-urdf @ f5e7132 (original upstream: https://github.com/simlabrobotics/allegro_hand_ros); URDF unchanged; meshes are not stored here (see meshes.json).

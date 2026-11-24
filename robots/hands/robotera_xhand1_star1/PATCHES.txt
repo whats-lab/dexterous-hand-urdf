@@ -1,0 +1,2 @@
+Copied from https://github.com/roboterax/models @ e8660e6: URDF files renamed to <hand_id>_<side>.urdf, mesh paths rewritten to relative meshes/... (path segments with spaces or ending in .urdf renamed), and only the meshes referenced by the URDFs kept.
+Cut from the STAR1 humanoid URDF at *_hand_base_link.

@@ -1,0 +1,2 @@
+Left and right URDFs expanded from the xacro in robotis_hand_description at fe8c244 (the parent of caeb434).
+Mesh URIs are relative paths (../meshes/...).

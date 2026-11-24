@@ -1,0 +1,678 @@
+{
+ "repo": "tesollodelto/dg5f_ros2",
+ "commit": "0cb45ae9474caa92410dfa820346da8ffbae8405",
+ "files": [
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_1_1_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_1_1_c.STL",
+   "sha256": "04c3de13b39e70ae2485fdbd5a14ae08bb8b7d83b093cf1ded1bb65837041e9d",
+   "size": 156584
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_1_2_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_1_2_c.STL",
+   "sha256": "782498078dcbde2c838f2341ed70eefd3a5d71f74949487fd44c67ac34bb25cf",
+   "size": 209684
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_1_3_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_1_3_c.STL",
+   "sha256": "8539b3f3e8c4b1e532ae1afb43dc16744b94b38dc4a20f21af0ab2caf03eba7e",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_1_4_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_1_4_c.STL",
+   "sha256": "2745fa30d48e55ea3608906908511e09cb6e195d2b3025ea10ac33c048121ea3",
+   "size": 100784
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_1_tip_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_1_tip_c.STL",
+   "sha256": "7e293cdb38d4d1b7e62f2fe78fc881a3c60d6fbe681f4a515ad295ca2e0a5d11",
+   "size": 131084
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_2_1_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_2_1_c.STL",
+   "sha256": "a79727230beb04bff823b278d4022f5c27c1c8cf9f25eac10099fbe7f8d6d45d",
+   "size": 238484
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_2_2_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_2_2_c.STL",
+   "sha256": "333ecccff854390fa779ea819703b74b524eb1806219c7f2b1fdd7eb3d9f574c",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_2_3_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_2_3_c.STL",
+   "sha256": "35ccb097561cb755ae1a5437e5835a9ee1bf8b265c7eb6b45b7f1a70b3a4708e",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_2_4_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_2_4_c.STL",
+   "sha256": "7fcd9f67d152e7642d2c146d1e4ef98abcc74e6c3664c18df5ec01454c04d58a",
+   "size": 136484
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_2_tip_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_2_tip_c.STL",
+   "sha256": "fa8c01f63cfcf1d82275ab3d65ca95d48021159733dbbe47fbd357b42adadaa9",
+   "size": 131084
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_3_1_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_3_1_c.STL",
+   "sha256": "6539f1bb820e553590eb4c920ea54fd81ca1d9fe6145f9df094abd4173ceb5a6",
+   "size": 239984
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_3_2_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_3_2_c.STL",
+   "sha256": "333ecccff854390fa779ea819703b74b524eb1806219c7f2b1fdd7eb3d9f574c",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_3_3_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_3_3_c.STL",
+   "sha256": "35ccb097561cb755ae1a5437e5835a9ee1bf8b265c7eb6b45b7f1a70b3a4708e",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_3_4_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_3_4_c.STL",
+   "sha256": "7fcd9f67d152e7642d2c146d1e4ef98abcc74e6c3664c18df5ec01454c04d58a",
+   "size": 136484
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_3_tip_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_3_tip_c.STL",
+   "sha256": "fa8c01f63cfcf1d82275ab3d65ca95d48021159733dbbe47fbd357b42adadaa9",
+   "size": 131084
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_4_1_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_4_1_c.STL",
+   "sha256": "a11eeb21a2e5374ba698b35dde7ff24ae2a2f1645e2f566857384f6c5f6c2c1c",
+   "size": 238084
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_4_2_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_4_2_c.STL",
+   "sha256": "333ecccff854390fa779ea819703b74b524eb1806219c7f2b1fdd7eb3d9f574c",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_4_3_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_4_3_c.STL",
+   "sha256": "35ccb097561cb755ae1a5437e5835a9ee1bf8b265c7eb6b45b7f1a70b3a4708e",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_4_4_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_4_4_c.STL",
+   "sha256": "7fcd9f67d152e7642d2c146d1e4ef98abcc74e6c3664c18df5ec01454c04d58a",
+   "size": 136484
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_4_tip_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_4_tip_c.STL",
+   "sha256": "fa8c01f63cfcf1d82275ab3d65ca95d48021159733dbbe47fbd357b42adadaa9",
+   "size": 131084
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_5_1_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_5_1_c.STL",
+   "sha256": "e569d1edb7fbca65e771eea52c71107edd2cfedf1a0903ea7d52879609286531",
+   "size": 240384
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_5_2_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_5_2_c.STL",
+   "sha256": "b9a6d9c7965edf1e303acd68aefa5ecdfce9dba65f060d230b9521d6df39be81",
+   "size": 209684
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_5_3_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_5_3_c.STL",
+   "sha256": "930b479b2d8d5eab35e45117479d9dd39c86da22b39138185b40d3db37cc9e42",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_5_4_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_5_4_c.STL",
+   "sha256": "dd9820c81fc164e115421ab5c2110c8406a99dfea6a34b82f653024e83d138cb",
+   "size": 100784
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_5_tip_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_5_tip_c.STL",
+   "sha256": "fa8c01f63cfcf1d82275ab3d65ca95d48021159733dbbe47fbd357b42adadaa9",
+   "size": 131084
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_base_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_base_c.STL",
+   "sha256": "eb96be85d1df6ac94741cb3df13e9e2b41e9abb62e3142bb921381ce90270a97",
+   "size": 192684
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_mount_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_mount_c.STL",
+   "sha256": "a38a65d02bf9b9902ebc27ac35bd1dc82d21637013822d0633c002d558fd97f0",
+   "size": 56684
+  },
+  {
+   "path": "meshes/dg5f_left/collision/ll_dg_palm_c.STL",
+   "source": "dg5f_description/meshes/dg5f_left/collision/ll_dg_palm_c.STL",
+   "sha256": "ed71072aae7db8b958815eb82cefa0386039d2520b666c00403a4c08932413bf",
+   "size": 563384
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_1_1.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_1_1.dae",
+   "sha256": "807d927a50b05984b90ca1e377e48393d2a35ac3c9998fd6bf39ffd1bf61974c",
+   "size": 223140
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_1_2.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_1_2.dae",
+   "sha256": "77f7fd739631e7ff089f0b5ee8a16ce76ace5652ff3fb195f76d6ad67643067a",
+   "size": 304388
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_1_3.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_1_3.dae",
+   "sha256": "9c939ee2c4af4ea82892c65f97549f719e437860ccb1e5dc9cbaca189b4a414e",
+   "size": 229645
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_1_4.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_1_4.dae",
+   "sha256": "abd136700629db6668587bf997f838ab0534d518236aec5b88f4135d26a4ee0d",
+   "size": 146105
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_1_tip.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_1_tip.dae",
+   "sha256": "a9df874479889a7034668723ba653e381bd0ab5b03780884376e2ed9b1bbf1b9",
+   "size": 201452
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_2_1.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_2_1.dae",
+   "sha256": "18e8cd262739988b4dc064dd34d23b69cc3574f513d0ba271d4785070891e9a7",
+   "size": 345595
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_2_2.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_2_2.dae",
+   "sha256": "9cffc81b428faaa2ea40abfafade5e700338f4e1124ada7510735ed1b956e032",
+   "size": 228108
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_2_3.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_2_3.dae",
+   "sha256": "b8ca03f20dd1dae9afa3cdc528d2dab30def4ca360c7ee2a08b3f0f0184ce529",
+   "size": 228086
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_2_4.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_2_4.dae",
+   "sha256": "cdac83f10807d888925a63e770e96c9afb0b0ce4ce7d81a028cf445731802ca9",
+   "size": 198512
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_2_tip.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_2_tip.dae",
+   "sha256": "69e950ac8dc481b8dabaf0caae0cc8b2cff64baf6932171081d69be05cc7fabf",
+   "size": 197999
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_3_1.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_3_1.dae",
+   "sha256": "54bf88870f085c34e6ab44bd13692f2ead7befc32611c8e27ff6dc15cdb990da",
+   "size": 348302
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_3_2.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_3_2.dae",
+   "sha256": "9cffc81b428faaa2ea40abfafade5e700338f4e1124ada7510735ed1b956e032",
+   "size": 228108
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_3_3.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_3_3.dae",
+   "sha256": "b8ca03f20dd1dae9afa3cdc528d2dab30def4ca360c7ee2a08b3f0f0184ce529",
+   "size": 228086
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_3_4.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_3_4.dae",
+   "sha256": "cdac83f10807d888925a63e770e96c9afb0b0ce4ce7d81a028cf445731802ca9",
+   "size": 198512
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_3_tip.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_3_tip.dae",
+   "sha256": "69e950ac8dc481b8dabaf0caae0cc8b2cff64baf6932171081d69be05cc7fabf",
+   "size": 197999
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_4_1.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_4_1.dae",
+   "sha256": "8d21bdca42d7f942a630f8d5088a933f27d944a7e8dddfd28b328ba4ab0dbf17",
+   "size": 345016
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_4_2.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_4_2.dae",
+   "sha256": "9cffc81b428faaa2ea40abfafade5e700338f4e1124ada7510735ed1b956e032",
+   "size": 228108
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_4_3.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_4_3.dae",
+   "sha256": "b8ca03f20dd1dae9afa3cdc528d2dab30def4ca360c7ee2a08b3f0f0184ce529",
+   "size": 228086
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_4_4.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_4_4.dae",
+   "sha256": "cdac83f10807d888925a63e770e96c9afb0b0ce4ce7d81a028cf445731802ca9",
+   "size": 198512
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_4_tip.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_4_tip.dae",
+   "sha256": "69e950ac8dc481b8dabaf0caae0cc8b2cff64baf6932171081d69be05cc7fabf",
+   "size": 197999
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_5_1.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_5_1.dae",
+   "sha256": "0b8c91835f103b69906596665646c46b6a93f7966dbcf4c71738593b5d6d76ae",
+   "size": 347336
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_5_2.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_5_2.dae",
+   "sha256": "8b3cd807e59708f13e3278c6205c2a480f0774a9b1242e8eb5dbc4f09e5f122d",
+   "size": 302393
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_5_3.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_5_3.dae",
+   "sha256": "8d9219c5f442c826dfe2043486790eb61b47fbc18a90835a71d60faa15562ed8",
+   "size": 228032
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_5_4.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_5_4.dae",
+   "sha256": "b56b87a32606fe89a016f34fa3ab6a81b8366011541e1d5a4b08c5c536aaa02d",
+   "size": 145796
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_5_tip.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_5_tip.dae",
+   "sha256": "69e950ac8dc481b8dabaf0caae0cc8b2cff64baf6932171081d69be05cc7fabf",
+   "size": 197999
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_base.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_base.dae",
+   "sha256": "f14a651d7080c4b4d05c34b2aef516de0c009b23c31ae5c42813170122b3f377",
+   "size": 261287
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_mount.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_mount.dae",
+   "sha256": "232e236f7b88252da355b79fb6bff205df89afcc19fbd1e8eee7ebaa7ae7bcc7",
+   "size": 71771
+  },
+  {
+   "path": "meshes/dg5f_left/visual/ll_dg_palm.dae",
+   "source": "dg5f_description/meshes/dg5f_left/visual/ll_dg_palm.dae",
+   "sha256": "a454523bd3587a0b01a52b7e070e89b8a0a14089a136e3102773803958023059",
+   "size": 821465
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_1_1_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_1_1_c.STL",
+   "sha256": "ee505c6add3c9174becfad421b8fa96805dfdfd9ed04969197df7f0694995b63",
+   "size": 156584
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_1_2_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_1_2_c.STL",
+   "sha256": "50d6a49c60cc061f7028b2b93a070c5256f61ce0d2b6309533461259a32ba5a4",
+   "size": 209684
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_1_3_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_1_3_c.STL",
+   "sha256": "23f7774746d0c9342f696b28eb749e6a05d80a4659b64c2e5bc011eecbdb4b41",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_1_4_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_1_4_c.STL",
+   "sha256": "b09a43be0d26a8473bdc7c3cb8f9d8788cbcc0e4b86148100563fbbc872c96a1",
+   "size": 100784
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_1_tip_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_1_tip_c.STL",
+   "sha256": "69b759da2f7b01729c27d22c018002bc7599b86dbb47a8c079a0a9333558653c",
+   "size": 130984
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_2_1_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_2_1_c.STL",
+   "sha256": "7280d1184e34a7274600ad51c565ed3cac98864a09992e174d1d22d2a8930d84",
+   "size": 238084
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_2_2_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_2_2_c.STL",
+   "sha256": "ca672248bbbd45374ca228ad023f5dd8577b8855e84200d4e5a25198e68d54dd",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_2_3_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_2_3_c.STL",
+   "sha256": "b14a5b504d86ccddf6b133907de09f268c9d1d6652b6bff94375a5a069ecbef7",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_2_4_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_2_4_c.STL",
+   "sha256": "8b5bc49eeaf70058f74df4a4f4966e0270ed45cce9742b052b74f855f95bb72c",
+   "size": 136484
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_2_tip_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_2_tip_c.STL",
+   "sha256": "758d8ac434b68d3caaf30941f76196e5dfd6516a87cdaa049d78bfb52e9d9176",
+   "size": 130984
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_3_1_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_3_1_c.STL",
+   "sha256": "68daa87bd56b72e9e9672af90c434aabb54c51ebd4a07f554b8728ae383e1147",
+   "size": 240084
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_3_2_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_3_2_c.STL",
+   "sha256": "ca672248bbbd45374ca228ad023f5dd8577b8855e84200d4e5a25198e68d54dd",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_3_3_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_3_3_c.STL",
+   "sha256": "b14a5b504d86ccddf6b133907de09f268c9d1d6652b6bff94375a5a069ecbef7",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_3_4_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_3_4_c.STL",
+   "sha256": "8b5bc49eeaf70058f74df4a4f4966e0270ed45cce9742b052b74f855f95bb72c",
+   "size": 136484
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_3_tip_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_3_tip_c.STL",
+   "sha256": "758d8ac434b68d3caaf30941f76196e5dfd6516a87cdaa049d78bfb52e9d9176",
+   "size": 130984
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_4_1_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_4_1_c.STL",
+   "sha256": "f19f9eda71dde1ccfbc40d2b8c0f74fc4f7a52fa48278371e4704955ff7f0c1f",
+   "size": 238384
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_4_2_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_4_2_c.STL",
+   "sha256": "ca672248bbbd45374ca228ad023f5dd8577b8855e84200d4e5a25198e68d54dd",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_4_3_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_4_3_c.STL",
+   "sha256": "b14a5b504d86ccddf6b133907de09f268c9d1d6652b6bff94375a5a069ecbef7",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_4_4_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_4_4_c.STL",
+   "sha256": "8b5bc49eeaf70058f74df4a4f4966e0270ed45cce9742b052b74f855f95bb72c",
+   "size": 136484
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_4_tip_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_4_tip_c.STL",
+   "sha256": "758d8ac434b68d3caaf30941f76196e5dfd6516a87cdaa049d78bfb52e9d9176",
+   "size": 130984
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_5_1_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_5_1_c.STL",
+   "sha256": "2f1c4aba4df54ce32406c94c52102fa69c7c8cf98310b90f72ea72a2cac72cbf",
+   "size": 243384
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_5_2_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_5_2_c.STL",
+   "sha256": "7f8af92be95e3dd37132149cbf386078e15f8ddf6baf001d9b8e9b865c1d975c",
+   "size": 209684
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_5_3_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_5_3_c.STL",
+   "sha256": "416a03ab0e0458af8b17bd9a76b6e80aa064e3613c54f7d771ec875422e74002",
+   "size": 157984
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_5_4_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_5_4_c.STL",
+   "sha256": "678bba523c444b84e8147308d4f94378a6a0826b3dae92aec0ecbbf1cfae30f6",
+   "size": 100784
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_5_tip_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_5_tip_c.STL",
+   "sha256": "758d8ac434b68d3caaf30941f76196e5dfd6516a87cdaa049d78bfb52e9d9176",
+   "size": 130984
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_base_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_base_c.STL",
+   "sha256": "0079a733da843c4addbc5535f3c45ca7a0ab13377791aa80a5f9b6ca4615d6b4",
+   "size": 193684
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_mount_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_mount_c.STL",
+   "sha256": "ede5b2172226b8ff44989a246fbb8dc6d0b3e25927819106368188fa0fd8d5cf",
+   "size": 56684
+  },
+  {
+   "path": "meshes/dg5f_right/collision/rl_dg_palm_c.STL",
+   "source": "dg5f_description/meshes/dg5f_right/collision/rl_dg_palm_c.STL",
+   "sha256": "d68094d28715f9310e49ccb137443b12adec058fa52ce31eea3bab1c65f4dc89",
+   "size": 572484
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_1_1.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_1_1.dae",
+   "sha256": "729f0c0ea0b990cb6cc226a29dddef67dc646ca64a14afa34517eef5a08f716e",
+   "size": 223124
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_1_2.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_1_2.dae",
+   "sha256": "927a9c74814b9e238aa1d31782ba24b8a94297b5d7d63d1e33698c6dde8a93a6",
+   "size": 302411
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_1_3.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_1_3.dae",
+   "sha256": "8239a9bd647383c97d26f8674cfc6e5bdd184a56c8cdfa03b29a087e3d8dfeee",
+   "size": 228093
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_1_4.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_1_4.dae",
+   "sha256": "6c9e3355695c7f0cff8e92da0ddedf8ac932a60f2356a5b239fb694792c84e55",
+   "size": 145795
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_1_tip.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_1_tip.dae",
+   "sha256": "4f0047d90ab49abfd52f070531640f87010ceb4e45a8186a18bc93868ebf532a",
+   "size": 198185
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_2_1.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_2_1.dae",
+   "sha256": "ce65fe36954bcdfbf2872a73d53174431082fe474c9f6845ea3aad5960032e4e",
+   "size": 345044
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_2_2.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_2_2.dae",
+   "sha256": "4a241d52f79fc76e660d8931ec4e5badb1196e92df070034d7447a17db9f3215",
+   "size": 228093
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_2_3.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_2_3.dae",
+   "sha256": "dd0755adae0f0abb98d7cf491c2640577119683dd48e0dca65d2890c6a4ad5da",
+   "size": 228108
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_2_4.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_2_4.dae",
+   "sha256": "6ba1524cc4ac9a3c008e22f8ff02f8f0ff377f6c3ee3a4464090ee46661d2a14",
+   "size": 198512
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_2_tip.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_2_tip.dae",
+   "sha256": "7ab989d1698a7e1b944e4ea93bfa796b5a019fbdea6fef2f89c014702dca74b1",
+   "size": 197751
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_3_1.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_3_1.dae",
+   "sha256": "56d0adb155212a96308c67c77f4b81628122a3aa7a4ae8550f09a0bfd337d0c0",
+   "size": 348357
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_3_2.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_3_2.dae",
+   "sha256": "4a241d52f79fc76e660d8931ec4e5badb1196e92df070034d7447a17db9f3215",
+   "size": 228093
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_3_3.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_3_3.dae",
+   "sha256": "dd0755adae0f0abb98d7cf491c2640577119683dd48e0dca65d2890c6a4ad5da",
+   "size": 228108
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_3_4.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_3_4.dae",
+   "sha256": "6ba1524cc4ac9a3c008e22f8ff02f8f0ff377f6c3ee3a4464090ee46661d2a14",
+   "size": 198512
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_3_tip.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_3_tip.dae",
+   "sha256": "7ab989d1698a7e1b944e4ea93bfa796b5a019fbdea6fef2f89c014702dca74b1",
+   "size": 197751
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_4_1.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_4_1.dae",
+   "sha256": "d4771199e264b5c66539558c098ddbce1160904919f92aaca3b340e6349082fc",
+   "size": 345366
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_4_2.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_4_2.dae",
+   "sha256": "4a241d52f79fc76e660d8931ec4e5badb1196e92df070034d7447a17db9f3215",
+   "size": 228093
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_4_3.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_4_3.dae",
+   "sha256": "dd0755adae0f0abb98d7cf491c2640577119683dd48e0dca65d2890c6a4ad5da",
+   "size": 228108
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_4_4.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_4_4.dae",
+   "sha256": "6ba1524cc4ac9a3c008e22f8ff02f8f0ff377f6c3ee3a4464090ee46661d2a14",
+   "size": 198512
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_4_tip.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_4_tip.dae",
+   "sha256": "7ab989d1698a7e1b944e4ea93bfa796b5a019fbdea6fef2f89c014702dca74b1",
+   "size": 197751
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_5_1.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_5_1.dae",
+   "sha256": "e0866f90b97fc35da4e867b37403e7f2c5511e6cebea801853957b7bbeca5108",
+   "size": 354054
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_5_2.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_5_2.dae",
+   "sha256": "8c4dea8436b0a33695e231d694b96d3bd8ea89862d47c9961d079749a63c7690",
+   "size": 303013
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_5_3.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_5_3.dae",
+   "sha256": "cdec918df65ac575985bda46bdf835aa72122e1d9c7e633f7b50e38a5f06a259",
+   "size": 228054
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_5_4.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_5_4.dae",
+   "sha256": "18a2d83948fa6843a2a4589e6f277f8655a8204aca534e63a0aaab27fced44eb",
+   "size": 145796
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_5_tip.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_5_tip.dae",
+   "sha256": "7ab989d1698a7e1b944e4ea93bfa796b5a019fbdea6fef2f89c014702dca74b1",
+   "size": 197751
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_base.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_base.dae",
+   "sha256": "72986ab91f8bd95a1797a6d68b0b643f06792bca49a4fa40de64f9df68bad981",
+   "size": 259883
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_mount.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_mount.dae",
+   "sha256": "9db210d4a67c2e122ffe7ed9635d99e50fc533a637921f88c098d73a6ce81a71",
+   "size": 71980
+  },
+  {
+   "path": "meshes/dg5f_right/visual/rl_dg_palm.dae",
+   "source": "dg5f_description/meshes/dg5f_right/visual/rl_dg_palm.dae",
+   "sha256": "8917e56b2c1deb604d6b0444b834cb787e09f9337e65ff074b73767ee87f9828",
+   "size": 837373
+  }
+ ]
+}

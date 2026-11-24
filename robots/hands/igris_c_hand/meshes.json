@@ -1,0 +1,66 @@
+{
+ "repo": "robrosinc/igris_c_description_public",
+ "commit": "8e7d9bcf14111229e9162bb25ef5193d23adf936",
+ "files": [
+  {
+   "path": "meshes/finger_distal.stl",
+   "source": "meshes/igris_c_end_effector/hand/finger_distal.stl",
+   "sha256": "597a3daa154285f2c6790c9c14d43ae728c3ea6d8a0b653cb1ab4c2d812a94ff",
+   "size": 29584
+  },
+  {
+   "path": "meshes/finger_middle.stl",
+   "source": "meshes/igris_c_end_effector/hand/finger_middle.stl",
+   "sha256": "2332627e958c432c52395c2b601f1a59e2710a56719263814126b0b7792af15e",
+   "size": 5084
+  },
+  {
+   "path": "meshes/l_palm.stl",
+   "source": "meshes/igris_c_end_effector/hand/l_palm.stl",
+   "sha256": "36ef7e9b5412e059563ef68121301f63c8625fea2319eb8d2e2a18f0aa4aded3",
+   "size": 603384
+  },
+  {
+   "path": "meshes/l_thumb_distal.stl",
+   "source": "meshes/igris_c_end_effector/hand/l_thumb_distal.stl",
+   "sha256": "14bfb5c7346882a1bdc6624aba139d178ba51b751e6cdc1d7b836494be1fd020",
+   "size": 5984
+  },
+  {
+   "path": "meshes/l_thumb_middle.stl",
+   "source": "meshes/igris_c_end_effector/hand/l_thumb_middle.stl",
+   "sha256": "12df239ccb4b20031b7b54c31ac06f0a1b8c56daf3fd55ba4ae9464606029aae",
+   "size": 7984
+  },
+  {
+   "path": "meshes/l_thumb_proximal.stl",
+   "source": "meshes/igris_c_end_effector/hand/l_thumb_proximal.stl",
+   "sha256": "455905c97a151c5ddfde8e8576c93a204300ce087d20f0eba029c23f685294d2",
+   "size": 15784
+  },
+  {
+   "path": "meshes/r_palm.stl",
+   "source": "meshes/igris_c_end_effector/hand/r_palm.stl",
+   "sha256": "df9333c0bc99035bd1140475ac8546430306bc018706807b6820ae7af48c6fee",
+   "size": 547184
+  },
+  {
+   "path": "meshes/r_thumb_distal.stl",
+   "source": "meshes/igris_c_end_effector/hand/r_thumb_distal.stl",
+   "sha256": "fd7c2d0a76edd42ea5371a257f7937222b84f23b77aff286b1a3bb36eebdab59",
+   "size": 5984
+  },
+  {
+   "path": "meshes/r_thumb_middle.stl",
+   "source": "meshes/igris_c_end_effector/hand/r_thumb_middle.stl",
+   "sha256": "803133e1154166028b5f503b86e036cef0a0025ad2baeb33397ac4c85a12c75a",
+   "size": 7984
+  },
+  {
+   "path": "meshes/r_thumb_proximal.stl",
+   "source": "meshes/igris_c_end_effector/hand/r_thumb_proximal.stl",
+   "sha256": "fd15d897b417b26e5454442140993d85ed95ddc211b4952f6d19ad6cc4c36dc9",
+   "size": 15884
+  }
+ ]
+}

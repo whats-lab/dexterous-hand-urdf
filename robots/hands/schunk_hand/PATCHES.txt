@@ -1,0 +1,1 @@
+Copied from https://github.com/dexsuite/dex-urdf @ f5e7132 (original upstream: https://github.com/SCHUNK-GmbH-Co-KG/schunk_svh_ros_driver); URDF unchanged; meshes are not stored here (see meshes.json).
