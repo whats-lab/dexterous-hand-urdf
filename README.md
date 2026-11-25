@@ -48,7 +48,6 @@ Interactive viewer: https://whats-lab.github.io/whatslab-sdk/
 | [RobotEra XHAND1 Pro U](robots/hands/robotera_xhand1_pro_u) | [RobotEra](https://www.robotera.com) | [xhand1-pro-u@d9c8dce](https://github.com/roboterax/xhand1-pro-u/tree/d9c8dce) | MIT | <img src="doc/preview/robotera_xhand1_pro_u_palm.webp" width="100"> <img src="doc/preview/robotera_xhand1_pro_u_back.webp" width="100"> |
 | [AgiBot OmniHand 2025](robots/hands/agibot_omnihand_2025) | [AgiBot](https://www.agibot.com) | [agilink_omnihand_description@ddd053c](https://github.com/AgibotTech/agilink_omnihand_description/tree/ddd053c) | Apache-2.0 | <img src="doc/preview/agibot_omnihand_2025_palm.webp" width="100"> <img src="doc/preview/agibot_omnihand_2025_back.webp" width="100"> |
 | [Rysen Apex Hand](robots/hands/rysen_apex_hand) | [Rysen Robotics](https://www.rysenbot.com/) | [rysen-description@7c9fb7d](https://github.com/RysenRobotics/rysen-description/tree/7c9fb7d) | Apache-2.0 | <img src="doc/preview/rysen_apex_hand_palm.webp" width="100"> <img src="doc/preview/rysen_apex_hand_back.webp" width="100"> |
-| [Proception ProHand Gen2](robots/hands/proception_prohand_gen2) | [Proception](https://proception.ai) | [pro-models@7a16524](https://github.com/Proception-AI/pro-models/tree/7a16524) | BSD-3-Clause (URDF), proprietary (meshes) | — |
 
 Per-hand changes are listed in each folder's `PATCHES.txt`.
 
@@ -68,4 +67,3 @@ path = dexhand_description.hand_dir("leap_hand")
 
 `hand_dir` returns the cached hand folder (URDFs with the meshes at their relative paths) or `None` if a download or sha256 check failed.
 
-Hands whose `meshes.json` has `"redistribute": false` (see the hand's `MESHES-LICENSE`) are downloaded from upstream with a warning; their meshes must not be rehosted.
