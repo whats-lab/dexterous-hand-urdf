@@ -1,0 +1,942 @@
+{
+ "repo": "aidinrobotics/aidin-hand2-ros2",
+ "commit": "835108b656570d25f016adf0a66ceb75a0200c97",
+ "files": [
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_baby_link1.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_baby_link1.STL",
+   "sha256": "e4775e398b0c522aa7a257a9853f27a26e5fd638f92a8fa3657b1451420af00f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_baby_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_baby_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_baby_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_baby_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_baby_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_baby_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_baby_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_baby_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_baby_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_baby_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_baby_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_baby_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_hand_base_link.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_hand_base_link.STL",
+   "sha256": "1aac88e16536bf0685e18a8140e0469688d6b57362344380b86e044aab529829",
+   "size": 7580784
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_index_link1.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_index_link1.STL",
+   "sha256": "e4775e398b0c522aa7a257a9853f27a26e5fd638f92a8fa3657b1451420af00f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_index_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_index_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_index_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_index_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_index_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_index_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_index_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_index_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_index_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_index_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_index_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_index_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_middle_link1.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_middle_link1.STL",
+   "sha256": "e4775e398b0c522aa7a257a9853f27a26e5fd638f92a8fa3657b1451420af00f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_middle_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_middle_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_middle_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_middle_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_middle_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_middle_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_middle_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_middle_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_middle_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_middle_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_middle_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_middle_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_palm1_tactile_link.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_palm1_tactile_link.STL",
+   "sha256": "0a36cf71d60b1b5b0716bb48843b79786e0e3c7aa8ed36df8028c029dd4dfb12",
+   "size": 118434
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_palm2_tactile_link.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_palm2_tactile_link.STL",
+   "sha256": "11d0233ea7f7b24dc37168ed0529775b7359ac25cb3acd3a2696671fd344c41b",
+   "size": 104834
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_ring_link1.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_ring_link1.STL",
+   "sha256": "e4775e398b0c522aa7a257a9853f27a26e5fd638f92a8fa3657b1451420af00f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_ring_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_ring_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_ring_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_ring_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_ring_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_ring_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_ring_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_ring_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_ring_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_ring_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_ring_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_ring_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_thumb_link0.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_thumb_link0.STL",
+   "sha256": "ed19de172930063d689d92dcd8e883f94b8bfc673a3d1afc528861e3973f1179",
+   "size": 1011084
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_thumb_link1.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_thumb_link1.STL",
+   "sha256": "ff0d77d74506e5a3a1b95630282f7ee8874e03d4ce4557c95c02d48ba07139eb",
+   "size": 279484
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_thumb_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_thumb_link2.STL",
+   "sha256": "8ba1d3f09ce50d837a7665324e3d70946730a368d35872cc11c8ce3cb822d9b0",
+   "size": 4741084
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_thumb_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_thumb_link3.STL",
+   "sha256": "3474501a9fd7494ced251c2bfb02240e3b029ff208f2d95b371e6be1376c783e",
+   "size": 992734
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_thumb_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_thumb_link4.STL",
+   "sha256": "766f35d2388c1d367a44b0821eb6baf02ad7c463e01331d0baa084e425b0e6ee",
+   "size": 256384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_thumb_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_thumb_tactile_link2.STL",
+   "sha256": "2fa1915d376918080a30ea35beabd00f1078677d4c7528704e4f471e93a24ab5",
+   "size": 45584
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_thumb_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_thumb_tactile_link3.STL",
+   "sha256": "e50a4c1368b6dce87b0af81897a2680a8fcbe8810aa7afb74c20d2b2dc9c3b69",
+   "size": 20684
+  },
+  {
+   "path": "meshes/left_aidin_hand2/collision/left_thumb_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/collision/left_thumb_tactile_link4.STL",
+   "sha256": "959abe1ddadf80477df2f0482624b37668737c38c61cea4ff91ddc9af5b776fd",
+   "size": 93084
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_baby_link1.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_baby_link1.STL",
+   "sha256": "e4775e398b0c522aa7a257a9853f27a26e5fd638f92a8fa3657b1451420af00f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_baby_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_baby_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_baby_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_baby_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_baby_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_baby_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_baby_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_baby_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_baby_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_baby_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_baby_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_baby_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_hand_base_link.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_hand_base_link.STL",
+   "sha256": "1aac88e16536bf0685e18a8140e0469688d6b57362344380b86e044aab529829",
+   "size": 7580784
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_index_link1.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_index_link1.STL",
+   "sha256": "e4775e398b0c522aa7a257a9853f27a26e5fd638f92a8fa3657b1451420af00f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_index_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_index_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_index_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_index_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_index_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_index_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_index_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_index_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_index_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_index_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_index_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_index_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_middle_link1.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_middle_link1.STL",
+   "sha256": "e4775e398b0c522aa7a257a9853f27a26e5fd638f92a8fa3657b1451420af00f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_middle_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_middle_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_middle_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_middle_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_middle_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_middle_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_middle_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_middle_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_middle_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_middle_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_middle_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_middle_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_palm1_tactile_link.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_palm1_tactile_link.STL",
+   "sha256": "0a36cf71d60b1b5b0716bb48843b79786e0e3c7aa8ed36df8028c029dd4dfb12",
+   "size": 118434
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_palm2_tactile_link.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_palm2_tactile_link.STL",
+   "sha256": "11d0233ea7f7b24dc37168ed0529775b7359ac25cb3acd3a2696671fd344c41b",
+   "size": 104834
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_ring_link1.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_ring_link1.STL",
+   "sha256": "e4775e398b0c522aa7a257a9853f27a26e5fd638f92a8fa3657b1451420af00f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_ring_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_ring_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_ring_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_ring_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_ring_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_ring_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_ring_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_ring_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_ring_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_ring_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_ring_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_ring_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_thumb_link0.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_thumb_link0.STL",
+   "sha256": "ed19de172930063d689d92dcd8e883f94b8bfc673a3d1afc528861e3973f1179",
+   "size": 1011084
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_thumb_link1.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_thumb_link1.STL",
+   "sha256": "ff0d77d74506e5a3a1b95630282f7ee8874e03d4ce4557c95c02d48ba07139eb",
+   "size": 279484
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_thumb_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_thumb_link2.STL",
+   "sha256": "8ba1d3f09ce50d837a7665324e3d70946730a368d35872cc11c8ce3cb822d9b0",
+   "size": 4741084
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_thumb_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_thumb_link3.STL",
+   "sha256": "3474501a9fd7494ced251c2bfb02240e3b029ff208f2d95b371e6be1376c783e",
+   "size": 992734
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_thumb_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_thumb_link4.STL",
+   "sha256": "766f35d2388c1d367a44b0821eb6baf02ad7c463e01331d0baa084e425b0e6ee",
+   "size": 256384
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_thumb_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_thumb_tactile_link2.STL",
+   "sha256": "2fa1915d376918080a30ea35beabd00f1078677d4c7528704e4f471e93a24ab5",
+   "size": 45584
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_thumb_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_thumb_tactile_link3.STL",
+   "sha256": "e50a4c1368b6dce87b0af81897a2680a8fcbe8810aa7afb74c20d2b2dc9c3b69",
+   "size": 20684
+  },
+  {
+   "path": "meshes/left_aidin_hand2/visual/left_thumb_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/left_aidin_hand2/visual/left_thumb_tactile_link4.STL",
+   "sha256": "959abe1ddadf80477df2f0482624b37668737c38c61cea4ff91ddc9af5b776fd",
+   "size": 93084
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_baby_link1.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_baby_link1.STL",
+   "sha256": "d526f2caadfc309122b1125401f620684e9e05543ae5090ad4dad9becea65d1f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_baby_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_baby_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_baby_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_baby_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_baby_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_baby_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_baby_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_baby_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_baby_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_baby_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_baby_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_baby_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_hand_base_link.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_hand_base_link.STL",
+   "sha256": "17e7d14f9861d24427c1b6a003cea8753f328af34ccf5eecf8ca6ea2b63cc7df",
+   "size": 7727634
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_index_link1.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_index_link1.STL",
+   "sha256": "d526f2caadfc309122b1125401f620684e9e05543ae5090ad4dad9becea65d1f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_index_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_index_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_index_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_index_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_index_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_index_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_index_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_index_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_index_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_index_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_index_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_index_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_middle_link1.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_middle_link1.STL",
+   "sha256": "d526f2caadfc309122b1125401f620684e9e05543ae5090ad4dad9becea65d1f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_middle_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_middle_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_middle_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_middle_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_middle_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_middle_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_middle_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_middle_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_middle_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_middle_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_middle_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_middle_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_palm1_tactile_link.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_palm1_tactile_link.STL",
+   "sha256": "0a36cf71d60b1b5b0716bb48843b79786e0e3c7aa8ed36df8028c029dd4dfb12",
+   "size": 118434
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_palm2_tactile_link.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_palm2_tactile_link.STL",
+   "sha256": "a98025c5f612495fb872cbcc741772619a44c74d15194bf4ec02f394a46e2802",
+   "size": 104634
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_ring_link1.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_ring_link1.STL",
+   "sha256": "d526f2caadfc309122b1125401f620684e9e05543ae5090ad4dad9becea65d1f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_ring_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_ring_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_ring_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_ring_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_ring_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_ring_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_ring_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_ring_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_ring_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_ring_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_ring_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_ring_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_thumb_link0.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_thumb_link0.STL",
+   "sha256": "114b134677f516eefdd297179a6edd44114e901a946959bb822e9706ae62debb",
+   "size": 1034184
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_thumb_link1.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_thumb_link1.STL",
+   "sha256": "dc6cba1465b476ef801fd4dd133a49a585fc5b3dea903d6392d40a113a99cfd4",
+   "size": 279484
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_thumb_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_thumb_link2.STL",
+   "sha256": "f5a8f0e10e9f4ea1cb1a382c25ca980da19ff4321f146cc30dc21cec9b87d9d6",
+   "size": 4741084
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_thumb_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_thumb_link3.STL",
+   "sha256": "3474501a9fd7494ced251c2bfb02240e3b029ff208f2d95b371e6be1376c783e",
+   "size": 992734
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_thumb_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_thumb_link4.STL",
+   "sha256": "766f35d2388c1d367a44b0821eb6baf02ad7c463e01331d0baa084e425b0e6ee",
+   "size": 256384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_thumb_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_thumb_tactile_link2.STL",
+   "sha256": "2fa1915d376918080a30ea35beabd00f1078677d4c7528704e4f471e93a24ab5",
+   "size": 45584
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_thumb_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_thumb_tactile_link3.STL",
+   "sha256": "e50a4c1368b6dce87b0af81897a2680a8fcbe8810aa7afb74c20d2b2dc9c3b69",
+   "size": 20684
+  },
+  {
+   "path": "meshes/right_aidin_hand2/collision/right_thumb_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/collision/right_thumb_tactile_link4.STL",
+   "sha256": "959abe1ddadf80477df2f0482624b37668737c38c61cea4ff91ddc9af5b776fd",
+   "size": 93084
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_baby_link1.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_baby_link1.STL",
+   "sha256": "d526f2caadfc309122b1125401f620684e9e05543ae5090ad4dad9becea65d1f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_baby_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_baby_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_baby_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_baby_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_baby_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_baby_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_baby_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_baby_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_baby_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_baby_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_baby_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_baby_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_hand_base_link.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_hand_base_link.STL",
+   "sha256": "17e7d14f9861d24427c1b6a003cea8753f328af34ccf5eecf8ca6ea2b63cc7df",
+   "size": 7727634
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_index_link1.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_index_link1.STL",
+   "sha256": "d526f2caadfc309122b1125401f620684e9e05543ae5090ad4dad9becea65d1f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_index_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_index_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_index_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_index_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_index_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_index_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_index_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_index_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_index_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_index_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_index_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_index_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_middle_link1.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_middle_link1.STL",
+   "sha256": "d526f2caadfc309122b1125401f620684e9e05543ae5090ad4dad9becea65d1f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_middle_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_middle_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_middle_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_middle_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_middle_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_middle_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_middle_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_middle_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_middle_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_middle_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_middle_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_middle_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_palm1_tactile_link.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_palm1_tactile_link.STL",
+   "sha256": "0a36cf71d60b1b5b0716bb48843b79786e0e3c7aa8ed36df8028c029dd4dfb12",
+   "size": 118434
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_palm2_tactile_link.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_palm2_tactile_link.STL",
+   "sha256": "a98025c5f612495fb872cbcc741772619a44c74d15194bf4ec02f394a46e2802",
+   "size": 104634
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_ring_link1.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_ring_link1.STL",
+   "sha256": "d526f2caadfc309122b1125401f620684e9e05543ae5090ad4dad9becea65d1f",
+   "size": 285284
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_ring_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_ring_link2.STL",
+   "sha256": "902c0eff9e512c0848238d96d610c7a496cac45e504264cd9e421af2fee2e753",
+   "size": 785534
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_ring_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_ring_link3.STL",
+   "sha256": "aaa7a55800e5a8bc7dce9756717ba9eafaccc1d5768498b722f66895fb68bd0d",
+   "size": 454834
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_ring_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_ring_link4.STL",
+   "sha256": "18a81519d346e9f7dd3605a66df1816035c3e23aa1e28d15ea2e26dbd513215d",
+   "size": 353384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_ring_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_ring_tactile_link2.STL",
+   "sha256": "d432a7d0e5ca92aeeb34543e640f59debc93ccb38acd299d254796619031d5a1",
+   "size": 19884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_ring_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_ring_tactile_link3.STL",
+   "sha256": "e4aaa04a91e375eb9eda19cf5eafd380efcf34c339fd0d520d1104f284bf1bf3",
+   "size": 21384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_ring_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_ring_tactile_link4.STL",
+   "sha256": "c9f7f75e63dbd38d0769d3b7ba97f6b1fb1158c05d6c263460e5cbd484cafeb4",
+   "size": 89884
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_thumb_link0.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_thumb_link0.STL",
+   "sha256": "114b134677f516eefdd297179a6edd44114e901a946959bb822e9706ae62debb",
+   "size": 1034184
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_thumb_link1.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_thumb_link1.STL",
+   "sha256": "dc6cba1465b476ef801fd4dd133a49a585fc5b3dea903d6392d40a113a99cfd4",
+   "size": 279484
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_thumb_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_thumb_link2.STL",
+   "sha256": "f5a8f0e10e9f4ea1cb1a382c25ca980da19ff4321f146cc30dc21cec9b87d9d6",
+   "size": 4741084
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_thumb_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_thumb_link3.STL",
+   "sha256": "3474501a9fd7494ced251c2bfb02240e3b029ff208f2d95b371e6be1376c783e",
+   "size": 992734
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_thumb_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_thumb_link4.STL",
+   "sha256": "766f35d2388c1d367a44b0821eb6baf02ad7c463e01331d0baa084e425b0e6ee",
+   "size": 256384
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_thumb_tactile_link2.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_thumb_tactile_link2.STL",
+   "sha256": "2fa1915d376918080a30ea35beabd00f1078677d4c7528704e4f471e93a24ab5",
+   "size": 45584
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_thumb_tactile_link3.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_thumb_tactile_link3.STL",
+   "sha256": "e50a4c1368b6dce87b0af81897a2680a8fcbe8810aa7afb74c20d2b2dc9c3b69",
+   "size": 20684
+  },
+  {
+   "path": "meshes/right_aidin_hand2/visual/right_thumb_tactile_link4.STL",
+   "source": "aidin_hand2_description/meshes/right_aidin_hand2/visual/right_thumb_tactile_link4.STL",
+   "sha256": "959abe1ddadf80477df2f0482624b37668737c38c61cea4ff91ddc9af5b776fd",
+   "size": 93084
+  }
+ ]
+}
